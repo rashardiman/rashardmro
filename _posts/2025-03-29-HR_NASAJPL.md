@@ -8,7 +8,18 @@ image: PIA26080_modest.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+@RepKarenBass
+ #imstillinjured and @jopsempi has this documentary with #ReBranded 
+@nasa
+! and I'm running for my life 
+@nasajpl
+! 
+@EastLALASD
+ please help iron out my #LibraryPRivledges 
+@normani
+ a stripper here and I'm being hurt and cant work bc #idontlikePorn
 
+ ![NASAinDUSTRY](https://pbs.twimg.com/media/GVNzAaGbQAAwAfi?format=jpg&name=large)
 
 # RE: AtlantaGraffiti @nasa @whitehouse @nasa-jpl @blackgirlscode
 please look over this page [GraffShit](https://ricothaka.github.io/GraffShit) on my dev account [RicoThaka](https://github.com/ricothaka) i dont think i did anything deserving of  ticket! 
