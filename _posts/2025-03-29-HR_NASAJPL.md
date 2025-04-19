@@ -8,6 +8,15 @@ image: PIA26080_modest.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+# RE: AtlantaGraffiti @nasa @whitehouse @nasa-jpl @blackgirlscode
+please look over this page [GraffShit](https://ricothaka.github.io/GraffShit) on my dev account [RicoThaka](https://github.com/ricothaka) i dont think i did anything deserving of  ticket! 
+
+![RashardiMANKelly_Writes_TUCK_someTimestokeep up with friends](https://pbs.twimg.com/media/GYRLYbVagAAWViB?format=jpg&name=large)
+![Me in east atlanta](https://pbs.twimg.com/media/Go7aAVNb0AA-OMQ?format=jpg&name=large)
+![DojaCat as in the dance class](https://pbs.twimg.com/media/GXtGFVgakAEotID?format=jpg&name=large)
+
 # COMPENSATION PLAN FOR DEPARTMENT OF WATER AND POWER
   [![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG) I know u moonlight with [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP) at time, r u getting your compensation ? [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
   [RelatedTweet](https://x.com/RicoThaka/status/1907617772881969497) [FuLL_DoC - Sec. 4.900.1. Adoption of the Compensation Plan for Department of Water and Power.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-14141) @CityOfLosAngeles [Welcome to the Los Angeles Aqueduct - Real Time Data](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm) [Los Angeles River - The Unpredictable! - https://waterandpower.org/](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [The Key to California’s Survival Is Hidden Underground -wired.com](https://www.wired.com/story/the-key-to-californias-survival-is-hidden-underground/) *WATER IS URBAN*  [The @GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
