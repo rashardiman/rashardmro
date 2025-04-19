@@ -11,7 +11,7 @@ tags: covid
 
 # Covid BrainDumP
 
-
+![SPRAY](https://pbs.twimg.com/media/GXYMPs1bQAAmF_L?format=jpg&name=large) [RELATED](https://x.com/MooNLOVER404/status/1834668119840981019)
 # Covid Mental Roster?
 [TheWeekNd?](https://x.com/RicoThaka/status/1730823586204799197)
 # EUROPEAN PATENT SPECIFICATION
