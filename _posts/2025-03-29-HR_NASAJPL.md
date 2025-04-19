@@ -15,7 +15,7 @@ please look over this page [GraffShit](https://ricothaka.github.io/GraffShit) on
 
 ![RashardiMANKelly_Writes_TUCK_someTimestokeep up with friends](https://pbs.twimg.com/media/GYRLYbVagAAWViB?format=jpg&name=large)
 ![Me in east atlanta](https://pbs.twimg.com/media/Go7aAVNb0AA-OMQ?format=jpg&name=large)
-![DojaCat as in the dance class](https://pbs.twimg.com/media/GXtGFVgakAEotID?format=jpg&name=large)
+![DojaCat as in the dance class](https://pbs.twimg.com/media/GXtGFVgakAEotID?format=jpg&name=large) [RELATEDTWEET](https://x.com/MooNLOVER404/status/1836138373297418476)
 
 # COMPENSATION PLAN FOR DEPARTMENT OF WATER AND POWER
   [![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG) I know u moonlight with [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP) at time, r u getting your compensation ? [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
@@ -123,6 +123,8 @@ Rape can be categorized in different ways: for example, by reference to the situ
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> she kept me from committing suidice <a href="https://twitter.com/hashtag/ThatsNormani?src=hash&amp;ref_src=twsrc%5Etfw">#ThatsNormani</a> <a href="https://twitter.com/Playboy?ref_src=twsrc%5Etfw">@playboy</a> got hacked an she might be dead <a href="https://twitter.com/hashtag/BADDiES?src=hash&amp;ref_src=twsrc%5Etfw">#BADDiES</a> Los Angeles, In The Streets - Episode 5 <a href="https://t.co/Q28sNoc70S">https://t.co/Q28sNoc70S</a> <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> the way she interacts I had no way to know she was a <a href="https://twitter.com/hashtag/SexSlave?src=hash&amp;ref_src=twsrc%5Etfw">#SexSlave</a> she was wit <a href="https://twitter.com/katyperry?ref_src=twsrc%5Etfw">@katyperry</a> <a href="https://t.co/n0RCkxoyjI">pic.twitter.com/n0RCkxoyjI</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1883317419839791116?ref_src=twsrc%5Etfw">January 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+![time](https://pbs.twimg.com/media/GXYLZMfbcAAkurT?format=jpg&name=large)
 ## [Date Rape](https://en.wikipedia.org/wiki/Types_of_rape#Date_rape)
 The term "date rape" is used to refer to several types of rape, broadly acquaintance rape, which is a non-domestic rape committed by someone who knows the victim,[1] and drug facilitated sexual assault ([DFSA](https://en.wikipedia.org/wiki/Drug-facilitated_sexual_assault#Frequency_of_occurrence)), where the rapist intentionally drugs the victim with a date rape drug so that they are incapacitated...[ReadMore](https://en.wikipedia.org/wiki/Types_of_rape#Date_rape)
 
