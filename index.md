@@ -18,6 +18,22 @@ mermaid: true
  
 </div> 
 
+# Dear_Mayor_Bass
+@Noaa is one of the federal agencies that contracts us for AeroSpace work here in [LA_COuntY](@cityoflosangeles) an they are introuble according to some news i read... so i started building quick facts so we can have our budget secured @whitehouse @nasa @nasa-jpl
+<picture>
+  <source srcset="hhttps://ia601509.us.archive.org/20/items/noaa_fundingwide/noaa_funding.jpg" media="(orientation: portrait)" />
+  <source srcset="https://archive.org/download/noaa_fundingwide/noaa_fundingwide.jpg" media="(orientation: landscape)" />
+  <img src="https://archive.org/download/noaa_fundingwide/noaa_fundingwide.jpg" alt="JUMPiNGFLASH" />
+</picture>
+
+### White House Plan Calls for NOAA Research Programs to Be Dismantled
+
+>A Trump administration budget proposal would essentially eliminate one of the world’s foremost Earth sciences research operations. [NTYiMES](https://www.nytimes.com/2025/04/11/climate/noaa-research-budget-cuts.html)
+
+[RelatedTweet](https://x.com/RicoThaka/status/1912331578128363579) [RelatedTweet](https://x.com/RicoThaka/status/1912332218095268182)
+[NOAA_LANDinG_holetoanotherunivers~>](https://ricothaka.github.io/rashardmro/2025/04/18/NOAA.html)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass)
 
 [MODiS](https://modis.gsfc.nasa.gov/)
 MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (originally known as EOS AM-1) and Aqua (originally known as EOS PM-1) satellites. Terra’s orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. [Noaa](https://coastwatch.glerl.noaa.gov/satellite-data-products/modis/)
