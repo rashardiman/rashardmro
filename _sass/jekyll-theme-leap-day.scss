@@ -113,8 +113,8 @@ overflow-y: auto;
 
 
 section img {
-  max-height: 500px;
-  max-width: 100%;
+  height: auto;
+  
   }
 
 
@@ -198,7 +198,7 @@ p:first-of-type {
 
 img {
 
-  max-height: min-content;
+
   max-width: 100%;
   display: block;
 }
