@@ -5,11 +5,17 @@ published: true
 title: Mars Tools
 image: PIA26080_modest.jpg
 ---
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Opportunity        |   [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/)  | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
 
 
 # RoverInventory
 | Year | Rover| HomePAge
-| --- | --- | --- |
+| ---- | ------------- | ---- |
 | xxxx | Opportunity | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
 | xxxx | Spirit | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/) |
 | xxxx | Curiosity | [Info](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) |
