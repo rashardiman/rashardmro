@@ -14,7 +14,7 @@ image: PIA26080_modest.jpg
 
 
 # RoverInventory
-| Year | Rover| HomePAge
+| Year | Rover| HomePAge |
 | ---- | ------------- | ---- |
 | xxxx | Opportunity | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
 | xxxx | Spirit | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/) |
