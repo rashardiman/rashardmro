@@ -18,6 +18,9 @@ mermaid: true
  
 </div> 
 
+
+
+
 ![MESSENGER Mercury Surface, Space Environment, Geochemistry and Ranging](https://messenger.jhuapl.edu/images/template/messenger_logo.png)
 [nasa.gov - MESSENGER](https://science.nasa.gov/mission/messenger/) [MErcury](https://photojournal.jpl.nasa.gov/targetFamily/mercury) Surface, Space ENvironment, GEochemistry, and Ranging [Wiki - @JHUAPL](https://en.wikipedia.org/wiki/Talk:MESSENGER) [MESSENGER – From Setbacks to Success](https://www.nasa.gov/history/messenger-from-setbacks-to-success/) Explore the surface of Mercury, investigate named craters and other features, see featured MESSENGER images, and take guided tours of the latest Mercury research in the [Google Earth interface](https://messenger.jhuapl.edu/Explore/Mercury-Google-Earth.html).
 
@@ -36,7 +39,13 @@ mermaid: true
 
 
 # Dear_Mayor_Bass
-@Noaa is one of the federal agencies that contracts us for AeroSpace work here in [LA_COuntY](@cityoflosangeles) an they are introuble according to some news i read... so i started building quick facts so we can have our budget secured @whitehouse @nasa @nasa-jpl
+@Noaa is one of the federal agencies that contracts us for AeroSpace work here in [LA_COuntY](@cityoflosangeles) an they are introuble according to some news i read... so i started building quick facts so we can have our budget secured @whitehouse @nasa @nasa-jpl [Look at some of our work @nasa-jpl ](https://ricothaka.github.io/rashardmro/2025/04/18/NOAA.html) @erinsteiner-NOAA i made this page bc i read a lot of press about us being [defunded](https://www.nasa.gov/centers-and-facilities/jpl/nasa-noaa-tech-will-aid-marine-oil-spill-response/)
+### NOAA Works with NASA JPL to Explore Mitigation of Data Corrupting Radio Frequency Emissions
+On Sept. 10, NOAA awarded a $1,092,689 contract to Jet Propulsion Laboratory (JPL), of Pasadena, Calif., to explore and then deliver a report on potential measures to detect, identify, characterize and mitigate the corruption of radio frequency (RF) bands used for passive sensing by Earth observing satellites. [READMORE](https://www.nesdis.noaa.gov/news/noaa-works-nasa-jpl-explore-mitigation-of-data-corrupting-radio-frequency-emissions)
+### NASA-NOAA Tech Will Aid Marine Oil Spill Response
+An oil slick from naturally occurring oil seeps off the coast of Santa Barbara, California. The Marine Oil Spill Thickness (MOST) project is using these natural seeps to test technology that can detect the thickest oil in a slick during an oil spill emergency.
+Credits: NASA/JPL-Caltech
+![oil](https://www.nasa.gov/wp-content/uploads/2021/12/1-pia23699-sb-oil-slick-1041.jpg)
 <picture>
   <source srcset="hhttps://ia601509.us.archive.org/20/items/noaa_fundingwide/noaa_funding.jpg" media="(orientation: portrait)" />
   <source srcset="https://archive.org/download/noaa_fundingwide/noaa_fundingwide.jpg" media="(orientation: landscape)" />
