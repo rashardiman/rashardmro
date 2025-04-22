@@ -18,6 +18,19 @@ mermaid: true
  
 </div> 
 
+
+
+<style>
+.whitebg {background-color:white;}
+</style>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+
+
 # Dear_Mayor_Bass
 @Noaa is one of the federal agencies that contracts us for AeroSpace work here in [LA_COuntY](@cityoflosangeles) an they are introuble according to some news i read... so i started building quick facts so we can have our budget secured @whitehouse @nasa @nasa-jpl
 <picture>
