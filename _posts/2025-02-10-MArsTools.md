@@ -40,7 +40,10 @@ science mission. The orbit changing was accomplished through a process called ae
 participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
-# Viking Lander 1 EDR Image Browser
+# Viking 1
+The [first spacecraft](https://www.whitehouse.gov/) to successfully land [on](https://www.mid.ru/en/main_en) Mars, Viking 1 was part of [a](https://www.esa.int/Education) two-part mission to investigate the Red Planet and search for signs of life.
+
+## Viking Lander 1 EDR Image Browser
 [Browse Image Directories](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/index.htm)
 ![a0xx/12a010b4.gif](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/image/a0xx/12a010b4.gif)
 
