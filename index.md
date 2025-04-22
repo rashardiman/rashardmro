@@ -43,8 +43,9 @@ mermaid: true
 ### NOAA Works with NASA JPL to Explore Mitigation of Data Corrupting Radio Frequency Emissions
 On Sept. 10, NOAA awarded a $1,092,689 contract to Jet Propulsion Laboratory (JPL), of Pasadena, Calif., to explore and then deliver a report on potential measures to detect, identify, characterize and mitigate the corruption of radio frequency (RF) bands used for passive sensing by Earth observing satellites. [READMORE](https://www.nesdis.noaa.gov/news/noaa-works-nasa-jpl-explore-mitigation-of-data-corrupting-radio-frequency-emissions)
 ### NASA-NOAA Tech Will Aid Marine Oil Spill Response
-An oil slick from naturally occurring oil seeps off the coast of Santa Barbara, California. The Marine Oil Spill Thickness (MOST) project is using these natural seeps to test technology that can detect the thickest oil in a slick during an oil spill emergency.
+An oil slick from naturally occurring oil seeps off the coast of [Santa Barbara, California](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=California&city=Santa_Barbara). The [Marine Oil Spill Thickness](https://blog.response.restoration.noaa.gov/how-thick-oil-slick) (MOST) project is using these natural seeps to test technology that can detect the thickest oil in a slick during an oil spill emergency.
 Credits: NASA/JPL-Caltech
+![MOST](https://blog.response.restoration.noaa.gov/sites/default/files/inline-images/pasted%20image%200%20%2827%29.png)
 ![oil](https://www.nasa.gov/wp-content/uploads/2021/12/1-pia23699-sb-oil-slick-1041.jpg)
 <picture>
   <source srcset="hhttps://ia601509.us.archive.org/20/items/noaa_fundingwide/noaa_funding.jpg" media="(orientation: portrait)" />
