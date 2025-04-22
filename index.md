@@ -18,6 +18,10 @@ mermaid: true
  
 </div> 
 
+![MESSENGER Mercury Surface, Space Environment, Geochemistry and Ranging](https://messenger.jhuapl.edu/images/template/messenger_logo.png)
+[nasa.gov - MESSENGER](https://science.nasa.gov/mission/messenger/) [MErcury](https://photojournal.jpl.nasa.gov/targetFamily/mercury) Surface, Space ENvironment, GEochemistry, and Ranging [Wiki - @JHUAPL](https://en.wikipedia.org/wiki/Talk:MESSENGER) [MESSENGER – From Setbacks to Success](https://www.nasa.gov/history/messenger-from-setbacks-to-success/) Explore the surface of Mercury, investigate named craters and other features, see featured MESSENGER images, and take guided tours of the latest Mercury research in the [Google Earth interface](https://messenger.jhuapl.edu/Explore/Mercury-Google-Earth.html).
+
+[Messenger - Earth Departure Movie](https://messenger.jhuapl.edu/Explore/media/videos/mdis_depart.mpeg)
 
 
 <style>
