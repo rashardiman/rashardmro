@@ -52,10 +52,12 @@ mermaid: true
 MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (originally known as EOS AM-1) and Aqua (originally known as EOS PM-1) satellites. Terra’s orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. [Noaa](https://coastwatch.glerl.noaa.gov/satellite-data-products/modis/)
 ![TERRA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Terra_spacecraft_model.png/1664px-Terra_spacecraft_model.png)
 
+
+
+<img src="https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/images/worknotes03/cellNotes.png" />
+
 # Dear_Mayor_Bass
-
-<img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/worknotes03/erikaDeadorcoralNormaniahooker.png">
-
 Its Rashard @nasa-jpl. I am offline tomorrow bc of [cesar chavez day](https://www.lapl.org/collections-resources/blogs/lapl/tags/cesar%20chavez) I have been seeing a lot of printed media suggesting that you were dishonest during the fires. If you were in Ghana, rememeber i have an african girlfriend that calls me her husband from ethiopia an know u may be handling a [rape](https://ricothaka.github.io/rape). You sat next to me at Cahuenga an i had recentley reached out over TWitter. Here is a [CoralSample](https://x.com/RicoThaka/status/1903525815771607413) i found in [LongBeach](https://www.longbeach.gov/library). Here are some NewsPaper articles i scanned with positive and negative [gossip](https://x.com/RicoThaka/status/1906482746505228331) [Related](https://x.com/RicoThaka/status/1895910532546511179)
 ![o](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/image%20(1)-1.png)
 
