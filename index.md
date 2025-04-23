@@ -18,19 +18,55 @@ mermaid: true
  
 </div> 
 
+
+[EXPLORER1](https://explorer1.jpl.nasa.gov/)
+![world](https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg) 
+![Earth](https://explorer1.jpl.nasa.gov/assets/images/galleries/1966_LOIRP_289764main_GPN-2000-001588_full.jpeg)
+![EARTH](https://explorer1.jpl.nasa.gov/assets/images/galleries/1947_316209main_smallsteps-v2_full.jpeg)
+![EARTH @nasa](https://www.nasa.gov/wp-content/uploads/2025/04/2025-nasa-earth-day-poster-30x15-print-resolution.jpg)
+## Earth Rotation from Galileo Imagery: 3600 x Real-Time [JPL](https://www.jpl.nasa.gov/galileo/index.html)
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the Galileo spacecraft during a close pass of the Earth on December 11-12, 1990
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001372/a001372.00095_print.png" >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" >
+webm</a>
+  video.
+</video>
+
+
 `Nagin Cox grew up hearing that girls were "worthless"-so she set her sights on NASA and never looked back.` - [ReadHerStory](https://www.jpl.nasa.gov/news/fight-and-flight-one-womans-fearless-journey-to-the-stars/) [MAliBuTimEs](https://malibutimes.com/scientist-engineer-nagin-cox-shares-journey-to-mars-for-the-malibu-library-speaker-series)
 [Nagin Cox](https://www.nagincox.org/about) in [`All About Space`](https://onlineobservatory.eu/wp-content/uploads/2021/03/TheHuntForMartianLife.pdf) [MRO 10Year Anniversary Issue](https://onlineobservatory.eu/wp-content/uploads/2021/03/MarsReconnaissanceOrbiter.pdf)
+
+
+![Curiosity](https://upload.wikimedia.org/wikipedia/commons/6/6f/Perseverance_rover_design.png)
+
 <div class="tupperware" markdown="1">
 <figure>
  <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" > 
  <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Mar22 Schema Test</a></figcaption>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
 </figure>
   
   <figure>
  <a href="https://archive.org/details/image-01_202504/image-02.png" > 
  <img src="https://archive.org/details/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Curiosity: The First10years</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://archive.org/details/image-01_202504/image-05.png" > 
+ <img src="https://archive.org/details/image-01_202504/image-05.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl"> Curiosity: The First10years</a></figcaption>
 </figure>
  
 </div>
@@ -44,7 +80,8 @@ mermaid: true
 
 ![OPeNDAP](https://opendap.github.io/documentation/images/OPeNDAP-Logo-red.svg)
 ### Commute
-[MiA-SteppinUp](https://youtu.be/rcYhNEffVMs) [Blazay Balzay - Danger](https://youtu.be/x7uJzdu7Pak?si=LBhCEBoEwJ4CnvR1) [Fugees [feat. A Tribe Called Quest & Busta Rhymes] - Rumble In The Jungle ](https://youtu.be/Ok6fmRt6MvU?si=dCtayHhGWhUmjFwm) [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn](https://youtu.be/a2pzmty3LVs?si=171yoroMclhues_J) [Group Home - Supa Star](https://youtu.be/MZCNnDSKJsM?si=-I5FI8k8de7G4mzc) [DelTron 3030 - Turbulence](https://youtu.be/NF0UWfNQw9E?si=MQtG2qIVWSwlOh0b) [Smif & Wesson - SoundBwoiBurriel](https://youtu.be/s5MogMGLWAA?si=32yP9bTbeDxEDWx_) [Nas - Represent](https://youtu.be/xiVY_yPgvMs?si=fkYZLtM9pUgrZcW9) [GangStarr- MakeThemPay](https://youtu.be/7i1qond0wEA?si=LzpWPoHJV9GFvIYP) [The Stomp · Ol' Dirty Bastard](https://youtu.be/ATbBVkKAFwg?si=eCfD56ReIbHMHApO) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [O.C. - Times Up](https://youtu.be/dcsPoM2MalY?si=ChQB16D0L9ulOtAz) [O.C. - My World ](https://youtu.be/d7dHzjxH2VI?list=RDd7dHzjxH2VI) [In The World · Akinyele](https://youtu.be/FAnC3PM1NTY?list=RDFAnC3PM1NTY) [Time Machine - Mind in a Spin](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro) [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hwNhfOQXQXobu7nZ) @blackgirlscode i have a [class](https://x.com/NASAEarthData/status/1914403540371693922) tomrrow on [`OPeNDAP`](https://opendap.github.io/documentation/QuickStart.pdf) so im [stressed](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro), i have to print some things to [look](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/opendap) over tonight so im better prepared ... THANKS you guys are really [growing](https://youtu.be/UcKDx4cmvio?list=RDHWwCVqWmgro) - [NosTalgia](https://youtu.be/PPZ2-FVcM3M?list=RDHWwCVqWmgro) [📻Handsome Boy Modeling School - Waterworld📻](https://youtu.be/zLXlR-t0yCY?list=RDHWwCVqWmgro)
+[MiA-SteppinUp](https://youtu.be/rcYhNEffVMs) [Blazay Balzay - Danger](https://youtu.be/x7uJzdu7Pak?si=LBhCEBoEwJ4CnvR1) [Fugees [feat. A Tribe Called Quest & Busta Rhymes] - Rumble In The Jungle ](https://youtu.be/Ok6fmRt6MvU?si=dCtayHhGWhUmjFwm) [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn](https://youtu.be/a2pzmty3LVs?si=171yoroMclhues_J) [Group Home - Supa Star](https://youtu.be/MZCNnDSKJsM?si=-I5FI8k8de7G4mzc) [DelTron 3030 - Turbulence](https://youtu.be/NF0UWfNQw9E?si=MQtG2qIVWSwlOh0b) [Smif & Wesson - SoundBwoiBurriel](https://youtu.be/s5MogMGLWAA?si=32yP9bTbeDxEDWx_) [Nas - Represent](https://youtu.be/xiVY_yPgvMs?si=fkYZLtM9pUgrZcW9) [GangStarr- MakeThemPay](https://youtu.be/7i1qond0wEA?si=LzpWPoHJV9GFvIYP) [The Stomp · Ol' Dirty Bastard](https://youtu.be/ATbBVkKAFwg?si=eCfD56ReIbHMHApO) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [O.C. - Times Up](https://youtu.be/dcsPoM2MalY?si=ChQB16D0L9ulOtAz) [O.C. - My World ](https://youtu.be/d7dHzjxH2VI?list=RDd7dHzjxH2VI) [Immortal Technique- Freedom Of Speech](https://youtu.be/v4HeY1Krw-Y?list=RDATbBVkKAFwg) [In The World · Akinyele](https://youtu.be/FAnC3PM1NTY?list=RDFAnC3PM1NTY) [Time Machine - Mind in a Spin](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro) [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hwNhfOQXQXobu7nZ) @blackgirlscode i have a [class](https://x.com/NASAEarthData/status/1914403540371693922) tomrrow on [`OPeNDAP`](https://opendap.github.io/documentation/QuickStart.pdf) so im [stressed](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro), i have to print some things to [look](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/opendap) over tonight so im better prepared ... THANKS you guys are really [growing](https://youtu.be/UcKDx4cmvio?list=RDHWwCVqWmgro) - [NosTalgia](https://youtu.be/PPZ2-FVcM3M?list=RDHWwCVqWmgro) [📻Handsome Boy Modeling School - Waterworld📻](https://youtu.be/zLXlR-t0yCY?list=RDHWwCVqWmgro) [Immortal Technique - Toast to the Dead](https://youtu.be/kLBNMhzn8VI?list=RDkLBNMhzn8VI)
+
 ![openDAP](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-04/OPeNDAP_banner_final.png?VersionId=MEsX9pz8FAetXTjWPC3wtEZ15INU16YZ&itok=Rb6Ia-6s)
 <style>
 .whitebg {background-color:white;}
