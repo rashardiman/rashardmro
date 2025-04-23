@@ -51,9 +51,9 @@ webm</a>
   <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
 </figure>
   
-  <figure>
- <a href="https://archive.org/details/image-01_202504/image-02.png" > 
- <img src="https://archive.org/details/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+ <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
   <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
 </figure>
 
@@ -64,8 +64,8 @@ webm</a>
 </figure>
 
   <figure>
- <a href="https://archive.org/details/image-01_202504/image-05.png" > 
- <img src="https://archive.org/details/image-01_202504/image-05.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" alt="NAgin Cox Livin Like A Rover" /> </a>
   <figcaption><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl"> Curiosity: The First10years</a></figcaption>
 </figure>
  
