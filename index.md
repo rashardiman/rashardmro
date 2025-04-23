@@ -19,8 +19,22 @@ mermaid: true
 </div> 
 
 
+<div class="tupperware" markdown="1">
+<figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-01.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Mar22 Schema Test</a></figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://archive.org/details/image-01_202504/image-02.png" > 
+ <img src="https://archive.org/details/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
+</figure>
+ 
+</div>
 
-
+[The Curious Life of a Mars Rover  @natgeosociety Live](https://youtu.be/7zpojhD4hpI?si=-UDj3QaGPCAkNXIV)
 ![MESSENGER Mercury Surface, Space Environment, Geochemistry and Ranging](https://messenger.jhuapl.edu/images/template/messenger_logo.png)
 [nasa.gov - MESSENGER](https://science.nasa.gov/mission/messenger/) [MErcury](https://photojournal.jpl.nasa.gov/targetFamily/mercury) Surface, Space ENvironment, GEochemistry, and Ranging [Wiki - @JHUAPL](https://en.wikipedia.org/wiki/Talk:MESSENGER) [MESSENGER – From Setbacks to Success](https://www.nasa.gov/history/messenger-from-setbacks-to-success/) Explore the surface of Mercury, investigate named craters and other features, see featured MESSENGER images, and take guided tours of the latest Mercury research in the [Google Earth interface](https://messenger.jhuapl.edu/Explore/Mercury-Google-Earth.html).
 
@@ -29,7 +43,7 @@ mermaid: true
 
 ![OPeNDAP](https://opendap.github.io/documentation/images/OPeNDAP-Logo-red.svg)
 ### Commute
-[MiA-SteppinUp](https://youtu.be/rcYhNEffVMs) [Blazay Balzay - Danger](https://youtu.be/x7uJzdu7Pak?si=LBhCEBoEwJ4CnvR1) [Fugees [feat. A Tribe Called Quest & Busta Rhymes] - Rumble In The Jungle ](https://youtu.be/Ok6fmRt6MvU?si=dCtayHhGWhUmjFwm) [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn](https://youtu.be/a2pzmty3LVs?si=171yoroMclhues_J) [Group Home - Supa Star](https://youtu.be/MZCNnDSKJsM?si=-I5FI8k8de7G4mzc) [DelTron 3030 - Turbulence](https://youtu.be/NF0UWfNQw9E?si=MQtG2qIVWSwlOh0b) [Smif & Wesson - SoundBwoiBurriel](https://youtu.be/s5MogMGLWAA?si=32yP9bTbeDxEDWx_) [Nas - Represent](https://youtu.be/xiVY_yPgvMs?si=fkYZLtM9pUgrZcW9) [GangStarr- MakeThemPay](https://youtu.be/7i1qond0wEA?si=LzpWPoHJV9GFvIYP) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [O.C. - Times Up](https://youtu.be/dcsPoM2MalY?si=ChQB16D0L9ulOtAz) [O.C. - My World ](https://youtu.be/d7dHzjxH2VI?list=RDd7dHzjxH2VI) [In The World · Akinyele](https://youtu.be/FAnC3PM1NTY?list=RDFAnC3PM1NTY) [Time Machine - Mind in a Spin](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro) [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hwNhfOQXQXobu7nZ) @blackgirlscode i have a [class](https://x.com/NASAEarthData/status/1914403540371693922) tomrrow on [`OPeNDAP`](https://opendap.github.io/documentation/QuickStart.pdf) so im [stressed](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro), i have to print some things to [look](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/opendap) over tonight so im better prepared ... THANKS you guys are really [growing](https://youtu.be/UcKDx4cmvio?list=RDHWwCVqWmgro) - [NosTalgia](https://youtu.be/PPZ2-FVcM3M?list=RDHWwCVqWmgro) [📻Handsome Boy Modeling School - Waterworld📻](https://youtu.be/zLXlR-t0yCY?list=RDHWwCVqWmgro)
+[MiA-SteppinUp](https://youtu.be/rcYhNEffVMs) [Blazay Balzay - Danger](https://youtu.be/x7uJzdu7Pak?si=LBhCEBoEwJ4CnvR1) [Fugees [feat. A Tribe Called Quest & Busta Rhymes] - Rumble In The Jungle ](https://youtu.be/Ok6fmRt6MvU?si=dCtayHhGWhUmjFwm) [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn](https://youtu.be/a2pzmty3LVs?si=171yoroMclhues_J) [Group Home - Supa Star](https://youtu.be/MZCNnDSKJsM?si=-I5FI8k8de7G4mzc) [DelTron 3030 - Turbulence](https://youtu.be/NF0UWfNQw9E?si=MQtG2qIVWSwlOh0b) [Smif & Wesson - SoundBwoiBurriel](https://youtu.be/s5MogMGLWAA?si=32yP9bTbeDxEDWx_) [Nas - Represent](https://youtu.be/xiVY_yPgvMs?si=fkYZLtM9pUgrZcW9) [GangStarr- MakeThemPay](https://youtu.be/7i1qond0wEA?si=LzpWPoHJV9GFvIYP) [The Stomp · Ol' Dirty Bastard](https://youtu.be/ATbBVkKAFwg?si=eCfD56ReIbHMHApO) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [O.C. - Times Up](https://youtu.be/dcsPoM2MalY?si=ChQB16D0L9ulOtAz) [O.C. - My World ](https://youtu.be/d7dHzjxH2VI?list=RDd7dHzjxH2VI) [In The World · Akinyele](https://youtu.be/FAnC3PM1NTY?list=RDFAnC3PM1NTY) [Time Machine - Mind in a Spin](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro) [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hwNhfOQXQXobu7nZ) @blackgirlscode i have a [class](https://x.com/NASAEarthData/status/1914403540371693922) tomrrow on [`OPeNDAP`](https://opendap.github.io/documentation/QuickStart.pdf) so im [stressed](https://youtu.be/HWwCVqWmgro?list=RDHWwCVqWmgro), i have to print some things to [look](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/opendap) over tonight so im better prepared ... THANKS you guys are really [growing](https://youtu.be/UcKDx4cmvio?list=RDHWwCVqWmgro) - [NosTalgia](https://youtu.be/PPZ2-FVcM3M?list=RDHWwCVqWmgro) [📻Handsome Boy Modeling School - Waterworld📻](https://youtu.be/zLXlR-t0yCY?list=RDHWwCVqWmgro)
 ![openDAP](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-04/OPeNDAP_banner_final.png?VersionId=MEsX9pz8FAetXTjWPC3wtEZ15INU16YZ&itok=Rb6Ia-6s)
 <style>
 .whitebg {background-color:white;}
