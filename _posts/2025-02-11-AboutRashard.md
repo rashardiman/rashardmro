@@ -5,6 +5,9 @@ published: true
 title: About Rashard
 image: rashardMRO.jpeg
 ---
+
+
+{% include social.md %}
 {% include management.md %}
 
 
