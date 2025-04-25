@@ -5,6 +5,9 @@ published: true
 title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
+
+
+<img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_992x274_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=MTOI3GWmg" alt="KAren Bass"/>
 [Los Angeles City Hall - https://waterandpower.org/](https://waterandpower.org/Museum2/Los_Angeles_City_Hall_1928.html)
 Los Angeles City Hall is one of the most iconic buildings in America; some say, the world. A bold symbol of the ambition of America and its people, City Hall graces California as one of its most enduring landmarks. [Related - DNS](https://x.com/MooNLOVER404/status/1822009495826133056)
 ![cityhall](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/City_Hall_1927.jpg)
