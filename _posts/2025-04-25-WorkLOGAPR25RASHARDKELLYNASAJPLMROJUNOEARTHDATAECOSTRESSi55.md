@@ -1,7 +1,7 @@
 ---
 title: "POSTEASTERWORKLOG/NASA[JPL]"
 published: true
-image: goeswestabiconus-firetemperature-sApr 22, 2025 - 01_06 UTC-eApr 22, 2025 - 02_41 UTC.gif
+image: goeswestabiconus-firetemperature.gif
 layout: post
 mermaid: true
 ---
