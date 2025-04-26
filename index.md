@@ -39,7 +39,7 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
           <a href="{{ image.path }}">
         <img src="{{ image.basename | append: image.extname }}" alt="">
       </a>
-    {% endunless %}
+
   {% endif %}
 {% endfor %}
 
