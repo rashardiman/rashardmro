@@ -99,5 +99,12 @@ was in range [WebPageScrape](https://codepen.io/ricoThaka/pen/jEOYzbP)
 # [PostEasterWorklog](https://1drv.ms/b/c/B42FF3EA85BF1167/EU8din0ZIMdDrj2pa1KlCTMB_AN1PRRAWrOITXyQxHWM0g?e=0nKllQ) ! Simple Scan Station 20250425095330 ( 1) 27PostEaster
 ### [`by RASHARD_KELLY_NASAJPL_iSS`](https://archive.org/details/@thakaserika_selassie_kelly) [TRELLO! @StateOfCalifornia @cityoflosangeles @nasa @nasa-jpl @blackgirlscode](https://trello.com/c/i5rXqW2d/27-https-archiveorg-details-simple-scan-station-20250425095330-1-27-rashardposteasternisin14worklogfornasajp)
 <iframe src="https://archive.org/embed/simple-scan-station-20250425095330-1-27-rashardposteasternisin14worklogfornasajp" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+### Worked on @linkedin
+![Linkedin](https://pbs.twimg.com/media/GpUmy97bYAEIMOk?format=jpg&name=large)
 ![https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Adobe%20Express%20-%20file.png](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Adobe%20Express%20-%20file.png)
+
+### relationships
+
+[MunaErikaTweet](https://x.com/RicoThaka/status/1839396394538533341)
+![Could my wife be dead and im chasing ghosts on twitter?](https://pbs.twimg.com/media/GpVNPt5bYAc6BJs?format=jpg&name=large)
+[MassUnclaimedDead](https://x.com/lacountyme/status/1600983036832534528) [Related](https://x.com/RicoThaka/status/1915522292098195636)
