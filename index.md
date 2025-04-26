@@ -32,12 +32,61 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
 ![Soll4518](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif) 
 
 
-<div class="box" markdown="1">
+<div class="tupperware" markdown="1">
+
+{% for image in site.static_files %}
+  {% if image.path contains 'assets/images/mars/sol4518_wheelDamage' %}
+    {% unless image.path contains '-th.' %}
+      <a href="{{ image.path }}">
+        <img src="{{ image.basename | append: '-th' | append: image.extname }}" alt="">
+      </a>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+
+
 <figure>
  <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
  <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
   <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
 </figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
   
  <figure>
  <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" > 

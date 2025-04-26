@@ -5,6 +5,11 @@ published: true
 image: computing
 ---
 
+
+# Accessing static files in Jekyll
+>Jul 12, 2021 — by [Michael Rose](https://mademistakes.com/about/) in [Mastering Jekyll](https://mademistakes.com/mastering-jekyll/)
+![JekyllStaticFiles](https://mademistakes.com/images/static-files-illustration_hu2869465202334805391.jpg)
+
 # `<object>`: The External Object element
 >The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin.
 The [NOAA](https://youtu.be/OdTwjHwbisY?si=4qwHZdkGY0OJNC9c) page im making to justify our work and protect my role at JPL/NASA bc the geart is never coming back, whoever wants control of the [NOAA](https://www.npr.org/2025/03/06/nx-s1-5316917/noaa-trump-impact-layoffs) image cant have healthy motives, [GearAcquisitionSyndrome](https://www.kenrockwell.com/tech/acquisition.htm) is suffocating america as the perpurtrators struggle that they are not menopausal as they deal with pornography commitment destroying [TheFamily](https://youtu.be/9CwQd5ZVgmg?si=006u_gT-eSWShzF8) from my perspective as a victim, TheFamily is the smallest componet of civilization, if its broken, the civilization is, so [TheBrokenFamily](https://youtu.be/_vrw416MnJ8)=[Treason~>](https://www.egattorneys.com/california-penal-code-37) Treason against this state consists only in levying war against it, adhering to its enemies, or giving them aid and [comfort](https://www.yelp.com/biz/deja-vu-showgirls-hollywood-los-angeles)... 
