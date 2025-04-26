@@ -32,14 +32,24 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
 ![Soll4518](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif) 
 
 
+
+<div class="tupperware">
+  {% for file in site.static_files %}
+      {% if file.path contains '/assets/images/gallery/' and file.extname == '.jpg' %}
+          <img src="{{ file.path }}" alt="Sol4518">
+      {% endif %}
+  {% endfor %}
+</div>
+
 <div class="tupperware" markdown="1">
 
 {% for image in site.static_files %}
   {% if image.path contains 'assets/images/mars/sol4518_wheelDamage' %}
-          <a href="{{ image.path }}">
+    {% unless image.path contains '-th.' %}
+      <a href="{{ image.path }}">
         <img src="{{ image.basename | append: image.extname }}" alt="">
       </a>
-
+    {% endunless %}
   {% endif %}
 {% endfor %}
 
