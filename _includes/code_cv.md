@@ -1,6 +1,7 @@
 
-
-
+### code_cv
+## CV (Curriculum Vitae)
+Curriculum vitae (CV, also often informally called a “vita”) is the full history of your academic experience and involvement. Due to this, CVs have multiple sections and vary in length. - [@ucdavis : Career Center](https://careercenter.ucdavis.edu/resumes-and-materials/cv-curriculum-vitae) 
 # System font, or [web-safe font](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Web_fonts)
 A system font or web-safe [font](https://fonts.google.com/knowledge/glossary/font) is one that’s already assumed to be on the vast majority of users’ devices, with no need for a web font to be downloaded. - [fonts.google.com:Knowledge GlossarySystem font, or web-safe font](https://fonts.google.com/knowledge/glossary/system_font_web_safe_font) [cssfontstack.com -WEBTOOL](https://www.cssfontstack.com/) [The Ultimate Guide to Web Safe Fonts for Email Marketing - litmus.com](https://www.litmus.com/blog/the-ultimate-guide-to-web-fonts)
 # WebSafeFontSampler
