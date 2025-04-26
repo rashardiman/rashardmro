@@ -34,11 +34,87 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
 
 
 <div class="tupperware">
-  {% for image in site.static_files %}
-      {% if image.path contains 'assets/images/mars/sol4518_wheelDamage' and file.extname == '.jpg' %}
+  {% for file in site.static_files %}
+      {% if file.path contains '/assets/images/gallery/' and file.extname == '.jpg' %}
           <img src="{{ file.path }}" alt="Sol4518">
       {% endif %}
   {% endfor %}
+</div>
+
+<div class="tupperware" markdown="1">
+
+{% for image in site.static_files %}
+  {% if image.path contains 'assets/images/mars/sol4518_wheelDamage' %}
+    {% unless image.path contains '-th.' %}
+      <a href="{{ image.path }}">
+        <img src="{{ image.basename | append: image.extname }}" alt="">
+      </a>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+</div>
+<div class="tupperware" markdown="1">
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+  
+ <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Curiosity: The First10years</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl"> Curiosity: The First10years</a></figcaption>
+</figure>
+ 
 </div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NaginCox?ref_src=twsrc%5Etfw">@NaginCox</a> <a href="https://twitter.com/hashtag/LAURiEofMARS?src=hash&amp;ref_src=twsrc%5Etfw">#LAURiEofMARS</a> <a href="https://twitter.com/NASASolarSystem?ref_src=twsrc%5Etfw">@NASASolarSystem</a> <a href="https://twitter.com/hashtag/hi?src=hash&amp;ref_src=twsrc%5Etfw">#hi</a> <a href="https://twitter.com/neiltyson?ref_src=twsrc%5Etfw">@neiltyson</a> I don&#39;t think <a href="https://twitter.com/hashtag/ATLAS_PDS?src=hash&amp;ref_src=twsrc%5Etfw">#ATLAS_PDS</a> is syncing . . <a href="https://twitter.com/NASASCaN?ref_src=twsrc%5Etfw">@NASASCaN</a> I&#39;m trying to get a bulk download of the wheel damage for a gif <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> <a href="https://t.co/DQNaxlvzVk">https://t.co/DQNaxlvzVk</a>* I cant get 2025 I stop at 2022 <a href="https://t.co/phvyVuLmhv">https://t.co/phvyVuLmhv</a> <a href="https://twitter.com/2600?ref_src=twsrc%5Etfw">@2600</a> <a href="https://twitter.com/hashtag/data?src=hash&amp;ref_src=twsrc%5Etfw">#data</a> <a href="https://t.co/1rCOnGKvJr">pic.twitter.com/1rCOnGKvJr</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1916241743701545216?ref_src=twsrc%5Etfw">April 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
