@@ -35,7 +35,7 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
 
 <div class="tupperware">
   {% for file in site.static_files %}
-      {% if file.path contains '/assets/images/gallery/' and file.extname == '.jpg' %}
+      {% if file.path contains 'assets/images/mars/sol4518_wheelDamage' and file.extname == '.jpg' %}
           <img src="{{ file.path }}" alt="Sol4518">
       {% endif %}
   {% endfor %}
