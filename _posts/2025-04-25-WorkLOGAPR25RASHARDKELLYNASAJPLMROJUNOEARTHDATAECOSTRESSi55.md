@@ -9,7 +9,15 @@ mermaid: true
 
 ![OpenNDAP-ClassWebinar](https://www.opendap.org/wp-content/uploads/2024/01/Logo-red-2.png)
 [RoughStart with BlockedLinks](https://x.com/MooNLOVER404/status/1915100771559072202)
+
+
+[NewSkills `MyBinder.oRg`](https://archive.org/details/screen-recording-2025-04-26-12.15.05-pm)
+[LiNK_TO_M_R_O_BiNDER](https://hub.gesis.mybinder.org/user/ricothaka-rashardmro-k2zqcu4h/doc) [JupyterLab ](https://jupyter.org/)
+>by RashardKelly
+<iframe src="https://archive.org/embed/screen-recording-2025-04-26-12.15.05-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/rwUgOhcqEe">https://t.co/rwUgOhcqEe</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> we need balance with <a href="https://twitter.com/hashtag/Google?src=hash&amp;ref_src=twsrc%5Etfw">#Google</a>, alot... <a href="https://t.co/WNyHbKQV8m">pic.twitter.com/WNyHbKQV8m</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1915103686407417993?ref_src=twsrc%5Etfw">April 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Voyager
 was in range [WebPageScrape](https://codepen.io/ricoThaka/pen/jEOYzbP)
 
