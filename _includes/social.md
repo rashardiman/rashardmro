@@ -3,3 +3,4 @@
 [Rashard`sartu` VSCO.CO](https://vsco.co/rashardsartu/gallery)
 [Rashard Iman Kelly Moonlover404 on X](https://x.com/moonlover404)
 [Rashard iMan ([Thaka]) Kelly @linkedin](https://www.linkedin.com/in/rashard-iman-kelly-a2b699354/)
+[ricoThaka on @codepen](https://codepen.io/ricoThaka)
