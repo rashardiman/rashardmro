@@ -10,7 +10,7 @@ mermaid: true
 ![OpenNDAP-ClassWebinar](https://www.opendap.org/wp-content/uploads/2024/01/Logo-red-2.png)
 [RoughStart with BlockedLinks](https://x.com/MooNLOVER404/status/1915100771559072202)
 
-
+![@binder-project](https://mybinder.org/static/logo.svg)
 [NewSkills `MyBinder.oRg`](https://archive.org/details/screen-recording-2025-04-26-12.15.05-pm)
 [LiNK_TO_M_R_O_BiNDER](https://hub.gesis.mybinder.org/user/ricothaka-rashardmro-k2zqcu4h/doc) [JupyterLab ](https://jupyter.org/)
 >by RashardKelly
