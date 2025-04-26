@@ -26,6 +26,7 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
   Your browser does not support the audio tag.
 </audio>
 
+![Soll4518](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
 
 <div class="box" markdown="1">
 <figure>
@@ -54,6 +55,7 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
  
 </div>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NaginCox?ref_src=twsrc%5Etfw">@NaginCox</a> <a href="https://twitter.com/hashtag/LAURiEofMARS?src=hash&amp;ref_src=twsrc%5Etfw">#LAURiEofMARS</a> <a href="https://twitter.com/NASASolarSystem?ref_src=twsrc%5Etfw">@NASASolarSystem</a> <a href="https://twitter.com/hashtag/hi?src=hash&amp;ref_src=twsrc%5Etfw">#hi</a> <a href="https://twitter.com/neiltyson?ref_src=twsrc%5Etfw">@neiltyson</a> I don&#39;t think <a href="https://twitter.com/hashtag/ATLAS_PDS?src=hash&amp;ref_src=twsrc%5Etfw">#ATLAS_PDS</a> is syncing . . <a href="https://twitter.com/NASASCaN?ref_src=twsrc%5Etfw">@NASASCaN</a> I&#39;m trying to get a bulk download of the wheel damage for a gif <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> <a href="https://t.co/DQNaxlvzVk">https://t.co/DQNaxlvzVk</a>* I cant get 2025 I stop at 2022 <a href="https://t.co/phvyVuLmhv">https://t.co/phvyVuLmhv</a> <a href="https://twitter.com/2600?ref_src=twsrc%5Etfw">@2600</a> <a href="https://twitter.com/hashtag/data?src=hash&amp;ref_src=twsrc%5Etfw">#data</a> <a href="https://t.co/1rCOnGKvJr">pic.twitter.com/1rCOnGKvJr</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1916241743701545216?ref_src=twsrc%5Etfw">April 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [EXPLORER1](https://explorer1.jpl.nasa.gov/)
 ![world](https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg) 
