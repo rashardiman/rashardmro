@@ -231,12 +231,13 @@ img {
     border: 1px solid #c9ff23;
     border-radius: 5px;
     padding: 0px;
-    flex: 1 1 150px;
+    flex: 1 1 250px;
     overflow: hidden;
     }
   
   .tupperware {
     display: flex;
+    block-size: max-content;
     flex-flow: row wrap; 
     padding: 15px;
     gap: 5px;
