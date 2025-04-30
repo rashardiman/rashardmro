@@ -13,7 +13,15 @@ author: "RashardKelly @nasa-jpl"
 <iframe src="https://archive.org/embed/vts-01-1_20240123" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Cam'Ron - I Hate My Job](https://www.youtube.com/watch?v=uSXWx49aXxE)
-[M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO)
+
+
+# Hollywood
+error message @nasa-jpl `https://www.jpl.nasa.gov/missions/deep-space-optical-communications-dsoc/`
+500 [NETWORK ERROR]: SERVERERROR: RESPONSE NOT SUCCESSFUL: RECEIVED STATUS CODE 500. ROUTE: /MISSIONS/DEEP-SPACE-OPTICAL-COMMUNICATIONS-DSOC/
+JPL is good at discovering the undiscovered, and you've done the same. This error means that our server couldn’t find the page you requested. Please check if you typed the correct URL or you can reload the page.
+![opps_404-JPL](https://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg)
+
+[M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO) 
 ![RASHARD DOING URBAN ART FOR @mercedesBenz](https://pbs.twimg.com/media/GUkWbGTbkAAgrya?format=jpg&name=medium)
 @RepKarenBass #imstillinjured and @jopsempi has this documentary with #ReBranded @nasa ! and I'm running for my life @nasajpl !@EastLALASD please help iron out my #LibraryPRivledges @normani a stripper here and I'm being hurt and cant work bc #idontlikePorn
 
