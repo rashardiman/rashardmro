@@ -8,6 +8,10 @@ image: PIA26080_modest.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+# Little Orphan Annie (1932)
+<iframe src="https://archive.org/embed/vts-01-1_20240123" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [Cam'Ron - I Hate My Job](https://www.youtube.com/watch?v=uSXWx49aXxE)
 [M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO)
 ![RASHARD DOING URBAN ART FOR @mercedesBenz](https://pbs.twimg.com/media/GUkWbGTbkAAgrya?format=jpg&name=medium)

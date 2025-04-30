@@ -8,10 +8,24 @@ mermaid: true
 
 
 [Notes on Customizing Jupyter and Jekyll - tingkai-liu.org](https://www.tingkai-liu.org/blog/2018/notes-on-jupyter-jekyll/)
-# NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?`
-[DOGE says it has saved $160 billion. Those cuts have cost taxpayers $135 billion, one analysis says.](https://www.cbsnews.com/news/doge-cuts-cost-135-billion-analysis-elon-musk-department-of-government-efficiency/?linkId=806073041)
-Elon Musk's Department of Government Efficiency, or DOGE, says it has saved $160 billion through its push to root out wasteful or fraudulent government spending
+# NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?` In other words [DOGE](https://doge.gov/) is not a bad thing, ppl mad they can lazily fiddle with covid porn on vibration telepathy exuses, STEALiNG from _The Homeless_
 
+
+[ESTABLISHING AND IMPLEMENTING THE PRESIDENT’S “DEPARTMENT OF GOVERNMENT EFFICIENCY” -@whitehouse .gov](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/) Sec. 4.  Modernizing Federal Technology and Software to Maximize Efficiency and Productivity.  (a)  The USDS Administrator shall commence a Software Modernization Initiative to improve the quality and efficiency of government-wide software, network infrastructure, and information technology (IT) systems. @nasa-jpl @nasa [Thats US TOO](https://science.jpl.nasa.gov/projects/mro/) - [RashardImanKelly_MRO](https://ricothaka.github.io/rashardmro/)!! @r-spacex
+[DOGE says it has saved $160 billion. Those cuts have cost taxpayers $135 billion, one analysis says.](https://www.cbsnews.com/news/doge-cuts-cost-135-billion-analysis-elon-musk-department-of-government-efficiency/?linkId=806073041) 
+Elon Musk's Department of Government Efficiency, or DOGE, says it has saved $160 billion through its push to root out wasteful or fraudulent government spending
+[LongBeachPAPERScan](https://archive.org/details/longbeachpapers-10)
+[MyArchive - Rashard](https://archive.org/details/@thakaserika_selassie_kelly) [NewsPaperSandComics](https://archive.org/details/image_20250428_2325)
+![Webinar](https://pbs.twimg.com/media/GpUbP-qbQAAstby?format=jpg&name=large)
+![Webinar](https://pbs.twimg.com/media/GpPQeZ_awAAVsuk?format=jpg&name=large)
+![OpenNDAP](https://pbs.twimg.com/media/GpPRaExbcAA1eFs?format=jpg&name=large)
+[Twt](https://x.com/MooNLOVER404/status/1915103686407417993)
+![Events](https://pbs.twimg.com/media/GpU_jBVbYAA58Zm?format=jpg&name=large)
+![Unclaimed Dead](https://pbs.twimg.com/media/GpVMXPQbYAETBZF?format=jpg&name=large)
+`Today at the Burial of the Unclaimed Dead, faith leaders presided over the burial of 1624 decedents who died in 2019 and were laid to rest in a single grave.` [Tweet](https://x.com/lacountyme/status/1600983036832534528)
+![MASSGRAVE](https://pbs.twimg.com/media/GpVNPt5bYAc6BJs?format=jpg&name=large) [Related](https://x.com/RicoThaka/status/1915522292098195636) :
+[EulaGy](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A24325a29-4e9d-46a1-b627-765d6c53b8cc&utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=&viewer%21megaVerb=group-discover) 
+[Uncovering the Secrets of the International Space Station](https://youtu.be/Ei-TcECJVXU) @natgeosociety @nasa-jpl imma look at this video at some point... 
 ### Live From the JPL Clean Room — Building [NEO Surveyor](https://www.jpl.nasa.gov/missions/near-earth-object-surveyor/) + [ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)
 ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths) is a high-altitude balloon mission for studying astrophysical phenomena. [![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxoCCvjW4Uo?si=VBAg4WzoOgoWK78F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
