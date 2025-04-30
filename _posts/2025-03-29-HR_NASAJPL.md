@@ -18,7 +18,7 @@ author: "RashardKelly @nasa-jpl"
 # Hollywood
 error message @nasa-jpl `https://www.jpl.nasa.gov/missions/deep-space-optical-communications-dsoc/`
 500 [NETWORK ERROR]: SERVERERROR: RESPONSE NOT SUCCESSFUL: RECEIVED STATUS CODE 500. ROUTE: /MISSIONS/DEEP-SPACE-OPTICAL-COMMUNICATIONS-DSOC/
-JPL is good at discovering the undiscovered, and you've done the same. This error means that our server couldn’t find the page you requested. Please check if you typed the correct URL or you can reload the page.
+JPL is good at discovering the undiscovered, and you've done the same. This error means that our server couldn’t find the page you requested. Please check if you typed the correct URL or you can reload the page. @StateOfCalifornia @CityOfLosAngeles
 ![opps_404-JPL](https://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg)
 
 [M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO) 
