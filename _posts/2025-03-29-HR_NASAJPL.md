@@ -11,16 +11,7 @@ author: "RashardKelly @nasa-jpl"
 [Cam'Ron - I Hate My Job](https://www.youtube.com/watch?v=uSXWx49aXxE)
 [M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO)
 ![RASHARD DOING URBAN ART FOR @mercedesBenz](https://pbs.twimg.com/media/GUkWbGTbkAAgrya?format=jpg&name=medium)
-@RepKarenBass
- #imstillinjured and @jopsempi has this documentary with #ReBranded 
-@nasa
-! and I'm running for my life 
-@nasajpl
-! 
-@EastLALASD
- please help iron out my #LibraryPRivledges 
-@normani
- a stripper here and I'm being hurt and cant work bc #idontlikePorn
+@RepKarenBass #imstillinjured and @jopsempi has this documentary with #ReBranded @nasa ! and I'm running for my life @nasajpl !@EastLALASD please help iron out my #LibraryPRivledges @normani a stripper here and I'm being hurt and cant work bc #idontlikePorn
 
  ![NASAinDUSTRY](https://pbs.twimg.com/media/GVNzAaGbQAAwAfi?format=jpg&name=large)
 

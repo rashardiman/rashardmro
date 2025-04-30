@@ -6,6 +6,10 @@ mermaid: true
 
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+# NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?`
+[DOGE says it has saved $160 billion. Those cuts have cost taxpayers $135 billion, one analysis says.](https://www.cbsnews.com/news/doge-cuts-cost-135-billion-analysis-elon-musk-department-of-government-efficiency/?linkId=806073041)
+Elon Musk's Department of Government Efficiency, or DOGE, says it has saved $160 billion through its push to root out wasteful or fraudulent government spending
+
 ### Live From the JPL Clean Room — Building [NEO Surveyor](https://www.jpl.nasa.gov/missions/near-earth-object-surveyor/) + [ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)
 ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths) is a high-altitude balloon mission for studying astrophysical phenomena. [![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxoCCvjW4Uo?si=VBAg4WzoOgoWK78F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
