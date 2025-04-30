@@ -6,6 +6,8 @@ mermaid: true
 
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+
+[Notes on Customizing Jupyter and Jekyll - tingkai-liu.org](https://www.tingkai-liu.org/blog/2018/notes-on-jupyter-jekyll/)
 # NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?`
 [DOGE says it has saved $160 billion. Those cuts have cost taxpayers $135 billion, one analysis says.](https://www.cbsnews.com/news/doge-cuts-cost-135-billion-analysis-elon-musk-department-of-government-efficiency/?linkId=806073041)
 Elon Musk's Department of Government Efficiency, or DOGE, says it has saved $160 billion through its push to root out wasteful or fraudulent government spending
