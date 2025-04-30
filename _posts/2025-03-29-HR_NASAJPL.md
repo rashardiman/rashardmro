@@ -8,7 +8,7 @@ image: PIA26080_modest.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
-
+[Cam'Ron - I Hate My Job](https://www.youtube.com/watch?v=uSXWx49aXxE)
 [M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO)
 ![RASHARD DOING URBAN ART FOR @mercedesBenz](https://pbs.twimg.com/media/GUkWbGTbkAAgrya?format=jpg&name=medium)
 @RepKarenBass
