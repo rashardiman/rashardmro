@@ -1,4 +1,40 @@
 
+
+
+
+
+
+# Earth
+The name Earth is at least 1,000 years old. All of the planets, except for Earth, were named after Greek and Roman gods and goddesses. However, the name Earth is a Germanic word, which simply means “the ground.” - [https://science.nasa.gov/earth/facts/](https://science.nasa.gov/earth/facts/) 
+<figure>
+  <figcaption>Listen to the TurBulance:</figcaption>
+  <audio controls src="https://archive.org/download/deltron-3030-the-album/Album/16-Turbulence%20%28Mark%20Bell%20Remix%29.mp3"></audio>
+  <a href="https://archive.org/download/deltron-3030-the-album/Album/16-Turbulence%20%28Mark%20Bell%20Remix%29.mp3"> Download audio </a>
+</figure>
+<object data="https://eyes.nasa.gov/apps/solar-system/#/earth" width="100%" height=500px ></object>
+
+## Earth Rotation from Galileo Imagery: 3600 x Real-Time [JPL](https://www.jpl.nasa.gov/galileo/index.html)
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the Galileo spacecraft during a close pass of the Earth on December 11-12, 1990
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001372/a001372.00095_print.png" >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001375/a001375.webmhd.webm" type="video/webm" >
+webm</a>
+  video.
+</video>
+
+
+[EXPLORER1](https://explorer1.jpl.nasa.gov/) <~ @StateOfCalifornia
+![world](https://explorer1.jpl.nasa.gov/assets/images/galleries/1965_TIROS9_NOAA_lib.jpeg) 
+![Earth](https://explorer1.jpl.nasa.gov/assets/images/galleries/1966_LOIRP_289764main_GPN-2000-001588_full.jpeg)
+![EARTH](https://explorer1.jpl.nasa.gov/assets/images/galleries/1947_316209main_smallsteps-v2_full.jpeg)
+
+
+
+
 [Oaklahoma Fire 3/26/25 seen on firms](https://x.com/BubbleGumPop626/status/1905059305709294076) [LAADS - 2nasa-jpl i spent a good fraction](https://x.com/BubbleGumPop626/status/1905053844301816311) of thhat workday learning a new @nasa earthdata archive. I dont know how to make it display anything though 
 
 
