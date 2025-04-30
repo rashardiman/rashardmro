@@ -8,7 +8,7 @@ mermaid: true
 
 
 [Notes on Customizing Jupyter and Jekyll - tingkai-liu.org](https://www.tingkai-liu.org/blog/2018/notes-on-jupyter-jekyll/)
-# NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?` In other words [DOGE](https://doge.gov/) is not a bad thing, ppl mad they can lazily fiddle with covid porn on vibration telepathy exuses, STEALiNG from _The Homeless_
+# NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?` In other words [DOGE](https://doge.gov/) is not a bad thing, ppl mad they can lazily fiddle with covid porn on vibration telepathy exuses, STEALiNG from [_The Homeless_](https://urm.org/about/faqs/about-skid-row/)
 
 
 [ESTABLISHING AND IMPLEMENTING THE PRESIDENT’S “DEPARTMENT OF GOVERNMENT EFFICIENCY” -@whitehouse .gov](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/) Sec. 4.  Modernizing Federal Technology and Software to Maximize Efficiency and Productivity.  (a)  The USDS Administrator shall commence a Software Modernization Initiative to improve the quality and efficiency of government-wide software, network infrastructure, and information technology (IT) systems. @nasa-jpl @nasa [Thats US TOO](https://science.jpl.nasa.gov/projects/mro/) - [RashardImanKelly_MRO]({{ site.url }}{{ site.baseurl }}/rashardmro/)!! @r-spacex
