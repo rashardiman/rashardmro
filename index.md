@@ -3,9 +3,13 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
-
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+
+# King Geedorah and MF DOOM - Take Me To Your Leader full album
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/735995608&color=%23da3231&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-273120331" title="kingjosh" target="_blank" style="color: #cccccc; text-decoration: none;">kingjosh</a> · <a href="https://soundcloud.com/josh-calhoun-273120331/take-me-to-your-leader-1" title="King Geedorah and MF DOOM - Take Me To Your Leader full album" target="_blank" style="color: #cccccc; text-decoration: none;">King Geedorah and MF DOOM - Take Me To Your Leader full album</a></div>
 
 [Notes on Customizing Jupyter and Jekyll - tingkai-liu.org](https://www.tingkai-liu.org/blog/2018/notes-on-jupyter-jekyll/)
 # NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?` In other words [DOGE](https://doge.gov/) is not a bad thing, ppl mad they can lazily fiddle with covid porn on vibration telepathy exuses, STEALiNG from [_The Homeless_](https://urm.org/about/faqs/about-skid-row/)
