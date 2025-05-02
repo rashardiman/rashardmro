@@ -2,8 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka)
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)]
-[![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)]
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
