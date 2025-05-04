@@ -6,6 +6,8 @@ mermaid: true
 
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
+[![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)][ci-workflow]
 
 [Notes on Customizing Jupyter and Jekyll - tingkai-liu.org](https://www.tingkai-liu.org/blog/2018/notes-on-jupyter-jekyll/)
 # NEws @noaa `the media is confused about how we make money! I was told our spending was already justified, and its still getting paid like a contractor when deals are secured so i have to work, i have a badge, who is concerned with us not eating?` In other words [DOGE](https://doge.gov/) is not a bad thing, ppl mad they can lazily fiddle with covid porn on vibration telepathy exuses, STEALiNG from [_The Homeless_](https://urm.org/about/faqs/about-skid-row/)
