@@ -10,7 +10,36 @@ tags: covid
 
 
 # Covid BrainDumP
+### [Tixati is a New and Powerful P2P System](https://tixati.com/)
+@nasa-jpl [Tixati](https://tixati.com/linux) is a [bitorrent_client](https://www.bittorrent.org/beps/bep_0003.html) with a chat fuynction. I was at [Wholefoods](https://www.wholefoodsmarket.com/stores/avalon) on [Wifi](https://www.facebook.com/100004549987965/videos/1766755096819473/) working on [My @linkedin](https://www.linkedin.com/in/rashard-iman-kelly-a2b699354/) an someone offered me a torrent. I dont torrent much so, i was scared but accepted the file @nasa @deptofdefense, it was an archive with a bunch of [Wuhan_Era_Covid](https://pmc.ncbi.nlm.nih.gov/articles/PMC9874793/) [videos from china](https://www.npr.org/2024/12/31/nx-s1-5214781/whats-changed-in-wuhan-5-years-after-the-covid-19-outbreak). I have been being chased ever since, i cant blame that on @blackgirlscode : `so and so` @stateofcalifornia @cityoflosangeles. . . [rashard - @nasa-jpl EARTHDATA+MARS]()
+![@NIHGOV ](https://pmc.ncbi.nlm.nih.gov/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)
+### The Infection Rate of COVID-19 in Wuhan, China
+Wuhan had a much higher mortality rate than the rest of China. - [@NIHGOV](https://pmc.ncbi.nlm.nih.gov/articles/PMC7434417/)
+A Kumar · 2021 · Cited by 267 — As of February 26, 2021, SARS-CoV-2 has infected ~112.20 million [@NIHGOV](https://pmc.ncbi.nlm.nih.gov/articles/PMC8042280/)
+### [TheConversation.COM](https://theconversation.com/coronavirus-in-wuhan-residents-shout-stay-strong-from-windows-130851) 
+Coronavirus in Wuhan: [Residents shout ‘stay strong’ from window](https://www.youtube.com/watch?v=bqXfnN76S-I&feature=youtu.be)
+In Wuhan, China, the epicentre of the coronavirus outbreak, residents have been shouting “Wuhan jiāyóu” meaning, “Wuhan, stay strong” out of their windows, from apartment building to apartment building, to send [words of encouragement](https://www.bbc.com/news/world-asia-china-51276496) to fellow citizens, doctors and medical staff at the front lines of the battle. [READ theconversation.com](https://theconversation.com/coronavirus-in-wuhan-residents-shout-stay-strong-from-windows-130851)
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1772733109555005%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1772688859559430%2F&show_text=false&width=220&t=0" width="220" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=350&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1804336816394634%2F&show_text=false&width=560&t=0" width="560" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1822372617924387%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+### news:Genetic Study Retraces the Origins of Coronaviruses in Bats
+As China and the United States trade charges of a lab leak, researchers contend in a new paper that the Covid pandemic got its start, like a previous one, in the wildlife trade. [@nytimes](https://www.nytimes.com/2025/05/07/science/covid-coronavirus-bats-genetics.html)
+
+
+### LockDown With Coral
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1816907271804255%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<div class="tupperware">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/pCphkYz6yN">https://t.co/pCphkYz6yN</a> <a href="https://twitter.com/latimes?ref_src=twsrc%5Etfw">@latimes</a> <a href="https://twitter.com/hashtag/imLearning?src=hash&amp;ref_src=twsrc%5Etfw">#imLearning</a> <a href="https://t.co/8F8EANhEgq">https://t.co/8F8EANhEgq</a> <a href="https://t.co/QHiv12oIoB">https://t.co/QHiv12oIoB</a> <a href="https://twitter.com/NASAEarthData?ref_src=twsrc%5Etfw">@NASAEarthData</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> do some additiuon and play with some <a href="https://twitter.com/hashtag/CovidData?src=hash&amp;ref_src=twsrc%5Etfw">#CovidData</a>!</p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1920251412459442516?ref_src=twsrc%5Etfw">May 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ro" dir="ltr">jovyan@jupyter-<a href="https://twitter.com/MooNLOVER404?ref_src=twsrc%5Etfw">@moonlover404</a>-ca-oronavirus-data-2ej0b15o:~$ cat latimes-agency-websites.csv | awk &#39;{print $1}&#39; <a href="https://twitter.com/NASASTEM?ref_src=twsrc%5Etfw">@NASASTEM</a> learn <a href="https://twitter.com/hashtag/GNU_AWK?src=hash&amp;ref_src=twsrc%5Etfw">#GNU_AWK</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://t.co/UHkNlT0tso">pic.twitter.com/UHkNlT0tso</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1920253028503826730?ref_src=twsrc%5Etfw">May 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div> 
 ![SPRAY](https://pbs.twimg.com/media/GXYMPs1bQAAmF_L?format=jpg&name=large) [RELATED](https://x.com/MooNLOVER404/status/1834668119840981019)
 # Covid Mental Roster?
 [TheWeekNd?](https://x.com/RicoThaka/status/1730823586204799197)
