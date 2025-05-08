@@ -1,5 +1,6 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS
-
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [![Twitter Follow](https://img.shields.io/badge/Social-moonlover404__-blue?style=social&logo=X)](https://twitter.com/moonlover404)
 
 @blackgirlscode tell [so and so](https://www.rollingstone.com/music/music-news/sam-smith-normani-dancing-with-a-stranger-lawsuit-revived-1235329452/) i did as asked, she has to protect my access, its still my landry basket, its [my best](https://soundcloud.com/saweetie/my-best) 
