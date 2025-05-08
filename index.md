@@ -17,9 +17,11 @@ mermaid: true
 {% endfor %}
  
 </div> 
+# Rashard Kelly NasaJpl MRO JUNO iSS
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)]
-[![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)]
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)] [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+
 
 # VinTage #M_R_O @nasa-jpl
 
