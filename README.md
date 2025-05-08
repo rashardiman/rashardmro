@@ -1,8 +1,12 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
-[![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka)
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+[![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [![Twitter Follow](https://img.shields.io/badge/Social-moonlover404__-blue?style=social&logo=X)](https://twitter.com/moonlover404)
 
+@blackgirlscode tell [so and so](https://www.rollingstone.com/music/music-news/sam-smith-normani-dancing-with-a-stranger-lawsuit-revived-1235329452/) i did as asked, she has to protect my access, its still my landry basket, its [my best](https://soundcloud.com/saweetie/my-best) 
+[![Twitter Follow](https://img.shields.io/badge/Social-bubblegumpop626__-blue?style=social&logo=X)](https://twitter.com/bubblegumpop626) [![Twitter Follow](https://img.shields.io/badge/Social-bubblegumpop510__-blue?style=social&logo=X)](https://twitter.com/bubblegumpop510)
+
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
@@ -534,6 +538,7 @@ END
 
 
 ### Running tests
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 

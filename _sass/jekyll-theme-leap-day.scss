@@ -78,7 +78,7 @@ body {
   }
 section {
      
-  display : block;
+  display : flex;
   flex-wrap: wrap;
   border-radius: 31px 31px 31px 31px;
   border: 19px solid #DB362D;
@@ -243,6 +243,7 @@ img {
     gap: 5px;
     margin: auto;
     max-height: min-content;
+    width: 100%;
   }
   
   .tupperware img {

@@ -13,7 +13,19 @@ author: "RashardKelly @nasa-jpl"
 <iframe src="https://archive.org/embed/vts-01-1_20240123" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Cam'Ron - I Hate My Job](https://www.youtube.com/watch?v=uSXWx49aXxE)
-[M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO)
+
+
+# Hollywood
+error message @nasa-jpl `https://www.jpl.nasa.gov/missions/deep-space-optical-communications-dsoc/`
+500 [NETWORK ERROR]: SERVERERROR: RESPONSE NOT SUCCESSFUL: RECEIVED STATUS CODE 500. ROUTE: /MISSIONS/DEEP-SPACE-OPTICAL-COMMUNICATIONS-DSOC/
+JPL is good at discovering the undiscovered, and you've done the same. This error means that our server couldn’t find the page you requested. Please check if you typed the correct URL or you can reload the page. @StateOfCalifornia @CityOfLosAngeles
+![opps_404-JPL](https://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASASCaN?ref_src=twsrc%5Etfw">@NASASCaN</a> <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a> <a href="https://twitter.com/hashtag/DOGE?src=hash&amp;ref_src=twsrc%5Etfw">#DOGE</a> <a href="https://t.co/YLw14G6Acc">https://t.co/YLw14G6Acc</a> <a href="https://t.co/oObKUwiqbC">https://t.co/oObKUwiqbC</a> <a href="https://t.co/cvmmvybpVk">https://t.co/cvmmvybpVk</a> <a href="https://twitter.com/IvankaTrump?ref_src=twsrc%5Etfw">@IvankaTrump</a> idk what happend to recall bu <a href="https://twitter.com/ashraenews?ref_src=twsrc%5Etfw">@ashraenews</a> is in the building now, thats where <a href="https://twitter.com/Fiserv?ref_src=twsrc%5Etfw">@Fiserv</a> stored <a href="https://twitter.com/hashtag/BankData?src=hash&amp;ref_src=twsrc%5Etfw">#BankData</a> - <a href="https://twitter.com/IronMountain?ref_src=twsrc%5Etfw">@IronMountain</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://t.co/ck3Pd9bP7v">https://t.co/ck3Pd9bP7v</a> <a href="https://twitter.com/SecDef?ref_src=twsrc%5Etfw">@SecDef</a> <a href="https://t.co/dlipd8olnx">pic.twitter.com/dlipd8olnx</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1917276119218413987?ref_src=twsrc%5Etfw">April 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[ESTABLISHING AND IMPLEMENTING THE PRESIDENT’S “DEPARTMENT OF GOVERNMENT EFFICIENCY” -@whitehouse .gov](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/) Sec. 4.  [Modernizing](https://trello.com/b/FWO7m3St/rashardmro) Federal [Technology](https://jupyter.org/) and [Software](https://jekyllrb.com/)
+[M_R_O_NOTES on Dev `ricothaka/Rashard-MRO`](https://thakarashard.github.io/ricothaka/Rashard-MRO) 
 ![RASHARD DOING URBAN ART FOR @mercedesBenz](https://pbs.twimg.com/media/GUkWbGTbkAAgrya?format=jpg&name=medium)
 @RepKarenBass #imstillinjured and @jopsempi has this documentary with #ReBranded @nasa ! and I'm running for my life @nasajpl !@EastLALASD please help iron out my #LibraryPRivledges @normani a stripper here and I'm being hurt and cant work bc #idontlikePorn
 
