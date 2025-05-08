@@ -7,11 +7,24 @@ mermaid: true
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 [Mars Reconnaissance Orbiter Launch - PRESSKiT 2005](https://web.archive.org/web/20060107134751/http://mars.jpl.nasa.gov/mro/newsroom/presskits/pdfs/mro-launch.pdf)
 [Mars Reconnaissance Orbiter Launch - FACTSHEET 2005](https://web.archive.org/web/20050123023821/http://mars.jpl.nasa.gov/mro/newsroom/factsheets/pdfs/MRO-040620.pdf)
+<div class="box">
+
+{% for post in site.posts %}
+   
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+
+   
+{% endfor %}
+ 
+</div> 
+
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)]
+[![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)]
 
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
-[![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)][ci-workflow]
-=======
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/C16qGfIWku">https://t.co/C16qGfIWku</a> <a href="https://twitter.com/HouseFloor?ref_src=twsrc%5Etfw">@HouseFloor</a> <a href="https://twitter.com/hashtag/GOOGLEiO?src=hash&amp;ref_src=twsrc%5Etfw">#GOOGLEiO</a> <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> <a href="https://twitter.com/hashtag/MARS2020?src=hash&amp;ref_src=twsrc%5Etfw">#MARS2020</a> <a href="https://twitter.com/parkr?ref_src=twsrc%5Etfw">@parkr</a> <a href="https://twitter.com/googleearth?ref_src=twsrc%5Etfw">@googleearth</a> ||||||||| <a href="https://twitter.com/RepKamlagerDove?ref_src=twsrc%5Etfw">@RepKamlagerDove</a> <a href="https://twitter.com/RepJudyChu?ref_src=twsrc%5Etfw">@RepJudyChu</a> <a href="https://twitter.com/KarenBassLA?ref_src=twsrc%5Etfw">@KarenBassLA</a> <a href="https://twitter.com/SpeakerPelosi?ref_src=twsrc%5Etfw">@SpeakerPelosi</a> im really on this team an my wife got tricked into sharing her bloom with playboy <a href="https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw">@GavinNewsom</a> i want to be invited <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://t.co/h8TCVCeplR">pic.twitter.com/h8TCVCeplR</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1918048537197330916?ref_src=twsrc%5Etfw">May 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # King Geedorah and MF DOOM - Take Me To Your Leader full album
 [REDDiT](https://www.reddit.com/r/indieheads/comments/146x9pl/king_geedorahs_aka_mf_dooms_take_me_to_your/) [WiKi](https://en.wikipedia.org/wiki/Take_Me_to_Your_Leader_(King_Geedorah_album)) [LYRiCS - genius_dOt_cOm](https://genius.com/albums/King-geedorah-and-mf-doom/Take-me-to-your-leader) [DiSCOGS](https://www.discogs.com/master/51131-King-Geedorah-Take-Me-To-Your-Leader?srsltid=AfmBOoqV0my4CpG6nDgdphjbUWk-uIFXRnnjEeM3S6P_xWSgyFsjQLLE)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/735995608&color=%23da3231&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-273120331" title="kingjosh" target="_blank" style="color: #cccccc; text-decoration: none;">kingjosh</a> · <a href="https://soundcloud.com/josh-calhoun-273120331/take-me-to-your-leader-1" title="King Geedorah and MF DOOM - Take Me To Your Leader full album" target="_blank" style="color: #cccccc; text-decoration: none;">King Geedorah and MF DOOM - Take Me To Your Leader full album</a></div>
