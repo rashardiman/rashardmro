@@ -288,7 +288,8 @@ img {
   }
   .ic {
     filter: contrast(200%); }
-
+    
+ img[src*="beverlypress.com/wp-content/uploads/2022/12/LindseyHorvath-400x500.png"] {width: 25%;padding: 4px;}
 
     img[src*="ricoThaka/linux/refs/heads/master/Documentation/images/logo.gif"] {width: 25%;padding: 4px;}
     img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
