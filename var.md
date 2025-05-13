@@ -8,7 +8,7 @@
 {{ site.baseurl }}
 
 # A list of all Pages.
-{{ site.pages }}
+ `site.pages `
 
 # A reverse chronological list of all Posts.
 {{ site.posts }}
@@ -20,7 +20,7 @@
 {{ site.images }}
 
 # A subset of site.static_files listing those which end in .html
-{{ site.html_files }}
+site.html_files
 
 
 # Contains the url of your site as it is configured in the _config.yml. 
