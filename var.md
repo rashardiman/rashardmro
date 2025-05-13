@@ -2,6 +2,8 @@
 {{ jekyll.version }}
 {{ jekyll.environment }}
 {{ site.url }}{{ site.baseurl }}
+## site.name
+{{ site.name }}
 ## site.url
 {{ site.url }}
 ## site.baseurl
@@ -11,7 +13,7 @@
  `site.pages `
 
 # A reverse chronological list of all Posts.
-{{ site.posts }}
+` `site.posts` `
 
 # A list of all static files (i.e. files not processed by Jekyll's converters or the Liquid renderer). Each file has five properties: path, modified_time, name, basename and extname.
 {{ site.static_files }}
