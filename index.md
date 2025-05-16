@@ -32,9 +32,10 @@ On episode 342, the CHAPEA crew checks in on their eleventh month in a Mars simu
 
 ### x.com/ricothaka @twitter
 #### reinstatement_Request 
-```
-my hotlinks collapsed with this account being suspended @Xdevelopers @spacex @elonmusk @tesla @X https://pbs.twimg.com/media/GlySTNiakAAWO-m?format=png&name=medium https://thakarashard.github.io/rashardmro/2025/04/22/Marsblogv2.html
-```
+`my hotlinks collapsed with this account being suspended
+ @Xdevelopers @spacex @elonmusk @tesla @X
+https://pbs.twimg.com/media/GlySTNiakAAWO-m?format=png&name=medium
+https://thakarashard.github.io/rashardmro/2025/04/22/Marsblogv2.html`
 ### ricothaka on x lost + holetoanotheruniverse1980 deleted by vandals proton mail compromised password I'm stuck with 
 <iframe src="https://archive.org/embed/screen-recording-2025-05-10-11.47.48-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
