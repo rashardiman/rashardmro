@@ -5,6 +5,9 @@ mermaid: true
 ---
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+
 [Mars Reconnaissance Orbiter Launch - PRESSKiT 2005](https://web.archive.org/web/20060107134751/http://mars.jpl.nasa.gov/mro/newsroom/presskits/pdfs/mro-launch.pdf)
 [Mars Reconnaissance Orbiter Launch - FACTSHEET 2005](https://web.archive.org/web/20050123023821/http://mars.jpl.nasa.gov/mro/newsroom/factsheets/pdfs/MRO-040620.pdf)
 <div class="box">
@@ -19,8 +22,7 @@ mermaid: true
 </div> 
 # Rashard Kelly @Nasa-Jpl MRO JUNO iSS
 
-![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+
 
 # Houston We Have a Podcast: Mars Audio Log #11
 On episode 342, the CHAPEA crew checks in on their eleventh month in a Mars simulated habitat, and a NASA expert discusses the measures taken to ensure that the year long mission has been conducted safely and ethically.
