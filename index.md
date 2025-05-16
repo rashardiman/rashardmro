@@ -5,6 +5,9 @@ mermaid: true
 ---
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+
 [Mars Reconnaissance Orbiter Launch - PRESSKiT 2005](https://web.archive.org/web/20060107134751/http://mars.jpl.nasa.gov/mro/newsroom/presskits/pdfs/mro-launch.pdf)
 [Mars Reconnaissance Orbiter Launch - FACTSHEET 2005](https://web.archive.org/web/20050123023821/http://mars.jpl.nasa.gov/mro/newsroom/factsheets/pdfs/MRO-040620.pdf)
 <div class="box">
@@ -17,10 +20,24 @@ mermaid: true
 {% endfor %}
  
 </div> 
-# Rashard Kelly NasaJpl MRO JUNO iSS
+# Rashard Kelly @Nasa-Jpl MRO JUNO iSS
 
-![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)] [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+
+#werKtunes @blackgirlscode 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1969823011&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skyzoomusic" title="Skyzoo" target="_blank" style="color: #cccccc; text-decoration: none;">Skyzoo</a> · <a href="https://soundcloud.com/skyzoomusic/finders-keepers" title="Finders Keepers" target="_blank" style="color: #cccccc; text-decoration: none;">Finders Keepers</a></div>
+
+# Houston We Have a Podcast: Mars Audio Log #11
+On episode 342, the CHAPEA crew checks in on their eleventh month in a Mars simulated habitat, and a NASA expert discusses the measures taken to ensure that the year long mission has been conducted safely and ethically.
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1858535757&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-mars-audio-log-11" title="Houston We Have a Podcast: Mars Audio Log #11" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: Mars Audio Log #11</a></div>
+
+### x.com/ricothaka @twitter
+#### reinstatement_Request 
+`my hotlinks collapsed with this account being suspended
+ @Xdevelopers @spacex @elonmusk @tesla @X
+https://pbs.twimg.com/media/GlySTNiakAAWO-m?format=png&name=medium
+https://thakarashard.github.io/rashardmro/2025/04/22/Marsblogv2.html`
+### ricothaka on x lost + holetoanotheruniverse1980 deleted by vandals proton mail compromised password I'm stuck with 
+<iframe src="https://archive.org/embed/screen-recording-2025-05-10-11.47.48-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![insight](https://www.jpl.nasa.gov/news/press_kits/insight/assets/images/facts/insight-logo.png)
 # Nasa iNSiGHT
