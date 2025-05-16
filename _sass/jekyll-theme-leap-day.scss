@@ -31,11 +31,10 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; */
-    background: linear-gradient(45deg, 
-              #fb3 25%, #262624 0, #262624 50%,
-              #fb3 0, #fb3 75%, #262624 0);
-    background-size: 80.4px 80.4px;
-    background-attachment: fixed;
+	background: url(https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04329/opgs/edr/ncam/NLB_781808042EDR_F1091998NCAM00354M_.JPG) no-repeat 0 0 fixed;
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+background-size: cover;
+   
     column-fill: balance;
     word-break: break-all;
     height: 100vh;
@@ -99,10 +98,12 @@ section {
   padding:5px;
 /* opera does not like 'margin:20px auto' */
 /* background: #666; */
+ background: linear-gradient(45deg, 
+              #fb3 25%, #262624 0, #262624 50%,
+              #fb3 0, #fb3 75%, #262624 0);
+    background-size: 80.4px 80.4px;
+    background-attachment: fixed;
 
-background: url(https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04329/opgs/edr/ncam/NLB_781808042EDR_F1091998NCAM00354M_.JPG) no-repeat 0 0 fixed;
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
-background-size: cover;
 
 /* background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg) no-repeat 0 0 fixed; */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
@@ -294,8 +295,8 @@ img {
   .ic {
     filter: contrast(200%); }
     
- img[src*="beverlypress.com/wp-content/uploads/2022/12/LindseyHorvath-400x500.png"] {width: 25%;padding: 4px;}
-
+ img[src*="jpl.nasa.gov/news/press_kits/insight/assets/images/facts/insight-logo.png"] {width: max-content;padding: 4px;}
+img[src*="beverlypress.com/wp-content/uploads/2022/12/LindseyHorvath-400x500.png"] {width: 25%;padding: 4px;}
     img[src*="ricoThaka/linux/refs/heads/master/Documentation/images/logo.gif"] {width: 25%;padding: 4px;}
     img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
 /* img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;} */
