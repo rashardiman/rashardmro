@@ -20,7 +20,7 @@ mermaid: true
 # Rashard Kelly @Nasa-Jpl MRO JUNO iSS
 
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)] [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
 # Houston We Have a Podcast: Mars Audio Log #11
 On episode 342, the CHAPEA crew checks in on their eleventh month in a Mars simulated habitat, and a NASA expert discusses the measures taken to ensure that the year long mission has been conducted safely and ethically.
