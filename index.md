@@ -21,6 +21,33 @@ mermaid: true
  
 </div> 
 # Rashard Kelly @Nasa-Jpl MRO JUNO iSS
+# Rashard Kelly @Nasa-Jpl MRO JUNO iSS
+[City Walls: United States](https://www.graffiti.org/index/usa.html)
+
+
+[NASA’s First-Ever Journey to a Metal-Rich Asteroid Launching Soon!](https://svs.gsfc.nasa.gov/14421/)
+![pysche](https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_Quick_Intro.2e16d0ba.fill-1024x441-c10.jpg)
+
+## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)
+[Aeolian geology](https://www.uahirise.org/science_themes/aeolian.php) is the study of landforms formed by wind (Aeolus is the wind god in Greek mythology)
+<video controls poster="https://static.uahirise.org/images/2019/details/ESP_057903_1390.jpg" >
+  <source src="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" >
+webm</a>
+  video.
+</video>
+[LARGE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_018000_018099/ESP_018039_1890/ESP_018039_1890_RED.abrowse.jpg)
+
+![dunes on mars](https://static.uahirise.org/images/2011/details/ESP_017762_1890.jpg)
+@datadesk ~> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb) @datadesk [LATiMES JUPYTER_NOTEBOOK](https://github.com/jupyter/notebook)
+[SpotTheStation](https://spotthestation.nasa.gov/home.cfm) Watch the International Space Station pass overhead from a vintage [ColdFusion](https://www.reddit.com/r/sysadmin/comments/tgwijd/what_is_coldfusion/) website! [`OldDevBlogInterView`-Ciao ColdFusion By Mike Maddalon](https://www.thehotiron.com/index.php/site/comments/ciao_coldfusion)
+[Tracking COVID-19 in California](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/)
+The Los Angeles Times' open-source archive of California coronavirus data
+~> 
 
 [NASA’s First-Ever Journey to a Metal-Rich Asteroid Launching Soon!](https://svs.gsfc.nasa.gov/14421/)
 ![pysche](https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_Quick_Intro.2e16d0ba.fill-1024x441-c10.jpg)
