@@ -24,11 +24,11 @@ mermaid: true
 
 
 {{ site.time }} {{ site.url }} {{ jekyll.version }} {{ jekyll.environment }}
-[Columbia Memorial Space Center](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center) + [Downey_California.ORG](https://www.downeyca.org/our-city/departments/columbia-memorial-space-center) 
+[Columbia Memorial Space Center](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center) + [Downey_California.ORG](https://www.downeyca.org/our-city/departments/columbia-memorial-space-center) [40 Years Ago: Space Shuttle Atlantis Makes its Public Debut ](https://www.nasa.gov/history/40-years-ago-space-shuttle-atlantis-makes-its-public-debut/)
 
 
 [EXPLORE LA - Huge Inspiration space shuttle mock-up will be making a move through Downey streets](https://laist.com/news/los-angeles-activities/inspiration-space-shuttle-mock-up-downey-move) [prototype?](https://www.presstelegram.com/2024/10/17/massive-shuttle-prototype-rolls-through-downey-streets-en-route-to-display-some-day/) 
-![Downy](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center#/media/File:ColumbiaMemorialSpaceCenterLogo.png)
+[Downy](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center#/media/File:ColumbiaMemorialSpaceCenterLogo.png)
 
 
 [City Walls: United States](https://www.graffiti.org/index/usa.html)
