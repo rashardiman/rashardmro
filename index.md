@@ -27,7 +27,7 @@ actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](htt
 [Commit c1a7e30](https://github.com/ThakaRashard/rashardmro/commit/c1a7e30d29fe97bdb601ba0ca32a87515b72e07e) i was recently asked to remove a tweet by [force](https://archive.org/details/article_1_declaration_of_rights_section_1__sec_2_californiaconstitution)... i have a binder in physicality so [myBinder](https://ricothakarashard.github.io/mybinder/) is similar and i am debating if i should get them syncs or just allow them to corrupt like the coffee spill [i endured this morning](https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4) . . . [What a cool layout](https://ricothakarashard.github.io/learned/) its so [e.m.complex](https://meyerweb.com/eric/css/edge/complexspiral/demo.html)
 
 
-
+[Logging on ChromeOS](https://www.chromium.org/chromium-os/developer-library/reference/logging/logging/)
 [Columbia Memorial Space Center](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center) + [Downey_California.ORG](https://www.downeyca.org/our-city/departments/columbia-memorial-space-center) [40 Years Ago: Space Shuttle Atlantis Makes its Public Debut ](https://www.nasa.gov/history/40-years-ago-space-shuttle-atlantis-makes-its-public-debut/)
 
 # California Constitution
