@@ -22,6 +22,13 @@ mermaid: true
 </div> 
 
 # Rashard Kelly @Nasa-Jpl MRO JUNO iSS
+[Uncovering the Secrets of the International Space Station](https://youtu.be/Ei-TcECJVXU) @natgeosociety @nasa-jpl imma look at this video at some point... 
+### Live From the JPL Clean Room — Building [NEO Surveyor](https://www.jpl.nasa.gov/missions/near-earth-object-surveyor/) + [ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)
+ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths) is a high-altitude balloon mission for studying astrophysical phenomena. [![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxoCCvjW4Uo?si=VBAg4WzoOgoWK78F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[NASA’s First-Ever Journey to a Metal-Rich Asteroid Launching Soon!](https://svs.gsfc.nasa.gov/14421/)
+![pysche](https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_Quick_Intro.2e16d0ba.fill-1024x441-c10.jpg)
+
 [City Walls: United States](https://www.graffiti.org/index/usa.html)
 ![SPACEx @r-spacex](https://pbs.twimg.com/media/GsOCfkUaMAAvaf6?format=jpg&name=large)
 ## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)
@@ -33,17 +40,6 @@ mermaid: true
 
 
 [Columbia Memorial Space Center](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center) + [Downey_California.ORG](https://www.downeyca.org/our-city/departments/columbia-memorial-space-center) [40 Years Ago: Space Shuttle Atlantis Makes its Public Debut ](https://www.nasa.gov/history/40-years-ago-space-shuttle-atlantis-makes-its-public-debut/)
-
-
-[EXPLORE LA - Huge Inspiration space shuttle mock-up will be making a move through Downey streets](https://laist.com/news/los-angeles-activities/inspiration-space-shuttle-mock-up-downey-move) [prototype?](https://www.presstelegram.com/2024/10/17/massive-shuttle-prototype-rolls-through-downey-streets-en-route-to-display-some-day/) 
-[Downy](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center#/media/File:ColumbiaMemorialSpaceCenterLogo.png)
-
-
-[City Walls: United States](https://www.graffiti.org/index/usa.html)
-
-
-[NASA’s First-Ever Journey to a Metal-Rich Asteroid Launching Soon!](https://svs.gsfc.nasa.gov/14421/)
-![pysche](https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_Quick_Intro.2e16d0ba.fill-1024x441-c10.jpg)
 
 ## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)
 [Aeolian geology](https://www.uahirise.org/science_themes/aeolian.php) is the study of landforms formed by wind (Aeolus is the wind god in Greek mythology)
@@ -59,10 +55,15 @@ webm</a>
   video.
 </video>
   
-[LARGE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_018000_018099/ESP_018039_1890/ESP_018039_1890_RED.abrowse.jpg)
+[LARGE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_018000_018099/ESP_018039_1890/ESP_018039_1890_RED.abrowse.jpg) ![dunes on mars](https://static.uahirise.org/images/2011/details/ESP_017762_1890.jpg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb) [LATiMES JUPYTER_NOTEBOOK](https://github.com/jupyter/notebook)
 
-![dunes on mars](https://static.uahirise.org/images/2011/details/ESP_017762_1890.jpg)
-@datadesk ~> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb) @datadesk [LATiMES JUPYTER_NOTEBOOK](https://github.com/jupyter/notebook)
+
+[EXPLORE LA - Huge Inspiration space shuttle mock-up will be making a move through Downey streets](https://laist.com/news/los-angeles-activities/inspiration-space-shuttle-mock-up-downey-move) [prototype?](https://www.presstelegram.com/2024/10/17/massive-shuttle-prototype-rolls-through-downey-streets-en-route-to-display-some-day/) 
+[Downy](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center#/media/File:ColumbiaMemorialSpaceCenterLogo.png)
+
+
+
+
 
 
 <script type="module">
