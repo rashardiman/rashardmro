@@ -21,10 +21,41 @@ mermaid: true
  
 </div> 
 
+## ThakaRashard
+### rashardmro
+actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) on @x f.k.a @twitter 
+[Commit c1a7e30](https://github.com/ThakaRashard/rashardmro/commit/c1a7e30d29fe97bdb601ba0ca32a87515b72e07e) i was recently asked to remove a tweet by [force](https://archive.org/details/article_1_declaration_of_rights_section_1__sec_2_californiaconstitution)
+
+<figure>
+ <a href="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
+ <img src="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Mar22 Schema Test</a></figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" > 
+ <img src="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
+</figure>
+ 
+</div>
+
+[<img src="https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png" alt="The Apple IIe (styled as Apple //e) is the third model in the Apple II series of personal computers produced by Apple Computer. It was released in January 1983" />](https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png) 
+
+
 # Rashard Kelly @Nasa-Jpl MRO JUNO iSS
 [Uncovering the Secrets of the International Space Station](https://youtu.be/Ei-TcECJVXU) @natgeosociety @nasa-jpl imma look at this video at some point... 
 ### Live From the JPL Clean Room — Building [NEO Surveyor](https://www.jpl.nasa.gov/missions/near-earth-object-surveyor/) + [ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)
 ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths) is a high-altitude balloon mission for studying astrophysical phenomena. [![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
+
+
+
+### This image was acquired on March 18, 2025 (Sol 1449) at the local mean solar time of 11:05:40.
+[NASA's Mars Perseverance rover](https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/) acquired this image using its onboard Left Navigation Camera (Navcam). [The camera](https://www.youtube.com/watch?v=4czjS9h4Fpg) is located high on the rover's mast and aids in driving. [LANDiNG airborne-sys.com](https://airborne-sys.com/2021/02/23/mars-perseverance-raw-images/) [Gallery of raw images received from the Mars Perseverance Rover - REDDit r/nasa @nasa @nasa-jpl](https://www.reddit.com/r/nasa/comments/ln0c46/gallery_of_raw_images_received_from_the_mars/?rdt=52431) [Sample Rocks](https://youtu.be/PPgFKZvfMUU)
+[M.A.R.S: Martian Advanced Renewable Systems - GATECH](https://vip.gatech.edu/teams/vvd) [Tmobile Curiosity](https://curiositylabptc.com/)
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxoCCvjW4Uo?si=VBAg4WzoOgoWK78F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [NASA’s First-Ever Journey to a Metal-Rich Asteroid Launching Soon!](https://svs.gsfc.nasa.gov/14421/)
