@@ -26,6 +26,7 @@ mermaid: true
 ### Live From the JPL Clean Room — Building [NEO Surveyor](https://www.jpl.nasa.gov/missions/near-earth-object-surveyor/) + [ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)
 ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths) is a high-altitude balloon mission for studying astrophysical phenomena. [![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxoCCvjW4Uo?si=VBAg4WzoOgoWK78F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [NASA’s First-Ever Journey to a Metal-Rich Asteroid Launching Soon!](https://svs.gsfc.nasa.gov/14421/)
 ![pysche](https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_Quick_Intro.2e16d0ba.fill-1024x441-c10.jpg)
 
