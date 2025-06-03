@@ -30,6 +30,27 @@ actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](htt
 
 [Columbia Memorial Space Center](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center) + [Downey_California.ORG](https://www.downeyca.org/our-city/departments/columbia-memorial-space-center) [40 Years Ago: Space Shuttle Atlantis Makes its Public Debut ](https://www.nasa.gov/history/40-years-ago-space-shuttle-atlantis-makes-its-public-debut/)
 
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+[AcmeMapper](https://mapper.acme.com/)
+### NASA’s Parker Solar Probe Discovers Natural Radio Emission in Venus’ Atmosphere
+On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona – the Sun’s upper atmosphere – in 2021,During a brief swing by Venus, NASA’s Parker Solar Probe detected a natural radio signal that revealed the spacecraft had flown through the planet’s upper atmosphere.
+![ParkerSolarProbe](https://science.nasa.gov/wp-content/uploads/2023/03/parker-solar-probe-logo-1024x1024-2304629351.png)
+
+<video controls preload="none" width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013847/13847_Parker_Venus.00100_print.jpg">
+
+<source src="https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013847/13847_Parker_Venus.mp4" type="video/mp4" />    
+<source src="https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013847/13847_Parker_Venus.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
 ## Earth Rotation from Galileo Imagery: 3600 x Real-Time [JPL](https://www.jpl.nasa.gov/galileo/index.html)
 This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the Galileo spacecraft during a close pass of the Earth on December 11-12, 1990
 <video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001372/a001372.00095_print.png" >
@@ -43,6 +64,20 @@ webm</a>
   video.
 </video>
 
+
+
+### CONSTITUTION OF THE STATE OF CALIFORNIA ([1849](https://digitalcommons.csumb.edu/hornbeck_usa_3_d/108/))
+Sec. 1 – All men are by nature free and independent, and have certain inalienable rights, among which are those of enjoying and defending life and liberty, ...
+[DOWNLOAD PDF 1849 CALiFORNiA CONSTiTUTiON](https://www.dircost.unito.it/cs/pdf/18490000_UsaCalifornia_eng.pdf)
+The original Constitution for California was adopted at the California Constitutional Convention on October 10, 1849, and ratified on November 13, 1849. The United States Congress in 1848 failed to set up any government for California either territorial or state, and adjourning early in 1849 without taking any action. - [@csumb 1849 - California Constitution](https://digitalcommons.csumb.edu/hornbeck_usa_3_d/108/)
+### Records of the Constitutional Convention of 1849 
+[Records of the Constitutional Convention of 1849 ](https://archives.cdn.sos.ca.gov/pdf/1849-california-constitution-for-website-9-16-20.pdf) [SPANiSH](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+@nasa @whitehouse @stateofcalifornia @cityoflosangeles 
+[The Constitution of 1849](https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Introduction_to_California_Government_and_Politics_(Reti)/02%3A_California_Constitutional_Development/2.02%3A_The_Constitution_of_1849) It was 1849. The Mexican War has ended, and American troops occupied California. Most people believed that the state would join the United States. The military governed California as temporary administrators using existing California laws originating from Mexico. General Bennett Riley, the military governor, called for a constitutional convention to meet in Monterey on September 1 [READMORE](https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Introduction_to_California_Government_and_Politics_(Reti)/02%3A_California_Constitutional_Development/2.02%3A_The_Constitution_of_1849)
+
+# NASA EMIT Instrument Maps Global Airborne Mineral Dust
+### press release [link](https://www.psi.edu/blog/project/earth-surface-mineral-dust-source-investigation-emit/) [ArticleSource](https://www.psi.edu/blog/nasa-emit-instrument-maps-global-airborne-mineral-dust/)
+![emit @nasa](https://www.psi.edu/wp-content/uploads/UPPER-emit-tetracorder-lake-mead-v1-1-copy-2.jpg)
 
 # Dear_Mayor_Bass
 @Noaa is one of the federal agencies that contracts us for AeroSpace work here in [LA_COuntY](@cityoflosangeles) an they are introuble according to some news i read... so i started building quick facts so we can have our budget secured @whitehouse @nasa @nasa-jpl [Look at some of our work @nasa-jpl ](https://ricothakarashard.github.io/rashardmro/2025/04/18/NOAA.html) @erinsteiner-NOAA i made this page bc i read a lot of press about us being [defunded](https://www.nasa.gov/centers-and-facilities/jpl/nasa-noaa-tech-will-aid-marine-oil-spill-response/)
@@ -277,6 +312,36 @@ By <a href="//en.wikipedia.org/wiki/Kenichi_Sonoda" title="Kenichi Sonoda">Kenic
 Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a fantasy-themed 2D fighting game released by Capcom as an arcade game in 1996. It was the first game for Capcom's CP System III hardware,[2] the same hardware which Street Fighter III and its derivatives ran on.[3] After not being released on a home platform for 26 years, it was announced on February 20, 2022 that Red Earth would receive its first port as a part of the Capcom Fighting Collection on June 24, 2022 for PlayStation 4, Xbox One, Nintendo Switch, and PC.[4] 
 
 <a href="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg" style="width:180px;height:252px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> 
+
+
+### Surface Biology and Geology 2025 LP DAAC Workshop: Finding Coincident Airborne and Orbital Data
+[@nasa ViTALS #ECOSTRESS @nasa-jpl @usgs](https://nasa.github.io/VITALS/)
+![PODAAC](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUccFK-k1PTi5X5AxdGgvQRc2c5ud-mvTShYU6yB6BbeSU5mEMkr3gr5W9w-8AtJvd3JD9y4e0C8yOr9kGLVPJW81wl4Ha69G5L_5RjnRlfXFmQjfyuuur1jQH4oKPkFIvpDzmHnbNkWEmV1HEyDCUY=s2048?key=GCQrf0BnbF-shzgHwIC_Rw)
+### Today Thur 5/29.###
+![COBBLER](https://pbs.twimg.com/media/GsIim-DaUAAMWJI?format=jpg&name=large)
+[@cityoflosangeles cobbler tweet](https://x.com/BubbleGumPop510/status/1928142024714207292)
+![ALPine @docker](https://pbs.twimg.com/media/GsIqwyyaUAIZebV?format=png&name=large)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/91ROtOtXRh">https://t.co/91ROtOtXRh</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> is <a href="https://twitter.com/hashtag/MULTiMiSSiON?src=hash&amp;ref_src=twsrc%5Etfw">#MULTiMiSSiON</a> right now! including <a href="https://twitter.com/Firefly_Space?ref_src=twsrc%5Etfw">@Firefly_Space</a> the ppl that introduced me to <a href="https://twitter.com/hashtag/Grafana?src=hash&amp;ref_src=twsrc%5Etfw">#Grafana</a> <a href="https://twitter.com/grafana?ref_src=twsrc%5Etfw">@grafana</a> i had <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> training <a href="https://twitter.com/RentPathNetwork?ref_src=twsrc%5Etfw">@RentPathNetwork</a> it was <a href="https://twitter.com/DockerCon?ref_src=twsrc%5Etfw">@DockerCon</a> <a href="https://twitter.com/hashtag/QUALiTY?src=hash&amp;ref_src=twsrc%5Etfw">#QUALiTY</a> <a href="https://twitter.com/defcon?ref_src=twsrc%5Etfw">@Defcon</a> <a href="https://twitter.com/6Gems?ref_src=twsrc%5Etfw">@6Gems</a> <a href="https://t.co/z9GRk4tPGj">https://t.co/z9GRk4tPGj</a> imma let this one runout <a href="https://t.co/nSSz3sKTr5">pic.twitter.com/nSSz3sKTr5</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1928150451519660240?ref_src=twsrc%5Etfw">May 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### Today Sat 5/24.###
+# [Mary J Blige](https://www.youtube.com/watch?v=WER5Q1ZoYms&themeRefresh=1)* – Strength Of A Woman: `U + Me` [DiSCOGS](https://www.discogs.com/master/1172926-Mary-J-Blige-Strength-Of-A-Woman)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+
+### Picturing Earth: Astronaut Photography In Focus
+[Astronaut Photography Interactive Map @nasa @whitehouse @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode](https://eol.jsc.nasa.gov/ExplorePhotos/) : : [Astronaut Pictures of Earth](https://storymaps.arcgis.com/stories/8dc1cafd3f4a4c70b9ce314d8c06f329) [DARKERSKY4CE](https://darkersky4ce.inaf.it/instrument-sheet-iss-astronaut-photography/)
+[CHANNEL @nasa @youtube.com/@NASAEarthObservatory](https://www.youtube.com/@NASAEarthObservatory)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TtdOVbWjXo?si=nX6btX_zXKOKkPO6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<object data="https://dn721908.ca.archive.org/0/items/mega-man-2-nes-manual/Mega-Man-2-Game-Manual.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+[MEGAMANGAMES_EMU](https://www.megamangames.net/)
+>NEXTSESH(iSH) [dockerfile.app/learn](https://www.dockerfile.app/learn#dockerfile/base-image)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/297250369&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/camploofficial" title="Camp Lo" target="_blank" style="color: #cccccc; text-decoration: none;">Camp Lo</a> · <a href="https://soundcloud.com/camploofficial/black-jesus" title="Black Jesus" target="_blank" style="color: #cccccc; text-decoration: none;">Black Jesus</a></div>
+
+[NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
+@nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/784455875487203328/v2" data-did="1aadbb6d3e6972b81bc450b5e84b361bdb25ec0a"  ><a href="https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport">https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+[MyLinuxPage]({{ site.url }}{{ site.baseurl }}/linux) an [MyBinder]({{ site.url }}{{ site.baseurl }}/mybinder)
 
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
