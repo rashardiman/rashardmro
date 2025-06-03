@@ -56,16 +56,6 @@ webm</a>
   video.
 </video>
   
-[LARGE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_018000_018099/ESP_018039_1890/ESP_018039_1890_RED.abrowse.jpg) ![dunes on mars](https://static.uahirise.org/images/2011/details/ESP_017762_1890.jpg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb) [LATiMES JUPYTER_NOTEBOOK](https://github.com/jupyter/notebook)
-
-
-[EXPLORE LA - Huge Inspiration space shuttle mock-up will be making a move through Downey streets](https://laist.com/news/los-angeles-activities/inspiration-space-shuttle-mock-up-downey-move) [prototype?](https://www.presstelegram.com/2024/10/17/massive-shuttle-prototype-rolls-through-downey-streets-en-route-to-display-some-day/) 
-[Downy](https://en.wikipedia.org/wiki/Columbia_Memorial_Space_Center#/media/File:ColumbiaMemorialSpaceCenterLogo.png)
-
-
-
-
-
 
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
