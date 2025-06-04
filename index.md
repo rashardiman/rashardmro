@@ -21,6 +21,11 @@ mermaid: true
  
 </div> 
 
+
+# NEWS 
+[Military Made: 3 of NASA's Newest Astronauts Talk Training, What's Next
+](https://www.defense.gov/News/Feature-Stories/Story/Article/3738594/military-made-3-of-nasas-newest-astronauts-talk-training-whats-next/)
+
 ## ThakaRashard
 ### rashardmro
 actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) on @x f.k.a @twitter 
