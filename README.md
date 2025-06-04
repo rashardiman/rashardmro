@@ -12,7 +12,7 @@
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
 
-![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+![Thumbnail of Rashard](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/rashard_iman_kelly_NASAJPL_TAKLENBY_JOSE_m_Pi.jpg)
 
 
 ![Perservere](https://science.nasa.gov/wp-content/uploads/2024/03/1065.gif)
