@@ -24,7 +24,7 @@ mermaid: true
 # Trip to Mars
 by Dave Fleischer
 
-A Trip to Mars (Danish: [Himmelskibet, or Heaven Ship](https://youtu.be/kyn79hMguIU) ) is a 1918 Danish film about [a trip to Mars](https://www.jpl.nasa.gov/missions/mars-sample-return-msr/)
+A Trip to Mars Danish: [Himmelskibet,orHeavenShip](https://youtu.be/kyn79hMguIU)  is a 1918 Danish film about [a trip to Mars](https://www.jpl.nasa.gov/missions/mars-sample-return-msr/)
 [imdb](https://www.imdb.com/title/tt0015431/) [fandom](https://fleischer-studios.fandom.com/wiki/A_Trip_to_Mars) [wiki](https://en.wikipedia.org/wiki/A_Trip_to_Mars) 
 
 <iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
