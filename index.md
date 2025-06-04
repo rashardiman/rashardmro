@@ -20,6 +20,16 @@ mermaid: true
 {% endfor %}
  
 </div> 
+[DailY](https://youtu.be/ulYsAqdXo7E?si=c_5F3dY0LEmnxs78) [Messij](https://youtu.be/4uQnXvRndcE?si=qdn1Zw9NRpjkqpP6)
+# Trip to Mars
+by Dave Fleischer
+
+A Trip to Mars (Danish: [Himmelskibet, or Heaven Ship](https://youtu.be/kyn79hMguIU) ) is a 1918 Danish film about [a trip to Mars](https://www.jpl.nasa.gov/missions/mars-sample-return-msr/)
+[imdb](https://www.imdb.com/title/tt0015431/) [fandom](https://fleischer-studios.fandom.com/wiki/A_Trip_to_Mars) [wiki](https://en.wikipedia.org/wiki/A_Trip_to_Mars) 
+
+<iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[untoldstoryofhiphop](https://youtu.be/Q__6DEpFSqo?si=Rgj9JsX0Yp9U26O6)
 
 ## ThakaRashard
 ### rashardmro
