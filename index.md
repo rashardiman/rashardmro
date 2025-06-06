@@ -3,14 +3,7 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
-![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
-[Mars Reconnaissance Orbiter Launch - PRESSKiT 2005](https://web.archive.org/web/20060107134751/http://mars.jpl.nasa.gov/mro/newsroom/presskits/pdfs/mro-launch.pdf)
-[Mars Reconnaissance Orbiter Launch - FACTSHEET 2005](https://web.archive.org/web/20050123023821/http://mars.jpl.nasa.gov/mro/newsroom/factsheets/pdfs/MRO-040620.pdf)
-<div class="box">
 
 {% for post in site.posts %}
    
@@ -20,6 +13,18 @@ mermaid: true
 {% endfor %}
  
 </div> 
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+
+[Mars Reconnaissance Orbiter Launch - PRESSKiT 2005](https://web.archive.org/web/20060107134751/http://mars.jpl.nasa.gov/mro/newsroom/presskits/pdfs/mro-launch.pdf)
+[Mars Reconnaissance Orbiter Launch - FACTSHEET 2005](https://web.archive.org/web/20050123023821/http://mars.jpl.nasa.gov/mro/newsroom/factsheets/pdfs/MRO-040620.pdf)
+<div class="box">
+
+
+[https://codepen.io/ricoThaka/pen/xbxXbeq BLOG_LAYOUT##FROSTED_GLASS##THANKS_LEA @leaverou !!! ](https://codepen.io/ricoThaka/pen/xbxXbeq)
 [DailY](https://youtu.be/ulYsAqdXo7E?si=c_5F3dY0LEmnxs78) [Messij](https://youtu.be/4uQnXvRndcE?si=qdn1Zw9NRpjkqpP6)
 # Trip to Mars
 by Dave Fleischer
