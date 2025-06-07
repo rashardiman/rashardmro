@@ -21,7 +21,7 @@ mermaid: true
 
 
 <object data="https://eyes.nasa.gov/curiosity/" type="text/html" width="700" height="500"></object>
-   
+   [BLendForWeb](https://www.blend4web.com/en/demo/experience_curiosity/) [ScienceGameCenter](https://www.sciencegamecenter.org/games/experience-curiosity) [BlenderNews](https://www.blender.org/user-stories/nasas-experience-curiosity/) @blender @blackgirlscode happy p rr iiiiy de [Buro.de.TYPEDiFFERENT](https://burodestruct.net/work/typedifferent-fonts)
 [Mars Reconnaissance Orbiter Launch - PRESSKiT 2005](https://web.archive.org/web/20060107134751/http://mars.jpl.nasa.gov/mro/newsroom/presskits/pdfs/mro-launch.pdf)
 [Mars Reconnaissance Orbiter Launch - FACTSHEET 2005](https://web.archive.org/web/20050123023821/http://mars.jpl.nasa.gov/mro/newsroom/factsheets/pdfs/MRO-040620.pdf)
 
@@ -37,12 +37,13 @@ A Trip to Mars Danish: [Himmelskibet,orHeavenShip](https://youtu.be/kyn79hMguIU)
 
 <iframe src="https://archive.org/embed/silent-trip-to-mars" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[untoldstoryofhiphop](https://youtu.be/Q__6DEpFSqo?si=Rgj9JsX0Yp9U26O6)
+[untoldstoryofhiphop](https://youtu.be/Q__6DEpFSqo?si=Rgj9JsX0Yp9U26O6) [opinions on the book "THE DESIGN OF THE UNIX OPERATING SYSTEM" r/cprogramming•1 yr. ago rejectedlesbian](https://www.reddit.com/r/cprogramming/comments/1b1qdcb/opinions_on_the_book_the_design_of_the_unix/?rdt=58745)
 
 
 # NEWS 
 [Military Made: 3 of NASA's Newest Astronauts Talk Training, What's Next
 ](https://www.defense.gov/News/Feature-Stories/Story/Article/3738594/military-made-3-of-nasas-newest-astronauts-talk-training-whats-next/)
+[The Design of the UNIX Operating System](https://abhyass.wordpress.com/wp-content/uploads/2016/09/thedesignofunixoperatingsystem_m_bach.pdf)
 
 ## ThakaRashard
 ### rashardmro
