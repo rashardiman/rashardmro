@@ -19,6 +19,9 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
+
+[<img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png" alt="Apple IIe" />](https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png)
+
 <iframe src="https://archive.org/embed/Number_Munchers_v1.2_1986_MECC" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <object data="https://eyes.nasa.gov/curiosity/" type="text/html" width="700" height="500"></object>
    
