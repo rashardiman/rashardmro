@@ -20,6 +20,31 @@ mermaid: true
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
 
+[FM Radio in Smartphones: A Look Under the Hood](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf) [NAB.org](https://www.nab.org/) @FCC @nasa-jpl @blackgirlscode @whitehouse @fema @cityoflosangeles @stateofcalifornia
+
+# Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
+<div itemprop="about" class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif" alt="By Berserkerus - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5071748"/> 
+
+[Broadcast radio HAL](https://source.android.com/docs/automotive/radio/broadcast-radio-hal) The following sections describe how to work with the hardware abstraction layer (HAL) to implement broadcast radio. `IBroadcastRadio` is the primary interface for the broadcast radio HAL. In the HIDL 2.0 HAL, use the ITunerSession interface to the tuner to call operations. However, at most one tuner is active at one time (provided each broadcast radio HAL instance only has one tuner chip). ITunerSession was removed from the AIDL interfaces and its interfaces moved to IBroadcastRadio.
+
 [<img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png" alt="Apple IIe" />](https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png)
 
 <iframe src="https://archive.org/embed/Number_Munchers_v1.2_1986_MECC" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
