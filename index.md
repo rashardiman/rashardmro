@@ -20,7 +20,36 @@ mermaid: true
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
 
+![Northrop Grumman](https://upload.wikimedia.org/wikipedia/commons/3/36/Northrop_Grumman_logo_blue-on-clear_2020.svg)
+# Linux Systems Administrator 1/2
+## United States-California-Redondo Beach
+- RELOCATION ASSISTANCE: No relocation assistance available
+- CLEARANCE TYPE: Secret
+- TRAVEL: Yes, 10% of the Time
+  [ID: R10188352 Redondo Beach](https://jobs.northropgrumman.com/careers/job?domain=ngc.com&pid=1340057535631&query=linux&domain=ngc.com&sort_by=relevance&triggerGoButton=true&job_index=5)
+### Description
+Northrop Grumman Enterprise Services is seeking a Linux Systems Administrator.  This role can be performed by a level 1 or level 2 (entry level or early career). This position is located in Redondo Beach, CA. and will be 100% onsite.
+### What I need
+[DOD Cybersecurity Certificate](https://info.pe.gatech.edu/defense-technologies/?utm_source=Google&utm_campaign=EMS_GGPS%7C_Defense_Technology&trackid=51300B54-869E-4DC6-A327-138551A42450&utm_medium=cpc&utm_content=c_DOD_Cyber&utm_term=p_dod%20cybersecurity%20training&adid=704025215651&gclid=Cj0KCQjwjJrCBhCXARIsAI5x66Uu-idmnWJHsnBeLLMHtAVJKFQVqly23mTzFPpkWfOPFzwk7pi63wcaAhbUEALw_wcB&gad_source=1&gad_campaignid=20277879026&gbraid=0AAAAApcUXbmoyFwoqf2fajP3Cb16x9Ygn) [DoD 8570 IAM certification – Level I - infosec](https://www.infosecinstitute.com/resources/dod-8570/dod-8570-iam-certification-level-i/)  [![Twitter Follow](https://img.shields.io/badge/Social-@northropgrumman__-blue?style=social&logo=X)](https://twitter.com/@northropgrumman) 
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FNorthropGrumman%2Fvideos%2F1510971672662983%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
+..
+
+# Graffiti Update
+[![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)  [Jorege](https://freeagentscrew.com/tag/dekae/) is one of my Early Teachers.
+### Dekae [FA](https://freeagentscrew.com/tag/dekae/), Inkheads - Miami, March 2023
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=4WdAH27f4z7hJe7e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+![lariotgrafffworknotesandimpersonationnotes-07](https://github.com/user-attachments/assets/9c75776d-5023-4522-b69b-b56f314f2e8a)
+
+[Time Machine-The Way Things Are](https://www.youtube.com/watch?v=5YMYrB0dqoU) @stateofcalifornia about the porn ... the place is a mess 
+[EMOJi](https://emojipedia.org/google)
+[/var/log](https://ricothakarashard.github.io/mybinder/var_log)
 
 # FaceBook.Com update
 #GM Laurie Leshin Veronica McGregor Congressmember Karen Bass Kimberly Bryant, Founder Black Girls CODE there was #CivilUprest last night in Downtown Los aNGeles, Los Angeles Times building has broken glass doors and there is graffiti everywhere! i was LAX exploring Metro Los Angeles #K_LiNE and the new transit terminal and how to leave los angeles! This is one tag "Hole To Another Universe" i did with a sharpie the night b4 my bag was stolen. I hope we can come to peace it was 2 inches wide and 1 inch tall! Theres something wrong with MTVLA BET Grammy Awards etc Spotify bc they pumping a culture that is destroying northamerica! Its a blind rebellion and ppl into NFT are raking in the Cash as well as bitcoin! ITs alternative news, NASA Supercomputing all that can be legal until ppl get hurt! If people want to do transactions we should be routing all the web traffick Spectrum T-Mobile its rashard... its the cellphone porn an thats CRAIGSLIST (559) Buy, Sell, and Trade for buying human flesh! Chloe Bailey personal blog i dont know what i saw in LAX but it had those drop shadow eyebrows u ATL_Girls were into early in the instagram period. Please guide me, i could go home with someone Kash Doll just from wanting to be seen and that could lead to kidnapping NASA Jet Propulsion Laboratory Essence Georgia Division of Family & Children Services [POSTLiNG @nasas](https://www.facebook.com/NASASTEMEngagement/posts/pfbid032rVTnFwWSiaMt8PVgE5iHJeU1AZqTQQkPD62MZ7RWS8YuWc7nLvGHuaPZ71xrAqsl) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) : [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDHQ__-blue?style=social&logo=X)](https://twitter.com/@LAPDHQ)
