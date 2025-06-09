@@ -21,6 +21,17 @@ mermaid: true
 
 
 
+
+# FaceBook.Com update
+#GM Laurie Leshin Veronica McGregor Congressmember Karen Bass Kimberly Bryant, Founder Black Girls CODE there was #CivilUprest last night in Downtown Los aNGeles, Los Angeles Times building has broken glass doors and there is graffiti everywhere! i was LAX exploring Metro Los Angeles #K_LiNE and the new transit terminal and how to leave los angeles! This is one tag "Hole To Another Universe" i did with a sharpie the night b4 my bag was stolen. I hope we can come to peace it was 2 inches wide and 1 inch tall! Theres something wrong with MTVLA BET Grammy Awards etc Spotify bc they pumping a culture that is destroying northamerica! Its a blind rebellion and ppl into NFT are raking in the Cash as well as bitcoin! ITs alternative news, NASA Supercomputing all that can be legal until ppl get hurt! If people want to do transactions we should be routing all the web traffick Spectrum T-Mobile its rashard... its the cellphone porn an thats CRAIGSLIST (559) Buy, Sell, and Trade for buying human flesh! Chloe Bailey personal blog i dont know what i saw in LAX but it had those drop shadow eyebrows u ATL_Girls were into early in the instagram period. Please guide me, i could go home with someone Kash Doll just from wanting to be seen and that could lead to kidnapping NASA Jet Propulsion Laboratory Essence Georgia Division of Family & Children Services [POSTLiNG @nasas](https://www.facebook.com/NASASTEMEngagement/posts/pfbid032rVTnFwWSiaMt8PVgE5iHJeU1AZqTQQkPD62MZ7RWS8YuWc7nLvGHuaPZ71xrAqsl) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) : [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDHQ__-blue?style=social&logo=X)](https://twitter.com/@LAPDHQ)
+![lariotgrafffworknotesandimpersonationnotes-07](https://github.com/user-attachments/assets/297489c6-7f1b-47fb-81a6-843da8ad3384) [LA:STREETBLOG](https://la.streetsblog.org/2025/06/06/metros-lax-mega-station-is-open) _ [Inside the new LAX Metro/Transit Center Station](https://la.urbanize.city/post/inside-new-lax-metrotransit-center-station) _ [@datadesk A trip to LAX without a car? Metro opens long-awaited LAX station](https://www.latimes.com/california/story/2025-06-06/metro-opens-lax-station-offers-free-weekend-rides-across-system) _ 
+
+![lariotgrafffworknotesandimpersonationnotes-01](https://github.com/user-attachments/assets/0ee863fb-d653-491a-b858-3c1815c16f3b)
+<article class="section_2col" markdown="1">
+	
+![LAX_METRO](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/LAX_Metro_Transit_Center_platform%2C_opening_day.jpg/1024px-LAX_Metro_Transit_Center_platform%2C_opening_day.jpg) 
+![LAX METRO CONSTRUCTiON](https://upload.wikimedia.org/wikipedia/commons/e/ea/LAX_Metro_Transit_Center_station_construction_July_2023_02.jpg)
+</article>
 <article class="section_2col">
   <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg" /></a>  
   
@@ -31,11 +42,12 @@ mermaid: true
   
   </a>    <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG" /></a>  
 </article>
-<section class="section_2col">
+
+<article class="section_2col">
   <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>  
-</section><section class="section_2col">
-  <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>  
-</section>
+</article>
+
+
 
 [FM Radio in Smartphones: A Look Under the Hood](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf) [NAB.org](https://www.nab.org/) @FCC @nasa-jpl @blackgirlscode @whitehouse @fema @cityoflosangeles @stateofcalifornia
 
