@@ -20,6 +20,23 @@ mermaid: true
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
 
+
+<article class="section_2col">
+  <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg" /></a>  
+  
+  <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390082302286C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390082302286C00_DXXX.jpg" /></a>   
+  
+  
+   <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390102302288C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390102302288C00_DXXX.jpg" />
+  
+  </a>    <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG" /></a>  
+</article>
+<section class="section_2col">
+  <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>  
+</section><section class="section_2col">
+  <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>    <a href="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" /></a>  
+</section>
+
 [FM Radio in Smartphones: A Look Under the Hood](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf) [NAB.org](https://www.nab.org/) @FCC @nasa-jpl @blackgirlscode @whitehouse @fema @cityoflosangeles @stateofcalifornia
 
 # Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
