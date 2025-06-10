@@ -7,3 +7,7 @@
 ![image](https://github.com/user-attachments/assets/ab739296-d4bd-4b9f-bf56-80e6d5de5830)
 
 ![image](https://github.com/user-attachments/assets/b9936ff1-e435-42af-a8ef-878a1b21ddf6)
+
+[Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU) 
+@blackgirlscode gm share this with my bubble tea freidn, i think it was written in the bay area... the style reminds me of how erika hurt me, but ~***~ your body hurt me bc your life is about making other ppl happy an ppl say in songs `how` they laid it down and on the street and i want that for my body as well @nasa-jpl im not being mean @stateofcalifornia 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU?si=EveMrNK44eQ2jyE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
