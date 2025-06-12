@@ -208,20 +208,20 @@ display:block;}
 p:first-of-type {
    color:#8bffbd; 
   }
-  .floatright img:nth-child(odd) {
-    float: right;
-  }
-  .floatleft img:nth-child(even) {
-    float: left;
-    border-bottom: solid 10px #ffffff50;
-  }
+
+
 
 img {
 
 
   max-width: 100%;
   display: block;
-}
+    transition: all 0.5s linear;
+  }
+  
+img:hover {
+    transform: scale(1.05);
+  }
 
   a {
     font-weight:400;
@@ -469,10 +469,11 @@ strong {
  
 .floatright img:nth-child(odd) {
   float: right;
+	border-bottom: solid 5px #ffffff50;
 }
 .floatleft img:nth-child(even) {
   float: left;
-  border-bottom: solid 10px #ffffff50;
+  border-bottom: solid 5px #14C97A50;
 }
 
 blockquote {
