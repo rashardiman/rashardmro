@@ -15,9 +15,12 @@ mermaid: true
 </div> 
 
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+[Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook
 # Confirm your identity
 ## We couldn't access your camera
 Make sure your camera is on and Facebook is allowed to use it. You can grant access to your camera in your browser settings.
+![image](https://github.com/user-attachments/assets/99ed76fe-3769-4511-8172-e45232b300f8)
+
 ![image](https://github.com/user-attachments/assets/57dd82f5-f679-4811-a598-545e99281e65)
 @stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
