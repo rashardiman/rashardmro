@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/9d55a3bf-57dd-4a20-a6a0-f00957499d9b)
+[All About Erika](https://www.blurb.com/b/328121-all-about-erika?srsltid=AfmBOor3Ciocu_LkQhwC5I5dXFGLQDUn0lksFt3TmN5k0aTr1jggWlxs)
+>by Rashard Kelly @nasa-jpl please read it @defensedept @whitehouse @cityoflosangeles @stateofcalifornia @blackgirlscode @DARPA
 [CurrentWork - rashardMRO - CODEPEN](https://codepen.io/ricoThaka/pen/JoPxzrd?editors=1100)
 
 [iD.NASA.GOV - NASA USER LOGiN](https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9NTNkZDk1YjQtM2Q2NC00MDA4LTg4NTQtZDAzMTAzOWIyMmM0JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT1uZnFJb3kxWERhcnVLXzhEM2dIR2tUUnl5RnhlM1Z2QlViVHlYQzJvWDI4JTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLm5hc2EuZ292L2xvZ2luL29hdXRoMi9jb2RlL2xhdW5jaHBhZCZub25jZT1KeUtpVGl2ZHpHbzBBVDlFbldMbk4zRUNJVEJ5RGhHZnI0ZWlFa21jTDFFJlNNUE9SVEFMVVJMPWh0dHBzJTNBJTJGJTJGYXV0aC5sYXVuY2hwYWQubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D)

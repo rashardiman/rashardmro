@@ -16,6 +16,18 @@ mermaid: true
 
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 [Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook
+![image](https://github.com/user-attachments/assets/b1a8ca9a-5a07-4a08-9258-786a2bd0524c)
+
+![image](https://github.com/user-attachments/assets/8e05ea64-ec6c-43b9-9747-0fd7258efa72)
+[All Around Atlanta](https://www.blurb.com/books/3059722-all-around-atlanta)
+>by Rashard Kelly @nasa-jpl please read it @defensedept @whitehouse @cityoflosangeles @stateofcalifornia @blackgirlscode @DARPA
+
+![image](https://github.com/user-attachments/assets/9d55a3bf-57dd-4a20-a6a0-f00957499d9b)
+[All About Erika](https://www.blurb.com/books/328121-all-about-erika)
+>by Rashard Kelly @nasa-jpl please read it @defensedept @whitehouse @cityoflosangeles @stateofcalifornia @blackgirlscode @DARPA
+[CurrentWork - rashardMRO - CODEPEN](https://codepen.io/ricoThaka/pen/JoPxzrd?editors=1100)
+
+
 # Confirm your identity
 ## We couldn't access your camera
 Make sure your camera is on and Facebook is allowed to use it. You can grant access to your camera in your browser settings.
