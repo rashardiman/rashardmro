@@ -14,6 +14,8 @@ mermaid: true
  
 </div> 
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+![image](https://github.com/user-attachments/assets/a0f753c9-e646-4e52-9586-74b278a3f3c2)
+
 `
 Confirm your identity with a video selfie
 To make sure you’re a real person, we need you to record a video selfie. We’ll ask you to move your head during the recording to help us [capture your face at different angles.](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) 
