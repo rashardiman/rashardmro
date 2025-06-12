@@ -15,6 +15,9 @@ mermaid: true
 </div> 
 
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+![image](https://github.com/user-attachments/assets/57dd82f5-f679-4811-a598-545e99281e65)
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 
 ![image](https://github.com/user-attachments/assets/a0f753c9-e646-4e52-9586-74b278a3f3c2)
 
