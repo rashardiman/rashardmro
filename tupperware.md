@@ -3,6 +3,18 @@ layout: null
 title: tweets
 ---
 
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+  
 [°Goes Wind calculator](https://www.star.nesdis.noaa.gov/goes/conus_band.php?sat=G18&band=DMW&length=48&dim=undefined)
 [Interactive Global Geostationary Weather Satellite Images - GOES](https://weather.ndc.nasa.gov/GOES/)
 [ALERTCalifornia is a UC San Diego Program](https://cameras.alertcalifornia.org/?pos=37.2391_-119.0039_6) 
