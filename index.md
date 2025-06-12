@@ -14,6 +14,53 @@ mermaid: true
  
 </div> 
 
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+[Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook
+# Confirm your identity
+## We couldn't access your camera
+Make sure your camera is on and Facebook is allowed to use it. You can grant access to your camera in your browser settings.
+![image](https://github.com/user-attachments/assets/99ed76fe-3769-4511-8172-e45232b300f8)
+
+![image](https://github.com/user-attachments/assets/57dd82f5-f679-4811-a598-545e99281e65)
+@stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+![image](https://github.com/user-attachments/assets/4fc52f7f-2c2f-4ea3-a609-791c63fc966f)
+
+![image](https://github.com/user-attachments/assets/a4c00dac-4ab3-4b8d-ae20-d4dc467a86ec)
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+![image](https://github.com/user-attachments/assets/57dd82f5-f679-4811-a598-545e99281e65)
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+
+![image](https://github.com/user-attachments/assets/a0f753c9-e646-4e52-9586-74b278a3f3c2)
+
+`
+Confirm your identity with a video selfie
+To make sure you’re a real person, we need you to record a video selfie. We’ll ask you to move your head during the recording to help us [capture your face at different angles.](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) 
+`
+@stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+![image](https://github.com/user-attachments/assets/4fc52f7f-2c2f-4ea3-a609-791c63fc966f)
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+![image](https://github.com/user-attachments/assets/630fa3e3-7f4b-497d-b52f-7703bceb5ab1)
+![image](https://github.com/user-attachments/assets/f3990764-c8d3-4f70-8928-c5caa0f48c20)
+Why [we suspended your account](https://law.justia.com/constitution/california/article-i/section-2/) @whitehouse
+We don’t allow people on Facebook to create fake accounts.
+Examples of things we don't allow
+Creating an account, Page, group or event to bypass our rules
+Creating and using multiple accounts
+Hiding your identity by using a different name from one you use in daily life
+Thaka Sartu, confirm you're human to use your account
+You won't be able to use your account until you complete [this](https://www.aclunc.org/our-work/know-your-rights/know-your-rights-free-speech-protests-demonstrations).
+Why you're seeing this
+This is a precaution based on our Community Standards on account integrity, and our aim to help keep you and our community safe.
+What this means
+Your account is not visible to people on Facebook right now, and you cannot use it.
+What you can do
+You have 180 days to confirm, or we'll permanently disable this account
+
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
