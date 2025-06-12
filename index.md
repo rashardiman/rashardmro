@@ -14,6 +14,15 @@ mermaid: true
  
 </div> 
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+`
+Confirm your identity with a video selfie
+To make sure you’re a real person, we need you to record a video selfie. We’ll ask you to move your head during the recording to help us [capture your face at different angles.](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) 
+`
+@stateofcalifornia @City-of-Long-Beach-Public does not have anythiglike taht i can use to access my account @blackgirlscode i need normani to explain the name thaka stat! ppl about to start going to jail with those [FuckIce](https://www.ice.gov) ppl if i cant get my taxes done and verified!!!!!!!!!!!!!!!!!!!!!!!
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+![image](https://github.com/user-attachments/assets/4fc52f7f-2c2f-4ea3-a609-791c63fc966f)
+
+# HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 ![image](https://github.com/user-attachments/assets/630fa3e3-7f4b-497d-b52f-7703bceb5ab1)
 ![image](https://github.com/user-attachments/assets/f3990764-c8d3-4f70-8928-c5caa0f48c20)
 Why [we suspended your account](https://law.justia.com/constitution/california/article-i/section-2/) @whitehouse
