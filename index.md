@@ -14,6 +14,94 @@ mermaid: true
  
 </div>
 
+
+[STEREO_PHOTOs MRO](https://www.uahirise.org/stereo/)
+[HiView](https://www.uahirise.org/hiview/0) HiView is a data explorer and image viewing application supporting the JPEG2000 image format [DUNE - SEGACD retrogames.cc](https://www.retrogames.cc/segacd-games/dune.html) + [forum](https://forum.dune2k.com/topic/19470-dune-sega/) [Accessing static files in Jekyll - Michael Rose in Mastering Jekyll](https://mademistakes.com/mastering-jekyll/static-files/) [Jekyll Image Variable](https://talk.jekyllrb.com/t/jekyll-image-variable/270)
+
+<blockquote class="reddit-embed-bq" data-embed-height="455"><a href="https://www.reddit.com/r/Jekyll/comments/17eavo4/comment/k626duc/">Comment</a><br> by<a href="https://www.reddit.com/user/JonathanGraft/">u/JonathanGraft</a> from discussion<a href="https://www.reddit.com/r/Jekyll/comments/17eavo4/how_to_show_all_images_within_a_folder_directory/"></a><br> in<a href="https://www.reddit.com/r/Jekyll/">Jekyll</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+https://www.reddit.com/r/Jekyll/comments/17eavo4/comment/k65jrur/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+![MSL @nasa](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png)
+
+## Sol4518 [WheelDamage-BrowseImages](https://github.com/ricoThaka/rashardmro/tree/master/assets/images/mars/sol4518_wheelDamage) 
+
+![Soll4518](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif) 
+
+[Mars Science Laboratory: Curiosity Raw Images](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=100&page=0&mission=msl&begin_sol=4518&end_sol=4518&af=MAST_LEFT%7CMAST_RIGHT%2Cchemcam%2Bprc%3A%3Asample_type%2Cfull%3A%3Asample_type%2Csubframe%3A%3Asample_type%2C)
+
+
+
+
+
+<div class="tupperware" markdown="1">
+
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720011800389E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720011800389E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720001800388E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720001800388E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074710031800387E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074710031800387E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+
+<figure>
+ <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
+ <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
+</figure>
+
+  
+ 
+</div>
+
+## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)
+[Aeolian geology](https://www.uahirise.org/science_themes/aeolian.php) is the study of landforms formed by wind (Aeolus is the wind god in Greek mythology)
+<video controls poster="https://static.uahirise.org/images/2019/details/ESP_057903_1390.jpg" >
+  <source src="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" />
+
+
+  Download the
+
+  or
+  <a href="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" >
+webm</a>
+  video.
+</video>
+  
+
 [https://github.com/ThakaRashard/rashardmro/commit/bd8d2b373b15c0a5ba97f15be038e50cc662ae86 -ROVERWHEELS @nasa](https://github.com/ThakaRashard/rashardmro/commit/bd8d2b373b15c0a5ba97f15be038e50cc662ae86)
 ![image](https://github.com/user-attachments/assets/d8872e9f-01fc-44bb-9cf8-7299d652b023)
 
@@ -406,87 +494,6 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
 
 
 
-
-![MSL @nasa](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png)
-
-## Sol4518 [WheelDamage-BrowseImages](https://github.com/ricoThaka/rashardmro/tree/master/assets/images/mars/sol4518_wheelDamage) 
-
-![Soll4518](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif) 
-
-[Mars Science Laboratory: Curiosity Raw Images](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=100&page=0&mission=msl&begin_sol=4518&end_sol=4518&af=MAST_LEFT%7CMAST_RIGHT%2Cchemcam%2Bprc%3A%3Asample_type%2Cfull%3A%3Asample_type%2Csubframe%3A%3Asample_type%2C)
-
-
-
-
-
-<div class="tupperware" markdown="1">
-
-
-
-<figure>
- <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720011800389E01_DXXX.jpg" > 
- <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720011800389E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
-</figure>
-
-<figure>
- <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720001800388E01_DXXX.jpg" > 
- <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720001800388E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
-</figure>
-
-
-<figure>
- <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074710031800387E01_DXXX.jpg" > 
- <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074710031800387E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
-</figure>
-
-<figure>
- <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
- <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
-</figure>
-
-
-<figure>
- <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
- <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
-</figure>
-
-
-<figure>
- <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
- <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
-</figure>
-
-
-<figure>
- <a href="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" > 
- <img src="https://mars.nasa.gov/msl-raw-images/msss/04518/mcam/4518ML1074720031800391E01_DXXX.jpg" alt="NAgin Cox Livin Like A Rover" /> </a>
-  <figcaption><a href="https://mars.nasa.gov/raw_images/1458906/?site=msl"> Sol 4518: Mast Camera (Mastcam)</a></figcaption>
-</figure>
-
-  
- 
-</div>
-
-## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)
-[Aeolian geology](https://www.uahirise.org/science_themes/aeolian.php) is the study of landforms formed by wind (Aeolus is the wind god in Greek mythology)
-<video controls poster="https://static.uahirise.org/images/2019/details/ESP_057903_1390.jpg" >
-  <source src="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" />
-
-
-  Download the
-
-  or
-  <a href="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" >
-webm</a>
-  video.
-</video>
-  
 
 # [Welcome Jared ](https://x.com/RicoThaka/status/1903598003610636667)  [![Twitter Follow](https://img.shields.io/badge/Social-@rookisaacman__-blue?style=social&logo=X)](https://twitter.com/@rookisaacman) 
 
