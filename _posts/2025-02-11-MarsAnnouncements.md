@@ -13,7 +13,7 @@ title: Mars_Announcements
   }
 </style>
 
-[![4throck](https://raw.githubusercontent.com/ricothakarashardrashard/ricothakarashardrashard.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png)]((https://raw.githubusercontent.com/ricothakarashardrashard/ricothakarashardrashard.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png) "Redirect to homepage")
+[![4throck](https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png)]((https://raw.githubusercontent.com/ricothakarashardrashard/ricothakarashard.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png) "Redirect to homepage")
 
 
 Nicki I am exhausted running from Library security man! Girlsd in PlayboyRabbit shirts walk freely. Im still with JPL. I want to know if you are a Brunette from the cafeteria. Please feel no responsibility to respond to me electronically. You put so much Energy into Curiosity that I am wondering if you are on the mission as well? It look like it. Im not mad at Ashley Strickland anymore. I got upset bc CNN is in Atlanta and they knew about my wife getting rebellious sexually and like i never even got a welcome home or hi whats up with nasajpl and the mars mission. I was outkast in someway and did not get it. My first knowledge of her was a terrestial article she did. Im super slow to talk. But I was being tortured in a certain way by the library system and the girly pic mobs that made me mad at her and I told some old people shes a b-word. 
