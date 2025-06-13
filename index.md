@@ -14,12 +14,12 @@ mermaid: true
  
 </div>
 
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/LinuxCirclejerk/comments/1laa82s/ice_is_tracking_me/">ICE is tracking me!</a><br> by<a href="https://www.reddit.com/user/Responsible-Poem-146/">u/Responsible-Poem-146</a> in<a href="https://www.reddit.com/r/LinuxCirclejerk/">LinuxCirclejerk</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 [STEREO_PHOTOs MRO](https://www.uahirise.org/stereo/)
 [HiView](https://www.uahirise.org/hiview/0) HiView is a data explorer and image viewing application supporting the JPEG2000 image format [DUNE - SEGACD retrogames.cc](https://www.retrogames.cc/segacd-games/dune.html) + [forum](https://forum.dune2k.com/topic/19470-dune-sega/) [Accessing static files in Jekyll - Michael Rose in Mastering Jekyll](https://mademistakes.com/mastering-jekyll/static-files/) [Jekyll Image Variable](https://talk.jekyllrb.com/t/jekyll-image-variable/270)
 
 <blockquote class="reddit-embed-bq" data-embed-height="455"><a href="https://www.reddit.com/r/Jekyll/comments/17eavo4/comment/k626duc/">Comment</a><br> by<a href="https://www.reddit.com/user/JonathanGraft/">u/JonathanGraft</a> from discussion<a href="https://www.reddit.com/r/Jekyll/comments/17eavo4/how_to_show_all_images_within_a_folder_directory/"></a><br> in<a href="https://www.reddit.com/r/Jekyll/">Jekyll</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
-https://www.reddit.com/r/Jekyll/comments/17eavo4/comment/k65jrur/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ![MSL @nasa](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png)
 
