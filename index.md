@@ -14,6 +14,30 @@ mermaid: true
  
 </div>
 
+
+![image](https://github.com/user-attachments/assets/d8872e9f-01fc-44bb-9cf8-7299d652b023)
+
+# Crews clean off graffiti from City Hall
+Cleaning crews remove graffiti from City Hall left during protests. - [Kelvin Kuo](https://www.latimes.com/people/kelvin-kuo)
+<object
+  type="application/pdf"
+  data="https://ia601809.us.archive.org/19/items/image_20250428_2325/CiTYHALLGRAFFSimpleScanStation20250611190559.pdf"
+  width="500"
+  height="400"></object>
+
+  [Finger-pointing continues in downtown LA graffiti saga FOX11 @foxbroadcasting](https://www.youtube.com/watch?v=dCh_ggVG_qo)  [DTLA](https://youtube.com/shorts/Mz5FyXKdo8E?si=WOQITWoZf3PdJGOt) [LA city workers remove graffiti debris from violent protests](https://youtu.be/nGvMB2LpF8k?t=2) [Will Smith - Pretty @blackGirlscode (Official Video)](https://www.youtube.com/watch?v=NMeIUNcCUjE) [Lisa from Temecula - SNL](https://youtu.be/zxxCaw74ptk) [Sheriff Robert Luna discusses the law enforcement response in downtown LA](https://youtu.be/gWFlTgfG02A?si=_BUizea568Nd0HF0) [LA County Close Up Episode 237](https://youtu.be/0Wvud_dhwk4) @cityoflosangeles @stateofcalifornia [GraffsHiT on RicoThakaRashard @nasa-jpl @blackgirlscode](https://ricothakarashard.github.io/GraffShit)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/834374074&color=%237eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-873155971" title="Joshua Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Joshua Calhoun</a> · <a href="https://soundcloud.com/joshua-calhoun-873155971/a-tribe-called-quest-midnight-marauders-album-1993-my-free-mp3scom" title="A Tribe Called Quest - Midnight Marauders  [full album 1993]" target="_blank" style="color: #cccccc; text-decoration: none;">A Tribe Called Quest - Midnight Marauders  [full album 1993]</a></div>
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
+![graffiti ev](https://dims.apnews.com/dims4/default/9b20c41/2147483647/strip/true/crop/4320x2880+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F98%2Fb044017c048e11324244fd311155%2F321feb4403dc4cde813949f343ca215e)
+[Los Angeles’ image is scuffed since ICE raids and protests, with World Cup and Olympics on horizon](https://apnews.com/article/los-angeles-trump-immigration-ice-raids-protests-6823da82d8d25e12d392088c7cde40c5)
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/786200963407069184/v2" data-did="38c8c20adabc9f3aa1ec9d1077d26c0abdfbded6"  ><a href="https://www.tumblr.com/rashardmro/786200963407069184/sol-4518-mars-hand-lens-imager">https://www.tumblr.com/rashardmro/786200963407069184/sol-4518-mars-hand-lens-imager</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 # [Landing Page For EducationallyDense Blogs](https://thakarashard.github.io/rashardmro/tupperware)
 @nasa [Landing Page For EducationallyDense Blogs](https://thakarashard.github.io/rashardmro/tupperware) share with someone who loves me @nasa-jpl @whitehouse
