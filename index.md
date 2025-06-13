@@ -12,7 +12,14 @@ mermaid: true
    
 {% endfor %}
  
-</div> 
+</div>
+
+# [Landing Page For EducationallyDense Blogs](https://thakarashard.github.io/rashardmro/tupperware)
+@nasa [Landing Page For EducationallyDense Blogs](https://thakarashard.github.io/rashardmro/tupperware) share with someone who loves me @nasa-jpl @whitehouse
+
+![image](https://github.com/user-attachments/assets/50f39934-1ee3-4fa7-8e3b-cd4e67888c37)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348376061&color=%23a4642c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kelelam" title="KELELA" target="_blank" style="color: #cccccc; text-decoration: none;">KELELA</a> · <a href="https://soundcloud.com/kelelam/lmk" title="LMK" target="_blank" style="color: #cccccc; text-decoration: none;">LMK</a></div>
 
 # HELP [@meta @nasa @nasa-jpl @github @cityoflosangeles @blackgirlscode @stateofcalifornia ](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
 [Update SECURITY.md #33521](https://github.com/facebook/react/pull/33521) @facebook
