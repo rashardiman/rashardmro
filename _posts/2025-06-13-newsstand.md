@@ -3,7 +3,7 @@
 
 <IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
 
-![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+![p](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
 
 `Nagin Cox grew up hearing that girls were "worthless"-so she set her sights on NASA and never looked back.` - [ReadHerStory](https://www.jpl.nasa.gov/news/fight-and-flight-one-womans-fearless-journey-to-the-stars/) [MAliBuTimEs](https://malibutimes.com/scientist-engineer-nagin-cox-shares-journey-to-mars-for-the-malibu-library-speaker-series)
 [Nagin Cox](https://www.nagincox.org/about) in [`All About Space`](https://onlineobservatory.eu/wp-content/uploads/2021/03/TheHuntForMartianLife.pdf) [MRO 10Year Anniversary Issue](https://onlineobservatory.eu/wp-content/uploads/2021/03/MarsReconnaissanceOrbiter.pdf)
