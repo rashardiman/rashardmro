@@ -6,6 +6,30 @@ title: Presidential
 image: pentagon.jpg
 ---
 
+# Rep_Karen_Bass, [![Twitter Follow](https://img.shields.io/badge/Social-BarackObama__-blue?style=social&logo=X)](https://twitter.com/BarackObama) [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-DeptofDefense__-blue?style=social&logo=X)](https://twitter.com/DeptofDefense)
+Hi its rashard, I left you some notes on [@trello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) I have been suffering with Chemicalk Burns on my tattoos and Someone in the Police Dept said they work For JPL, so im just getting organized, If I work Fire i assume I work PD and still in training as well...At somelevel anyway and those people that banned me from making money and using computers are suppressig me bc i dont have a sexually scarred criminal record... Ppl who have at anytime subscribes to the term GraffitiWriter... [gamer aswell!](https://rashardlanasa.github.io/ricothakarashard/Arcade)have had really isolated lives... [I Made a WebPage](https://rashardlanasa.github.io/ricothakarashard/GraffShit) I want you to find a way to make a communal viewing out of, there are others to contribute, but this is the collection that the art crowd uses for ["inspiration"](https://www.reddit.com/r/writing/comments/lk33de/difference_between_plagiarism_vs_inspiration/) I found several [AmmunitionTypes](https://trello.com/1/cards/68166914ce7c9f6acfada5c9/attachments/684f2c08cdbeafe42d0b0a6a/download/SimpleScanStation20250615131441-2.png) around CityHAll, [the bullet was here](https://earth.google.com/web/search/Los+Angeles+Union+Station,+North+Alameda+Street,+LA,+CA/@34.05798087,-118.23727031,83.59976403a,51.3777845d,35y,0h,0t,0r/data=CiwiJgokCToKCdMYYEFAEVqDiL8qq0BAGS-1WpePil3AId3wLchq-l3AQgIIATIpCicKJQohMTNuQnFBRFgxRWtqZHpTTEFsMkh1LUFjakt3ZlVOblgtIAE6AwoBMEICCABKCAiMn4vQBhAB) 
+![image](https://github.com/user-attachments/assets/dbaa83e8-1234-4b38-a5b9-1e7b2f6ea363) [34°03'28"N 118°14'14"W](https://www.google.com/search?q=34%C2%B003%2728%22N+118%C2%B014%2714%22W&rlz=1CASLJZ_enUS1166&oq=34%C2%B003%2728%22N+118%C2%B014%2714%22W&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzczNWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8) I think its the same Crowd that overthrew the capitol in [the Jan6th Insurrection](https://github.com/user-attachments/assets/311b831c-4d75-454c-9144-26bf29f3afbb)... I have a photoessay on [version2](https://rashardlanasa.github.io/2025/04/22/Marsblogv2.html) of this still incomplete frontend! 
+![image](https://github.com/user-attachments/assets/0c8b6192-9bac-4218-92d2-da621ff64092)  @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode if you having troubles!@cityoflosangeles
+
+#WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood #AGiLE:#BLOCKERS
+This lady that look like Laurie Leshin cousin from Georgia was in here, its like 3 astro sisters. If she is the one i am thinking of she is attached to Caltech via GaTech and just working out here while whatever civil upheaval resolves in the south… The guard put her out while she was screaming im working… [readmore](https://rashardlanasa.github.io/mybinder/)
+
+ 
+# Photos from the nationwide 'No Kings' protests amid Trump's military celebration
+The Los Angeles Metro Police on horseback strike protesters with batons away from the Edward Roybal Federal Building in Los Angeles, on June 14, 2025.
+@cityoflosangeles @stateofcalifornia @nassa-jpl [Jay Calderon/The Desert Sun](https://www.usatoday.com/picture-gallery/news/nation/2025/06/14/no-kings-trump-protest-photos/84200945007/)
+[CRUSH NOSE CHEMICAL BATON - 37MM](https://ustacticalsupply.com/cscrushnosechemicalbaton-37mm.aspx) [https://www.sageinternationalltd.com/SCOI/ko3.html](https://www.sageinternationalltd.com/SCOI/ko3.html) [BATONS & IMPACT DEVICES (28)](https://shop.tchgear.com/c/safety-products-batons-impact-devices)
+<img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/06/15/PPAS/84214334007-la-protest-saturday-6.jpg?width=660&amp;height=419&amp;fit=crop&amp;format=pjpg&amp;auto=webp" alt="The Los Angeles Metro Police on horseback use batons to move the crowd away from the Edward Roybal Federal Building in Los Angeles, Calif., June 14, 2025."/>
+
+<img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/06/15/PPAS/84214332007-la-protest-saturday-5.jpg?width=660&amp;height=461&amp;fit=crop&amp;format=pjpg&amp;auto=webp" alt="The Los Angeles Metro Police on horseback strike protesters with batons away from the Edward Roybal Federal Building in Los Angeles, on June 14, 2025."/>
+![image](https://github.com/user-attachments/assets/0514739c-d314-4779-a988-3b5809190438)
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NOAA/comments/1lca6g1/nokingsprotest_ammunitioncrowdcontrol_sample_arms/">#NOKiNGSPRoTest : #AMMUNiTiON:#CROWDCONTROL sample arms</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NOAA/">NOAA</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+![SimpleScanStation20250615131441-2](https://github.com/user-attachments/assets/3ba927db-c6cb-4fad-8667-2a570d985831)
+[EXACT IMPACT™ 40 MM STANDARD RANGE SPONGE ROUND](https://www.defense-technology.com/product/exact-impact-40-mm-standard-range-sponge-round/)
+![EXACT IMPACT™ 40 MM STANDARD RANGE SPONGE ROUND](https://github.com/user-attachments/assets/a1a3978d-da1e-44c9-9def-2c2deb16de78)
+[Immigration protests intensify in Los Angeles after Trump deploys hundreds of National Guard troops](https://abc7ny.com/post/la-ice-raid-protests-california-national-guard-members-begin-arriving-los-angeles-authorities-clash-protesters/16696165/)
+<object width="640" height="360" data="https://abc7ny.com/video/embed/?pid=16702333" allowfullscreen frameborder="0"></object>
 [LosAngeles ATlanta Tourism - WorkVisas 4 Comedy - Hot Girl Hospital - SNL](https://www.youtube.com/watch?v=izGMrgUxKtQ&ab_channel=SaturdayNightLive)
 [PARSE](https://x.com/RicoThaka/status/1901702469522174261) [LiVECAM](https://x.com/RicoThaka/status/1901699818852139077) [Job Posting mercedes-benz](https://x.com/RicoThaka/status/1901695363435954390)
 ![airplane crashes in Empire State Building](https://pbs.twimg.com/media/GBq6J1Vb0AArVRX?format=jpg&name=large)
@@ -64,7 +88,6 @@ Learn more about President Obama's record on climate and energy: [The-Record](ht
 You can also find ["An Ocean in Bloom" on NASA+.](https://plus.nasa.gov/video/an-ocean-in-bloom/)
 
 [Ocean Green: Blooming Oceans](https://earthobservatory.nasa.gov/blogs/eokids/ocean-green-blooming-oceans/)
-
 
 
 

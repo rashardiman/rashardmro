@@ -19,6 +19,11 @@ mermaid: true
  
 </div>
 
+[President Trump orders National Guard to LA after clashes over immigration raids  @BBC News](https://www.youtube.com/watch?v=qP1_FC6cj24)
+[bbc on youtube](https://www.youtube.com/@BBCNews) [
+[@nasa @whitehouse @nasa-jpl see the page prsidential.md @cityoflosangeles @stateofcalifornia](https://rashardlanasa.github.io/2024/12/04/Presidential.html)
+<object width="560" height="315" data="https://www.youtube.com/embed/qP1_FC6cj24?si=NXIrRmOykm9HkMvC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
 
 # LIVE: ABC7 Eyewitness News
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
@@ -63,7 +68,7 @@ Cleaning crews remove graffiti from City Hall left during protests. - [Kelvin Ku
 
 [STEREO_PHOTOs MRO](https://www.uahirise.org/stereo/)
 [HiView](https://www.uahirise.org/hiview/0) HiView is a data explorer and image viewing application supporting the JPEG2000 image format [DUNE - SEGACD retrogames.cc](https://www.retrogames.cc/segacd-games/dune.html) + [forum](https://forum.dune2k.com/topic/19470-dune-sega/) [Accessing static files in Jekyll - Michael Rose in Mastering Jekyll](https://mademistakes.com/mastering-jekyll/static-files/) [Jekyll Image Variable](https://talk.jekyllrb.com/t/jekyll-image-variable/270)
-
+[@blackgirlscode i updated some space](https://thakasartu.github.io/)
 <blockquote class="reddit-embed-bq" data-embed-height="455"><a href="https://www.reddit.com/r/Jekyll/comments/17eavo4/comment/k626duc/">Comment</a><br> by<a href="https://www.reddit.com/user/JonathanGraft/">u/JonathanGraft</a> from discussion<a href="https://www.reddit.com/r/Jekyll/comments/17eavo4/how_to_show_all_images_within_a_folder_directory/"></a><br> in<a href="https://www.reddit.com/r/Jekyll/">Jekyll</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 ![MSL @nasa](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png)
