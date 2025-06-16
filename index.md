@@ -22,6 +22,7 @@ mermaid: true
 # Latest Scabs
 🚫 `Sorry, this post was removed by Reddit’s filters.` [Read On Reddit](https://www.reddit.com/r/Skinpicking/comments/1ld7mi7/what_kind_of_scabs_r_these_they_have_to_be/) 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/Skinpicking/comments/1ld7mi7/what_kind_of_scabs_r_these_they_have_to_be/">What Kind Of Scabs r these? They have to be excavated and have a life energy buch like a barnacle and leaves either a pit, or a flat pigmentless surface</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Skinpicking/">Skinpicking</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
 ![image](https://github.com/user-attachments/assets/ee9c70cf-64f4-48fa-9e3a-ca0745a55fd5)
 ![mondatSimpleScanStation20250616101833-02](https://github.com/user-attachments/assets/e3cbb605-67b2-45cb-b61a-2a05afa74ec8)
 ![image-1](https://github.com/user-attachments/assets/3f0a5792-9c77-4644-9eaf-40d2c11a436b)
