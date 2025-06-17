@@ -46,7 +46,7 @@ The [column](https://developer.mozilla.org/en-US/docs/Web/CSS/column-count)-[cou
 
 ![image](https://github.com/user-attachments/assets/ee2b274f-dbba-421a-a271-b7d50d7c6d73)
 
-<div class=".section_2col ic">
+<div class="section_2col ic">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/gallery-1' %}
         <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
