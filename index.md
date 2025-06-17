@@ -19,6 +19,17 @@ mermaid: true
  
 </div>
 
+
+<div class="tupperware">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-1' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
+
 # Latest Scabs
 🚫 `Sorry, this post was removed by Reddit’s filters.` [Read On Reddit](https://www.reddit.com/r/Skinpicking/comments/1ld7mi7/what_kind_of_scabs_r_these_they_have_to_be/) 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/Skinpicking/comments/1ld7mi7/what_kind_of_scabs_r_these_they_have_to_be/">What Kind Of Scabs r these? They have to be excavated and have a life energy buch like a barnacle and leaves either a pit, or a flat pigmentless surface</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Skinpicking/">Skinpicking</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
