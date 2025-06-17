@@ -19,7 +19,8 @@ mermaid: true
  
 </div>
 
-
+# Curious about For Loops
+[I was Earlier /rashardlearned](https://thakarashard.github.io/rashardlearned/2024/11/03/bakersfield-rose-growth.html) 
 <div class="tupperware ic">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/gallery-1' %}
