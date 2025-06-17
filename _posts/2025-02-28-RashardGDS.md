@@ -7,6 +7,8 @@ image: rashardMRO.jpeg
 tags: nasaoffice nasajpl helpdesk
 ---
 
+![latransitSimpleScanStation20250613101126_2](https://github.com/user-attachments/assets/5e2ae0b3-82b6-4179-91ff-fa83aef2b032)
+
 
 ## Announcement : MarsTeamWorkshop
 # Team Meeting in Pomona [RelatedTweet](https://x.com/RicoThaka/status/1903944314977489188) [Enrollment Form for the F Prime Tutorial @ The Bronco Space Lab ](https://forms.office.com/pages/responsepage.aspx?id=HqZLFuw5XU-J_6ofAKUhtMQ1ajjc7DZJteAAjLgwC-JUMkNWMFA3OVlDOExaQU1LOTBLRlE4WTVXMi4u&route=shorturl)
