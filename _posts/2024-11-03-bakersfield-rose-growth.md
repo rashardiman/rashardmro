@@ -17,17 +17,6 @@ I need to highlight these ==very important words==.
 ```
 [https://admin.shopify.com/store/holetoanotheruniverse](https://admin.shopify.com/store/holetoanotheruniverse) 
 
-<div>
-{% for image in site.static_files %}
-
-  {% if image.path contains 'assets/images/gallery-1' %}
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
-  {% endif %}
-
-{% endfor %}
-</div>
-
-{% raw %}
 
 {% for image in site.static_files %}
 
@@ -37,7 +26,7 @@ I need to highlight these ==very important words==.
 
 {% endfor %}
 
-{% endraw %}
+
 
 [MichaelRose](https://mademistakes.com/mastering-jekyll/static-files/)
 --- 
@@ -58,15 +47,7 @@ I need to highlight these ==very important words==.
 
 
 
-  {% raw %}
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-1' %}
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-  {% endraw %}
+
 
 [ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
 ![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
