@@ -19,6 +19,9 @@ mermaid: true
  
 </div>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/14iUJFTmWJE?si=Bz3yHAGUtWm1iIUV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Curious about For Loops
 [I was Earlier /rashardlearned](https://thakarashard.github.io/rashardlearned/2024/11/03/bakersfield-rose-growth.html) 
 
