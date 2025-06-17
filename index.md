@@ -20,7 +20,7 @@ mermaid: true
 </div>
 
 
-<div class="tupperware">
+<div class="tupperware ic">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/gallery-1' %}
         <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
