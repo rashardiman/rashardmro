@@ -7,7 +7,12 @@ tags: jupiter europa iss
 image: Europa_Clipper.png
 ---
 
+[Live High-Definition Views from the International Space Station (Official NASA Stream)](https://www.youtube.com/watch?v=H999s0P1Er0&ab_channel=NASA) [Video from the International Space Station Official NASA Stream](https://www.youtube.com/watch?v=DIgkvm2nmHc) -#Rashard@NASA#JPL @nasa-jpl @nasa @whitehouse @stateofcalifornia @cityoflosangeles 
 
+![image](https://github.com/user-attachments/assets/602e4040-cdf5-4793-ab13-f20183d86c64)
+
+[Live High-Definition Views from the International Space Station (Official NASA Stream)](https://www.youtube.com/watch?v=H999s0P1Er0&ab_channel=NASA) [Video from the International Space Station Official NASA Stream](https://www.youtube.com/watch?v=DIgkvm2nmHc) -#Rashard@NASA#JPL @nasa-jpl @nasa @whitehouse @stateofcalifornia @cityoflosangeles 
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/nasa/comments/1ldsz9f/feedcheck_views_from_the_international_space/">#FEEDCHECK Views from the International Space Station (Official NASA Stream)</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/nasa/">nasa</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 ### Jupyter-NOTEBOOkin 
 [Adds a toolbar button which pastes the current time & date into the current cell:](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/datestamper/readme.html) [Insert Current date - Markdown ? - googleGroups](https://groups.google.com/g/jupyter/c/M28LfP7F0Wk) The United States is one of the few countries that use “mm-dd-yyyy” as their date format–which is very very unique![Date Format in the United States](https://iso.mit.edu/americanisms/date-format-in-the-united-states/) [Date/Time Formats - imb.COM](https://www.ibm.com/docs/en/sgfmw/5.3.1?topic=modification-datetime-formats)
