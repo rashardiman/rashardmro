@@ -19,6 +19,8 @@ mermaid: true
 </div>
 
 
+<object class="tupperware ic" data="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg" type="image/jpeg" ></object>
+
 
 # Curious about For Loops
 [I was Earlier /rashardlearned](https://thakarashard.github.io/rashardlearned/2024/11/03/bakersfield-rose-growth.html) 
@@ -28,6 +30,7 @@ mermaid: true
   <a href="https://archive.org/download/gfk-36seasons/03-Here%20I%20Go%20Again%20%28Ft.%20AZ%20%26%20Rell%29.mp3"> Download audio </a>
 </figure>
 [lyrics](https://genius.com/Ghostface-killah-here-i-go-again-lyrics)
+
 
 
 {% raw %}
