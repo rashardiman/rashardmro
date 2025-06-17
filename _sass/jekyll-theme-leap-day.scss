@@ -71,7 +71,7 @@ body {
     padding: 15px;
     margin-right: auto;
     margin-left: auto; 	
-    width: 80vh;
+    width: 80vw;
     text-align:left; 
   }
   
@@ -89,7 +89,7 @@ section {
   border: 19px solid #DB362D;
   margin-top: 0px;
   position:relative;
-  width: 85vh;
+  width: 85vw;
   padding: 0px;
   margin-bottom: 40px;
   margin-right: auto;
@@ -130,7 +130,7 @@ section img {
   display: grid;
   width: auto;
   grid-template-columns: repeat(2, 1fr);
-  column-gap: 10px;
+  column-gap: 7px;
   row-gap: 1em;
 }
 
@@ -140,7 +140,7 @@ section img {
   filter: contrast(200%); }
 
   .box {
-    width: 80%;
+    width: 90%;
     border: 1px solid #3DF28B;
     display: flex;
     flex-wrap: wrap;
@@ -181,7 +181,7 @@ section img {
     
   }
 
-svg { width:100%;}
+
 .jumpmenu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; background-color: #0dd9c4; color: #3df28b; border: #3df28b; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; font-weight: bold
   ;}
   
@@ -340,6 +340,7 @@ img[src*="beverlypress.com/wp-content/uploads/2022/12/LindseyHorvath-400x500.png
 /* img[src*="img.shields.io/badge/Social-ricoThaka"] {display:inline-block} */
 svg { width: max-content;
 display: inline-block; }
+/* svg { width:100%;} */
 img[src*="img.shields.io/badge/Social"] {display: inline-block; float: none;}
   img[src*="ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg"] {width: 100%;
     border-bottom:solid 10px  #BF785E50;
