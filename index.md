@@ -35,6 +35,11 @@ mermaid: true
 
 {% endraw %}
 
+[CSS Multi-column @w3schools](https://www.w3schools.com/css/css3_multiple_columns.asp)
+The [column](https://developer.mozilla.org/en-US/docs/Web/CSS/column-count)-[count](https://youtu.be/kB3lqeQScCM) property specifies the number of columns an element should be divided into. [CSS Multi-column Layout Module Level 1](https://www.w3.org/TR/css-multicol-1/)
+
+![image](https://github.com/user-attachments/assets/ee2b274f-dbba-421a-a271-b7d50d7c6d73)
+
 <div class=".section_2col ic">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/gallery-1' %}
