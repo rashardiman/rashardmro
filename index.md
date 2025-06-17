@@ -29,14 +29,15 @@ mermaid: true
 </figure>
 [lyrics](https://genius.com/Ghostface-killah-here-i-go-again-lyrics)
 
+
 {% raw %}
 
 {% for image in site.static_files %}
-
-  {% if image.path contains 'assets/images/gallery-1' %}
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
-  {% endif %}
-
+    {% if image.path contains 'assets/images/gallery-1' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
 {% endfor %}
 
 {% endraw %}
