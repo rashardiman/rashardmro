@@ -7,6 +7,10 @@ tags: jupiter europa iss
 image: Europa_Clipper.png
 ---
 
+@nasa currently affecting @nasa-jpl in [LIVE: ABC7 Eyewitness News @cityoflosangeles @stateofcalifornia https://youtu.be/s3iVFJoxrYc](https://youtu.be/s3iVFJoxrYc) [ATF’s Los Angeles Field Division website](https://www.atf.gov/los-angeles-field-division)
+<iframe width="943" height="539" src="https://www.youtube.com/embed/s3iVFJoxrYc" title="LIVE: ABC7 Eyewitness News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![image](https://github.com/user-attachments/assets/5f08fc7f-31e7-476b-ae56-58d3a38db1c2)
+
 [Live High-Definition Views from the International Space Station (Official NASA Stream)](https://www.youtube.com/watch?v=H999s0P1Er0&ab_channel=NASA) [Video from the International Space Station Official NASA Stream](https://www.youtube.com/watch?v=DIgkvm2nmHc) -#Rashard@NASA#JPL @nasa-jpl @nasa @whitehouse @stateofcalifornia @cityoflosangeles 
 
 ![image](https://github.com/user-attachments/assets/602e4040-cdf5-4793-ab13-f20183d86c64)
