@@ -34,13 +34,11 @@ mermaid: true
 {% endfor %}
 
 {% endraw %}
-
+<div>
 {% for image in site.static_files %}
-
   {% if image.path contains 'assets/images/gallery-1' %}
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
   {% endif %}
-
 {% endfor %}
 </div>
 
