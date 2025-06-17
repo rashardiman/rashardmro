@@ -31,7 +31,7 @@ mermaid: true
 
 Pressed capsules are used in confined areas to simulate the presence of chemical agents. Heated with a candle or sterno flame, they will melt and release CS gas only into the area directed. The normal affected area is 15 cubic meters. These have been used in gas mask training and other forums where a controlled amount of agent is needed to develop life saving skills. [BUY_NOW](https://www.defense-technology.com/product/cs-training-capsules-can-of-50/)
 ![image](https://github.com/user-attachments/assets/5764c4f1-68ba-4851-abb4-fc8d6bfb6a86)
-
+[eXact iMpact™ 40mm Reloadable 24-Shot Training Kit](https://www.defense-technology.com/product/exact-impact-40mm-reloadable-24-shot-training-kit/)
 [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
  ![image](https://github.com/user-attachments/assets/b42e69e8-1847-46ac-a89d-6885e55c58d1)
 
