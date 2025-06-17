@@ -38,13 +38,13 @@ background-size: cover;
    
     column-fill: balance;
     word-break: break-all;
-    height: 100vh;
-    width: 100vw;
+
     }
 
 body {
-
-
+  width: 100vw;
+  height: 100vh;
+  object-fit: contain;
 }
 
 .top-container {
@@ -71,7 +71,7 @@ body {
     padding: 15px;
     margin-right: auto;
     margin-left: auto; 	
-    width: 80vw;
+    width: 75vw;
     text-align:left; 
   }
   
@@ -89,7 +89,7 @@ section {
   border: 19px solid #DB362D;
   margin-top: 0px;
   position:relative;
-  width: 80vw;
+  width: 75vw;
   padding: 0px;
   margin-bottom: 40px;
   margin-right: auto;
