@@ -1,4 +1,0 @@
----
-layout: nasa
-title: nasa
----

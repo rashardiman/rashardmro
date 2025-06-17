@@ -1,4 +1,4 @@
-
+```
 {% include nav.html %}
 
 
@@ -492,3 +492,4 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
 
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
+```
