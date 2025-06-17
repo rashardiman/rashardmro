@@ -23,8 +23,30 @@ mermaid: true
 # Curious about For Loops
 [I was Earlier /rashardlearned](https://thakarashard.github.io/rashardlearned/2024/11/03/bakersfield-rose-growth.html) 
 
+{% raw %}
+
+{% for image in site.static_files %}
+
+  {% if image.path contains 'assets/images/gallery-1' %}
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
+  {% endif %}
+
+{% endfor %}
+
+{% endraw %}
+
+{% for image in site.static_files %}
+
+  {% if image.path contains 'assets/images/gallery-1' %}
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
+  {% endif %}
+
+{% endfor %}
+</div>
+
+
 # Jekyll - [Display](https://youtu.be/WkIDSBSpD80?si=on9_x-x9z2k0H5ye) All Images In Folder
- @nasa-jpl I lost a lot of work under the [collapse/theft of ricothaka.*](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) Whatever launched yesterday, im still having trouble finding out on the internet [what happened in the sky](https://x.com/SpaceX/status/1882834044393824349?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1882834044393824349%7Ctwgr%5E082a9bfb025dbf4d1e02ed1e836c13e76aabcf88%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sanluisobispo.com%2Fnews%2Flocal%2Farticle299103470.html) but i was super excited. I was upset I was not online... I dont know if you read that story about [the old lady on ivar](https://x.com/SpaceX/status/1882834044393824349?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1882834044393824349%7Ctwgr%5E082a9bfb025dbf4d1e02ed1e836c13e76aabcf88%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sanluisobispo.com%2Fnews%2Flocal%2Farticle299103470.html) in The Library by [The Theater](https://waterandpower.org/Museum2/Ivar_Theatre.html)? i added [./mybinder](https://ricothakarashard.github.io/mybinder/) as a repo for things im actively working on, its still coming together. but i wrote about it there under the heading [`#WorKiNG_REMOTE POST_EATON_CANYON_WiLDFiRE` #LiBrary_Life in Hollywood](https://ricothakarashard.github.io/mybinder/#BLOCKERS) ... I dont know who is using @jekyllrb, but i really need [JAnet Petro](https://aviationweek.com/space/budget-policy-regulation/nasa-chief-sees-esa-filling-gaps-left-budget-cuts) to know i have been behind on plotting bc i need a place to store the files on screen, so i got [tupperware](https://codepen.io/ricothakarashard/pen/EajpbqJ)! And I hope she knows ive been chased around a lot and i know [The Martian 2015](https://archive.org/download/the.-martian.-2015.-extended.-1080p.-brrip.x-264.-aac-etrg/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4) at somelevel the staff can let us know why some of these [ArtRiots](https://www.cbsnews.com/losangeles/news/no-kings-downtown-los-angeles-protest/) are happening i was chased off cityhall porch last night an i think its bc i mentioned [defense Technology](https://www.defense-technology.com/product-category/batons/) and this is one of the items from thier page, whoever is attacking me is using this companies technology 
+ @nasa-jpl I lost a lot of work under the [collapse/theft of ricothaka.*](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am), so i lost some code and spent a good deal of time restoring the functionality, and i dont know what i missed! Whatever launched yesterday, im still having trouble finding out on the internet [what happened in the sky](https://x.com/SpaceX/status/1882834044393824349?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1882834044393824349%7Ctwgr%5E082a9bfb025dbf4d1e02ed1e836c13e76aabcf88%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sanluisobispo.com%2Fnews%2Flocal%2Farticle299103470.html) but i was super excited. I was upset I was not online... I dont know if you read that story about [the old lady on ivar](https://x.com/SpaceX/status/1882834044393824349?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1882834044393824349%7Ctwgr%5E082a9bfb025dbf4d1e02ed1e836c13e76aabcf88%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sanluisobispo.com%2Fnews%2Flocal%2Farticle299103470.html) in The Library by [The Theater](https://waterandpower.org/Museum2/Ivar_Theatre.html)? i added [./mybinder](https://ricothakarashard.github.io/mybinder/) as a repo for things im actively working on, its still coming together. but i wrote about it there under the heading [`#WorKiNG_REMOTE POST_EATON_CANYON_WiLDFiRE` #LiBrary_Life in Hollywood](https://ricothakarashard.github.io/mybinder/#BLOCKERS) ... I dont know who is using @jekyllrb, but i really need [JAnet Petro](https://aviationweek.com/space/budget-policy-regulation/nasa-chief-sees-esa-filling-gaps-left-budget-cuts) to know i have been behind on plotting bc i need a place to store the files on screen, so i got [tupperware](https://codepen.io/ricothakarashard/pen/EajpbqJ)! And I hope she knows ive been chased around a lot and i know [The Martian 2015](https://archive.org/download/the.-martian.-2015.-extended.-1080p.-brrip.x-264.-aac-etrg/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4) at somelevel the staff can let us know why some of these [ArtRiots](https://www.cbsnews.com/losangeles/news/no-kings-downtown-los-angeles-protest/) are happening i was chased off cityhall porch last night an i think its bc i mentioned [defense Technology](https://www.defense-technology.com/product-category/batons/) and this is one of the items from thier page, whoever is attacking me is using this companies technology 
 
  # CS Training Capsules, Can of 50 @atfweb @boeing @raytheonbbn @nasa-jpl @cityoflosangeles @stateofcalifornia @blackgirlscode 
  ![image](https://github.com/user-attachments/assets/419b1ad8-a8d2-40c1-a613-1941278fbc12)
@@ -84,34 +106,7 @@ I need to highlight these ==very important words==.
 [//]: # (This is a comment.)
 [//]: # (This is a comment on a new line.)
 ![image](https://github.com/user-attachments/assets/6433a024-6b1e-4c09-a48a-659f125729c9)
-[Creating and highlighting code blocks - MARKDOWN @github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) [HiGHTLiGHTiNG](https://www.markdownguide.org/extended-syntax/#highlight) ![SHOPiFY](https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/shopify-wordmark-monochrome-CpVsfBAAmxEP.svg)
-
-<div>
-{% for image in site.static_files %}
-
-  {% if image.path contains 'assets/images/gallery-1' %}
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
-  {% endif %}
-
-{% endfor %}
-</div>
-
-{% raw %}
-
-{% for image in site.static_files %}
-
-  {% if image.path contains 'assets/images/gallery-1' %}
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
-  {% endif %}
-
-{% endfor %}
-
-{% endraw %}
-
-[MichaelRose](https://mademistakes.com/mastering-jekyll/static-files/)
-
-
-
+[Creating and highlighting code blocks - MARKDOWN @github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) [HiGHTLiGHTiNG](https://www.markdownguide.org/extended-syntax/#highlight) ![SHOPiFY](https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/shopify-wordmark-monochrome-CpVsfBAAmxEP.svg) [MichaelRose](https://mademistakes.com/mastering-jekyll/static-files/)
 
 
 # Latest Scabs
