@@ -22,6 +22,12 @@ mermaid: true
 
 # Curious about For Loops
 [I was Earlier /rashardlearned](https://thakarashard.github.io/rashardlearned/2024/11/03/bakersfield-rose-growth.html) 
+<figure>
+  <figcaption>Here I Go Again:Ghostface Killah:Ft_RELL+AZ</figcaption>
+  <audio controls src="https://archive.org/download/gfk-36seasons/03-Here%20I%20Go%20Again%20%28Ft.%20AZ%20%26%20Rell%29.mp3"></audio>
+  <a href="https://archive.org/download/gfk-36seasons/03-Here%20I%20Go%20Again%20%28Ft.%20AZ%20%26%20Rell%29.mp3"> Download audio </a>
+</figure>
+[lyrics](https://genius.com/Ghostface-killah-here-i-go-again-lyrics)
 
 {% raw %}
 
