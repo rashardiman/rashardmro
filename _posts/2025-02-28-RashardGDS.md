@@ -7,6 +7,7 @@ image: rashardMRO.jpeg
 tags: nasaoffice nasajpl helpdesk
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1gkn90ExKRNAOlhDs4RoW0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ![latransitSimpleScanStation20250613101126_2](https://github.com/user-attachments/assets/5e2ae0b3-82b6-4179-91ff-fa83aef2b032)
 
 
