@@ -6,12 +6,20 @@ date:   2025-03-24 21:19:06 -0800
 tags: jupiter europa iss
 image: Europa_Clipper.png
 ---
+@atfweb plz dont run up on me 🙏🏽 however as part of your investigation please consider the PhotoEssay i smashed together on [my workblog rashardmro/2025/04/22/Marsblogv2](https://thakarashard.github.io/rashardmro/2025/04/22/Marsblogv2.html) with the war map of the Jan6th Insurrection 
+[Trump: National Guard Will Be In LA Until There's No Danger: Full Q&A](https://www.youtube.com/watch?v=_xNVjPm14yU) [Every Cyber Attack Facing America](https://youtu.be/wnhCuYRYCdM) [
+Timeline of the January 6 United States Capitol attack](https://en.wikipedia.org/wiki/Timeline_of_the_January_6_United_States_Capitol_attack)
+
+@stateofcalifornia @cityoflosangeles 
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
+![image](https://github.com/user-attachments/assets/6846b7c4-61cf-4bf8-9d51-11a5048ecb92)
 
 ![image](https://github.com/user-attachments/assets/fea2edc5-d25a-48af-8d40-3827df560d02)
 
-@nasa currently affecting @nasa-jpl in [LIVE: ABC7 Eyewitness News @cityoflosangeles @stateofcalifornia https://youtu.be/s3iVFJoxrYc](https://youtu.be/s3iVFJoxrYc) [ATF’s Los Angeles Field Division website](https://www.atf.gov/los-angeles-field-division)
+@nasa currently affecting @nasa-jpl in [LIVE: ABC7 Eyewitness News @cityoflosangeles @stateofcalifornia https://youtu.be/s3iVFJoxrYc](https://youtu.be/s3iVFJoxrYc) [ATF’s Los Angeles Field Division website](https://www.atf.gov/los-angeles-field-division) 
 <iframe width="943" height="539" src="https://www.youtube.com/embed/s3iVFJoxrYc" title="LIVE: ABC7 Eyewitness News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![image](https://github.com/user-attachments/assets/5f08fc7f-31e7-476b-ae56-58d3a38db1c2)
+![image](https://github.com/user-attachments/assets/0c99bcdb-7e6f-414d-a709-ce989709f2a3)
 
 [Live High-Definition Views from the International Space Station (Official NASA Stream)](https://www.youtube.com/watch?v=H999s0P1Er0&ab_channel=NASA) [Video from the International Space Station Official NASA Stream](https://www.youtube.com/watch?v=DIgkvm2nmHc) -#Rashard@NASA#JPL @nasa-jpl @nasa @whitehouse @stateofcalifornia @cityoflosangeles 
 
