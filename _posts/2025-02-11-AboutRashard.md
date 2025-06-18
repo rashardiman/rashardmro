@@ -16,7 +16,7 @@ image: rashardMRO.jpeg
 
 Savannah, GA 31415-9615
 [(www.trisenx.com) released a beta unit of its Scent Dome system in 2003 ](https://www.researchgate.net/figure/Trisenx-Scent-Dome-This-system-produces-a-mixture-of-20-scents-but-currently-has-no-way_fig2_3422717)
-
+[Savannah Company Brings Scents Online @wtoc11 @cityoflosangeles @nasa @nasa-jpl @whitehouse](https://www.wtoc.com/story/3771256/savannah-company-brings-scents-online/)
 
 ![image - Trisenx Scent Dome. This system produces a mixture of 20 scents, but currently has no way to direct scents to a user.](https://github.com/user-attachments/assets/cabbc24f-761f-430c-8959-8a159fd07cf1)
 
