@@ -6,6 +6,21 @@ title: RashardGDS
 image: rashardMRO.jpeg
 tags: nasaoffice nasajpl helpdesk
 ---
+
+#  About The[Ice](https://www.youtube.com/watch?v=iDtcvXVlTVA&embeds_referring_euri=https%3A%2F%2Frashardmro.github.io%2F&source_ve_path=Mjg2NjY) [ArtParty](https://hyperallergic.com/1018989/defining-photos-from-los-angeles-historic-anti-ice-protests/) 
+Iwas looking  ScanDTE the [NearSpaceNetwork](https://www.nasa.gov/communicating-with-missions/nsn/) and a [signal](https://asf.alaska.edu/wp-content/uploads/2025/06/NASA-Near-Space-Network.png) from [ICEsat-2](https://icesat-2.gsfc.nasa.gov/) came through at the [Alaska Satellite Field](https://asf.alaska.edu/asf-satellite-tracking-stations/#ASF-NASA-NSN) Mayor Karen Bass thats why I told the people defending justice at the art party that "iM ICe! They dont read too well!" @stateofCalifornia @cityoflosangeles @nasa-jpl it was not a good joke and i got hurt but @blackgirlscode I know the people that [began thier wall writing journey in Atlanta](https://discoveratlanta.com/things-to-do/krog-street-tunnel/) and Would know about my badge, and I have suspicions [whiteamericabrokeintoo!](https://www.youtube.com/watch?v=TxXQUfCR5gU) [LYRiCs](https://www.reddit.com/r/TaylorSwift/comments/pyu8im/favorite_lyrics_from_reputation/) and the whole thing is this @whitehouse @nasa im just trailing . . . just know i know those [dance](https://www.youtube.com/watch?v=Csgo0oU5a_Y)-[people](https://www.youtube.com/watch?v=Of7YqEAbpPc) are involved with the [Art](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-09-25)[Riots](https://deadline.com/gallery/pussy-riot-nadya-tolokonnikova-police-state-la-protests-national-guard/)
+
+
+![iceSat-2](https://icesat-2.gsfc.nasa.gov/themes/custom/icesat2/images/MissionLogo.png)
+![image](https://github.com/user-attachments/assets/351c5b09-16ad-45c0-9560-d90698a8522a)
+[Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign](https://www.youtube.com/watch?v=5GL9JoH4Sws&themeRefresh=1) = [NEAR SPACE NETWORK DTE NOW](https://scan-now.gsfc.nasa.gov/dte)
+![image](https://github.com/user-attachments/assets/ce1fbb1d-68e8-4c19-afe1-3c064b139129)
+
+[axiom](https://youtu.be/lD0pmRMu0Sk)
+[Live NOW from Fox with "America's Most Experienced Astronaut"](https://www.axiomspace.com/steam/live-now-from-fox-with-americas-most-experienced-astronaut) [June 12, 2025 5:51pm EDT International Space Station leak investigation prompts delay in Axiom Space crew launch](https://www.foxweather.com/earth-space/nasa-delays-axiom-space-crew-launch-iss-leak-investigation#google_vignette)
+
+<img src="https://github.com/user-attachments/assets/1b008682-7151-41ee-9f31-9af6ffc5cb32" alt="1749850159579-6f32ba29-b379-45a1-9b36-13ca436701ef_1"/>[image](https://github.com/user-attachments/assets/e3c45169-c8a4-4143-9fa4-968f9d40d72e)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1gkn90ExKRNAOlhDs4RoW0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![latransitSimpleScanStation20250613101126_2](https://github.com/user-attachments/assets/5e2ae0b3-82b6-4179-91ff-fa83aef2b032)
