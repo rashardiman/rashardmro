@@ -11,7 +11,7 @@ image: rashardMRO.jpeg
 {% include management.md %}
 
 [Trisenx, Inc.](https://www.bbb.org/us/ga/savannah/profile/computer-hardware/trisenx-inc-0403-235955126)
-
+[unclaimed - manta.com](https://www.manta.com/c/mm33t09/trisenx-holdings-inc)
 2025 Louisville Rd Ste C
 
 Savannah, GA 31415-9615
