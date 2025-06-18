@@ -13,6 +13,8 @@ image: rashardMRO.jpeg
 [Trisenx, Inc.](https://www.bbb.org/us/ga/savannah/profile/computer-hardware/trisenx-inc-0403-235955126)
 [unclaimed - manta.com](https://www.manta.com/c/mm33t09/trisenx-holdings-inc)
 2025 Louisville Rd Ste C
+### [Bernetta Lanier](https://www.savannahga.gov/3028/District-1)
+![image - Bernetta Lanier](https://github.com/user-attachments/assets/9b917c10-c97c-460d-834d-bacbcdc3edb2)
 
 Savannah, GA 31415-9615
 [(www.trisenx.com) released a beta unit of its Scent Dome system in 2003 ](https://www.researchgate.net/figure/Trisenx-Scent-Dome-This-system-produces-a-mixture-of-20-scents-but-currently-has-no-way_fig2_3422717)
