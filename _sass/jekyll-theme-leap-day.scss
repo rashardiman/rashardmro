@@ -89,7 +89,7 @@ section {
   border: 19px solid #DB362D;
   margin-top: 0px;
   position:relative;
-  width: 70vw;
+  max-width: 60vw;
   margin-bottom: 40px;
   margin-right: 10px;
   margin-left: auto;
@@ -148,7 +148,7 @@ section img {
     font-kerning: normal;
     letter-spacing: .2rem;
     font: bold 10px/18px verdana, lucida, sans-serif;
-    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background: url(https://mars.nasa.gov/msl-raw-images/msss/04571/mhli/4571MH0002270001604098R00_DXXX.jpg);
     background-size: 20% auto;
     background-attachment: fixed;
   }
@@ -2825,8 +2825,8 @@ padding: 0px;
   section {
     margin-top: 20px;
     margin-bottom: 0px;
-    width: auto;
-  }
+    max-width: 720px
+	}
 
   header ul, header p.view {
     position:static;
@@ -2853,6 +2853,7 @@ padding: 0px;
   }
   section {
     margin-top: 5px;
+	  max-width: 480px
   }
 
   #banner { display: none;}
