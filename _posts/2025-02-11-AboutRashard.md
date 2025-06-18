@@ -15,7 +15,7 @@ image: rashardMRO.jpeg
 2025 Louisville Rd Ste C
 ### [Bernetta Lanier](https://www.savannahga.gov/3028/District-1)
 ![image - Bernetta Lanier](https://github.com/user-attachments/assets/9b917c10-c97c-460d-834d-bacbcdc3edb2)
-
+[WHAT'S NEXT; A Sense of Taste Online, But First Take a Sniff @nytimes](https://www.nytimes.com/2000/12/21/technology/what-s-next-a-sense-of-taste-online-but-first-take-a-sniff.html)
 Savannah, GA 31415-9615
 [(www.trisenx.com) released a beta unit of its Scent Dome system in 2003 ](https://www.researchgate.net/figure/Trisenx-Scent-Dome-This-system-produces-a-mixture-of-20-scents-but-currently-has-no-way_fig2_3422717)
 [Savannah Company Brings Scents Online @wtoc11 @cityoflosangeles @nasa @nasa-jpl @whitehouse](https://www.wtoc.com/story/3771256/savannah-company-brings-scents-online/)
