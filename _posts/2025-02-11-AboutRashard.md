@@ -29,3 +29,7 @@ Savannah, GA 31415-9615 [Business Summary](https://www.savannahnow.com/story/new
 ![MRO](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25354_mro_team_2016-06-23-web.jpg?w=1600&h=900&fit=clip&crop=faces%2Cfocalpoint)
 [My Family](https://x.com/BubbleGumPop510/status/1902124861578944758) [My Fam Situation](https://x.com/BubbleGumPop510/status/1902124482850152701)
 ![i love purple](https://pbs.twimg.com/media/GYL1VJYakAI54FP?format=jpg&name=large)
+
+@nasa-jpl @stateofcalifornia @cityoflosangeles i will explain soon respectfully 
+<img src="https://pbs.twimg.com/media/Gsxw8tub0AADakT?format=png&amp;name=large" alt="Image"/>![image](https://github.com/user-attachments/assets/97a066b1-2c20-44ee-9357-6de4cf960585)
+
