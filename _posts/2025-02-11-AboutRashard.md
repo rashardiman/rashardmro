@@ -8,6 +8,9 @@ image: rashardMRO.jpeg
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1gkn90ExKRNAOlhDs4RoW0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 {% include social.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/CENTCOM?ref_src=twsrc%5Etfw">@CENTCOM</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> im being asked to leave <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> bc of odor! <a href="https://twitter.com/Playboy?ref_src=twsrc%5Etfw">@playboy</a> dont hurt me, i have to travel to <a href="https://twitter.com/LAPublicLibrary?ref_src=twsrc%5Etfw">@LAPublicLibrary</a> <a href="https://t.co/1CQxV77TJ0">https://t.co/1CQxV77TJ0</a> <a href="https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw">@GavinNewsom</a> im being asked to leave the library! <a href="https://twitter.com/DVshowgirlsHV?ref_src=twsrc%5Etfw">@DVshowgirlsHV</a>... <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> he done made you look weak as fuck <a href="https://twitter.com/ktlaENT?ref_src=twsrc%5Etfw">@ktlaENT</a> <a href="https://t.co/hszhZapB8r">pic.twitter.com/hszhZapB8r</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1928908042994884917?ref_src=twsrc%5Etfw">May 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 {% include management.md %}
 
 
