@@ -10,6 +10,9 @@ image: rashardMRO.jpeg
 {% include social.md %}
 {% include management.md %}
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/POTUS?ref_src=twsrc%5Etfw">@POTUS</a> <a href="https://twitter.com/hashtag/HOMELANDSECURiTY?src=hash&amp;ref_src=twsrc%5Etfw">#HOMELANDSECURiTY</a> was <a href="https://twitter.com/unionstationla?ref_src=twsrc%5Etfw">@unionstationla</a> <a href="https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw">@GavinNewsom</a> are they visiting strip clubs? r u aware they are here? <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/RepKamlagerDove?ref_src=twsrc%5Etfw">@RepKamlagerDove</a> <a href="https://t.co/QRujnUPqc6">https://t.co/QRujnUPqc6</a> <a href="https://twitter.com/SecDef?ref_src=twsrc%5Etfw">@SecDef</a> dont make any moves without consulting this document <a href="https://t.co/SmouBr6dSk">https://t.co/SmouBr6dSk</a> + <a href="https://t.co/FHjpbXvRoR">https://t.co/FHjpbXvRoR</a> <a href="https://t.co/gCewYsIHFD">pic.twitter.com/gCewYsIHFD</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1931031626731147672?ref_src=twsrc%5Etfw">June 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [Trisenx, Inc.](https://www.bbb.org/us/ga/savannah/profile/computer-hardware/trisenx-inc-0403-235955126)
 [unclaimed - manta.com](https://www.manta.com/c/mm33t09/trisenx-holdings-inc)
 2025 Louisville Rd Ste C
