@@ -20,6 +20,8 @@ mermaid: true
 
 
 # Front Left Hazcam – Two Year Movie
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/aEiAwMJvuC">https://t.co/aEiAwMJvuC</a> <a href="https://twitter.com/MeliszaMcfierce?ref_src=twsrc%5Etfw">@MeliszaMcfierce</a> i hope it was u, thanks for the subway giggles... look at this vid to understand that i can make <a href="https://twitter.com/donaldglover?ref_src=twsrc%5Etfw">@donaldglover</a> reveal <a href="https://twitter.com/JRCricketsOrig?ref_src=twsrc%5Etfw">@JRCricketsOrig</a> <a href="https://twitter.com/hashtag/ideatheft?src=hash&amp;ref_src=twsrc%5Etfw">#ideatheft</a>~~~ <a href="https://t.co/e2P205FGfu">https://t.co/e2P205FGfu</a> <a href="https://t.co/bGGIfdn3hX">pic.twitter.com/bGGIfdn3hX</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1928872292223955399?ref_src=twsrc%5Etfw">May 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [Perseverance](https://mars.nasa.gov/mars2020/multimedia/raw-images/) is investigating [Jezero](https://www.uahirise.org/hipod/ESP_073068_1985) [Crater](https://www.reddit.com/r/StrangeEarth/comments/1itip0c/this_is_a_highly_detailed_view_of_one_of_the/)
 [NASA/JPL-Caltech](https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/)
 <video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/8/48025_FRHTwoYearMovie.gif" >
