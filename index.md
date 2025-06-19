@@ -18,7 +18,18 @@ mermaid: true
  
 </div>
 
-[HOLETOANOTHERUNiVERSE](https://thakarashard.github.io/holetoanotheruniverse/) @sony send to [SquareENiX](https://www.square-enix.com/)
+[HOLETOANOTHERUNiVERSE](https://thakarashard.github.io/holetoanotheruniverse/) = [NEWSSTAND](https://github.com/ricothakarashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md)
+
+<div class="section_2col ic">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-1' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
+
 # Front Left Hazcam – Two Year Movie
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/aEiAwMJvuC">https://t.co/aEiAwMJvuC</a> <a href="https://twitter.com/MeliszaMcfierce?ref_src=twsrc%5Etfw">@MeliszaMcfierce</a> i hope it was u, thanks for the subway giggles... look at this vid to understand that i can make <a href="https://twitter.com/donaldglover?ref_src=twsrc%5Etfw">@donaldglover</a> reveal <a href="https://twitter.com/JRCricketsOrig?ref_src=twsrc%5Etfw">@JRCricketsOrig</a> <a href="https://twitter.com/hashtag/ideatheft?src=hash&amp;ref_src=twsrc%5Etfw">#ideatheft</a>~~~ <a href="https://t.co/e2P205FGfu">https://t.co/e2P205FGfu</a> <a href="https://t.co/bGGIfdn3hX">pic.twitter.com/bGGIfdn3hX</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1928872292223955399?ref_src=twsrc%5Etfw">May 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
