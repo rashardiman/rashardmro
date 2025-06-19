@@ -18,6 +18,11 @@ mermaid: true
  
 </div>
 
+
+
+ # 
+ ![Mars Reconnaissance Orbiter is on the Approach](https://ia801300.us.archive.org/34/items/SPD-MARS-mrogallerycruisecruise_approach_200602/cruise_approach_200602_br.jpg)
+ @NASA's next martian orbiter has gotten one step closer to the red planet with the transition from cruise phase to approach phase! "Cruise is a deceptive term - we certainly weren't playing shuffleboard," joked project manager Jim Graf. "It was a very busy time for the team. [readmore](https://archive.org/details/SPD-MARS-mrogallerycruisecruise_approach_200602)
 [HOLETOANOTHERUNiVERSE](https://thakarashard.github.io/holetoanotheruniverse/) = [NEWSSTAND](https://github.com/ricothakarashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md)
 
 <div class="section_2col ic">
