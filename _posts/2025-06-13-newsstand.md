@@ -1,4 +1,15 @@
 
+
+<div class="section_2col ic">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-2' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
+
 ## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
 
 <IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
