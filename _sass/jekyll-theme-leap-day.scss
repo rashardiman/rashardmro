@@ -89,19 +89,36 @@ section {
   border: 19px solid #DB362D;
   margin-top: 0px;
   position:relative;
-  max-width: 60vw;
+  max-width: 75vw;
   margin-bottom: 40px;
   margin-right: 10px;
   margin-left: auto;
   margin-top: 0px;
   line-height: 1.5;
   padding:5px;
- background: linear-gradient(45deg, 
+  background: linear-gradient(
+    45deg,
+    #262626 25%,
+    #595959 0,
+    #595959 50%,
+    #262626 0,
+    #262626 75%,
+    #595959 0
+  );
+  background-size: 80.4px 80.4px;
+  font-family: "VT323", monospace;
+  background-attachment: fixed; }
+
+
+	
+/*
+	construction
+	background: linear-gradient(45deg, 
               #fb3 25%, #262624 0, #262624 50%,
               #fb3 0, #fb3 75%, #262624 0);
     background-size: 80.4px 80.4px;
     background-attachment: fixed;
-
+*/
 
 /* background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg) no-repeat 0 0 fixed; */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
