@@ -5,7 +5,7 @@ more coverage on [ricothakarashard.github.io/graffshit](https://thakarashard.git
 @stateofcalifornia @cityoflosangeles  
 [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [Drought]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=default&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-108.43215579956905%2C20.024215980551563%2C-74.16525782829038%2C47.54124440355219%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C16%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) + [U.S. Drought Monitor](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?CA) [Immigrant rights groups launch 'Summer of Resistance,' calling for end to ICE raids, deportations](https://abc7.com/post/los-angeles-immigrant-rights-groups-launch-summer-resistance-campaign-denouncing-ice-raids-deportations/16744793/) [ATLANTA:SUMMEROFRESiSTANCE - Become a Summer of Resistance Activist](https://act.uscpr.org/a/summer-of-resistance-sms) [Black Atlanta organizers announce ‘Summer of Resistance’ campaign will begin on Juneteenth By Mainline Staff / May 20, 2024](https://www.mainlineatl.com/atlanta-organizers-announce-summer-of-resistance-stop-cop-city-juneteenth/) [theguardian.com- `To not speak out is to be complicit`: LA faith leaders mobilize amid Ice raids](https://www.theguardian.com/us-news/2025/jun/18/los-angeles-faith-leaders-ice-raid)
 
-<div class="tupperware_col">
+<div class="tupperware">
 
 
     
@@ -39,7 +39,7 @@ more coverage on [ricothakarashard.github.io/graffshit](https://thakarashard.git
 
 
 
-<div class="tupperware_col">
+<div class="tupperware">
 
 ![image](https://github.com/user-attachments/assets/ff7e48a2-c52a-492f-9578-0e174dad9fda)
 
