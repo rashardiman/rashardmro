@@ -20,6 +20,12 @@ more coverage on [ricothakarashard.github.io/graffshit](https://thakarashard.git
 
 <img src="https://dims.apnews.com/dims4/default/13f87f6/2147483647/strip/true/crop/6000x4000+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F81%2Fbd325b55c3cbcdc70f14348b2bd2%2F5ef23217fe0346a686b97d11c36b6abb" alt="LA_GRAFFiTi"/>
 
+# [https://www.seiu721.org/](https://www.seiu721.org/)
+[![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-SEIU721__-blue?style=social&logo=X)](https://twitter.com/SEIU721)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Thousands of LA County workers are flooding the streets of DTLA, united in purpose with one message: We won&#39;t back down. We won&#39;t be ignored. This is what union power looks like. <a href="https://twitter.com/hashtag/UnionStrong?src=hash&amp;ref_src=twsrc%5Etfw">#UnionStrong</a> <a href="https://t.co/HsaBXdjUBY">pic.twitter.com/HsaBXdjUBY</a></p>&mdash; SEIU 721 (@SEIU721) <a href="https://twitter.com/SEIU721/status/1917309687567114513?ref_src=twsrc%5Etfw">April 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![image](https://github.com/user-attachments/assets/1ca179ed-b3c9-4b7e-95fb-62af8d63cf8d)
 
 ### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
 <object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
