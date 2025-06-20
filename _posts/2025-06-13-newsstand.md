@@ -35,6 +35,26 @@ more coverage on [ricothakarashard.github.io/graffshit](https://thakarashard.git
 
 <object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
 
+
+
+
+
+<div class="tupperware_col">
+
+![image](https://github.com/user-attachments/assets/ff7e48a2-c52a-492f-9578-0e174dad9fda)
+
+![image](https://github.com/user-attachments/assets/fd23c74a-31eb-447f-acf7-f50a58a1264a)
+
+![image](https://github.com/user-attachments/assets/25b7ad12-cca1-4425-8cf3-43cc971ff4ae)
+
+![image](https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa)
+
+![image](https://github.com/user-attachments/assets/46d432fc-c6b3-4436-bd60-55db8662fce9)
+
+
+</div>
+
+    
 [RashardsBinder](https://rashardmro.github.io/mybinder/)
 
 <object width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" data="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749094163&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></object>
