@@ -1,3 +1,24 @@
+[Current @cityoflosangeles Dodgers](https://www.washingtonpost.com/nation/2025/06/21/dodgers-immigration-raids-los-angeles/) [The Dodgers say ICE tried to enter its stadium grounds. The federal agency calls the report ‘false’: Here’s what we know](https://www.cnn.com/2025/06/20/us/dodger-stadium-ice-los-angeles)
+[Dodgers say immigration agents denied entry to Los Angeles stadium](https://www.bbc.com/news/articles/cp86m3j10vpo)
+![image](https://github.com/user-attachments/assets/519acadc-8058-4a40-ab39-6f0686a263a1)
+Federal agents are denied access to Dodger Stadium in latest immigration clash [@NEwsHour](https://www.pbs.org/newshour/latest)
+<object width="560" height="315" data="https://www.youtube.com/embed/VQ2_f6B5dz0?si=LorVGqLL7OPA-AFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
+[{{ site.baseurl }}/compiling/Summer-Of-Resistance-LosAngeles]({{ site.baseurl }}/compiling/Summer-Of-Resistance-LosAngeles) [SummeroFresistanceOnCompiling](https://moonlover404.github.io/compiling/Summer-Of-Resistance-LosAngeles)
+![image](https://github.com/user-attachments/assets/20cdfc23-df8a-4695-bec1-73da48f7df1d)
+
+![image](https://github.com/user-attachments/assets/f13b5fd3-2f93-4f95-a60b-5f1913bf9a4f)
+
+# AviaTion 
+
+<div class="tupperware" markdown="1">
+
+![1juneteenthsummerofresistanceSimpleScanStation20250621120655-26](https://github.com/user-attachments/assets/c6f3a3ca-a74d-44c1-9289-a53562ad7604)
+
+![1juneteenthsummerofresistanceSimpleScanStation20250621120655-25](https://github.com/user-attachments/assets/5ace0b03-db56-4a20-bbcf-2712ec889dc8)
+
+
+</div>
 
 # SummerofresistanceDTLA
 more coverage on [ricothakarashard.github.io/graffshit](https://thakarashard.github.io/ricothaka/GraffShit)
