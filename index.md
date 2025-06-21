@@ -18,6 +18,11 @@ mermaid: true
  
 </div>
 
+
+ # A Decade of Sun
+ [Released Wednesday, June 24, 2020](https://svs.gsfc.nasa.gov/13641)
+[![image](https://github.com/user-attachments/assets/43071282-7c1b-4005-a1ee-8858fe5b7f51)](https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_10_Year_Sun_1080_15mbps.webm)
+
 [@cityoflosangeles @stateofcalifornia REP_KAREN_BASS i missed this build @nasa-jpl](https://youtu.be/HZ_knAEx9xg?t=85)
 It has not launched yet from my undersstanding, are you interested in the product and what it will bring our globe? [WATCH:NASA's Roman Space Telescope Hardware Highlights: Summer/Fall 2024](https://www.youtube.com/watch?v=HZ_knAEx9xg)
 
