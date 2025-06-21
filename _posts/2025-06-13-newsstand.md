@@ -1,8 +1,8 @@
 [Current @cityoflosangeles Dodgers]() [The Dodgers say ICE tried to enter its stadium grounds. The federal agency calls the report ‘false’: Here’s what we know](https://www.cnn.com/2025/06/20/us/dodger-stadium-ice-los-angeles)
 [Dodgers say immigration agents denied entry to Los Angeles stadium](https://www.bbc.com/news/articles/cp86m3j10vpo)
-<img src="blob:chrome-untrusted://media-app/42d5a2b9-fb28-4eb3-ab5b-cd5e4485cea0" alt="1juneteenthsummerofresistanceSimpleScanStation20250621120655-11.png"/>![image](https://github.com/user-attachments/assets/519acadc-8058-4a40-ab39-6f0686a263a1)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQ2_f6B5dz0?si=LorVGqLL7OPA-AFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![image](https://github.com/user-attachments/assets/519acadc-8058-4a40-ab39-6f0686a263a1)
+Federal agents are denied access to Dodger Stadium in latest immigration clash [@NEwsHour](https://www.pbs.org/newshour/latest)
+<object width="560" height="315" data="https://www.youtube.com/embed/VQ2_f6B5dz0?si=LorVGqLL7OPA-AFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 
 [{{ site.baseurl }}/compiling/Summer-Of-Resistance-LosAngeles]({{ site.baseurl }}/compiling/Summer-Of-Resistance-LosAngeles) [SummeroFresistanceOnCompiling](https://moonlover404.github.io/compiling/Summer-Of-Resistance-LosAngeles)
 ![image](https://github.com/user-attachments/assets/20cdfc23-df8a-4695-bec1-73da48f7df1d)
