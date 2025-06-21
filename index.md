@@ -18,6 +18,11 @@ mermaid: true
  
 </div>
 
+[@cityoflosangeles @stateofcalifornia REP_KAREN_BASS i missed this build @nasa-jpl](https://youtu.be/HZ_knAEx9xg?t=85)
+It has not launched yet from my undersstanding, are you interested in the product and what it will bring our globe? [WATCH:NASA's Roman Space Telescope Hardware Highlights: Summer/Fall 2024](https://www.youtube.com/watch?v=HZ_knAEx9xg)
+
+<object width="560" height="315" data="https://www.youtube.com/embed/HZ_knAEx9xg?si=XreSYjt4An9qMhNt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
 
 <h1><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl">Mars Science Laboratory: Curiosity Raw Images</a></h1>
 
