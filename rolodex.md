@@ -1,4 +1,22 @@
 
+
+@soundcloud im in [LittleTokeyo](https://www.lapl.org/branches/little-tokyo)
+trying to enjoy [The ChemicalBrothers](https://soundcloud.com/colin-morris-484662120/1995-03-05-essential-mix-the-chemical-brothers?in=earxtacy/sets/chem-bros&utm_source=direct&utm_content=store_button_footer&utm_medium=mobi&utm_campaign=no_campaign) @nasa im trying to funnel commets to update bc i was told that everything is communicating and from my own research on logging and that old pretty blond lady drawing ppl on the train that Im working and not a disruption but this hacking is! [SpaceForce101 @nasa-jpl i dont want more to do but when you guys want things i wna tthem presented like this](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+```
+We detected unusual activity from your device or network.
+
+Reasons may include:
+
+Rapid taps or clicks
+JavaScript disabled or not working
+Automated (bot) activity on your network (IP 155.190.2.34)
+Use of developer or inspection tools
+Need help? Submit feedback.
+
+ID: e670f717-ada1-8d60-2a60-b9b4606808ab
+```
+![image](https://github.com/user-attachments/assets/e6461ddc-9380-414d-9b85-3971a8026fa4)
+
 ![image](https://github.com/user-attachments/assets/9d55a3bf-57dd-4a20-a6a0-f00957499d9b)
 [All About Erika](https://www.blurb.com/b/328121-all-about-erika?srsltid=AfmBOor3Ciocu_LkQhwC5I5dXFGLQDUn0lksFt3TmN5k0aTr1jggWlxs)
 >by Rashard Kelly @nasa-jpl please read it @defensedept @whitehouse @cityoflosangeles @stateofcalifornia @blackgirlscode @DARPA
