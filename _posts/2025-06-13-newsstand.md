@@ -1,4 +1,4 @@
-[Current @cityoflosangeles Dodgers]() [The Dodgers say ICE tried to enter its stadium grounds. The federal agency calls the report ‘false’: Here’s what we know](https://www.cnn.com/2025/06/20/us/dodger-stadium-ice-los-angeles)
+[Current @cityoflosangeles Dodgers](https://www.washingtonpost.com/nation/2025/06/21/dodgers-immigration-raids-los-angeles/) [The Dodgers say ICE tried to enter its stadium grounds. The federal agency calls the report ‘false’: Here’s what we know](https://www.cnn.com/2025/06/20/us/dodger-stadium-ice-los-angeles)
 [Dodgers say immigration agents denied entry to Los Angeles stadium](https://www.bbc.com/news/articles/cp86m3j10vpo)
 ![image](https://github.com/user-attachments/assets/519acadc-8058-4a40-ab39-6f0686a263a1)
 Federal agents are denied access to Dodger Stadium in latest immigration clash [@NEwsHour](https://www.pbs.org/newshour/latest)
@@ -11,7 +11,7 @@ Federal agents are denied access to Dodger Stadium in latest immigration clash [
 
 # AviaTion 
 
-<div class="tupperware">
+<div class="tupperware" markdown="1">
 
 ![1juneteenthsummerofresistanceSimpleScanStation20250621120655-26](https://github.com/user-attachments/assets/c6f3a3ca-a74d-44c1-9289-a53562ad7604)
 
