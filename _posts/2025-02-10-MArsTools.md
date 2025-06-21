@@ -5,6 +5,10 @@ published: true
 title: Mars Tools
 image: PIA26080_modest.jpg
 ---
+
+
+{% include marsinventory.md %}
+
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
 | Opportunity        |   [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/)  | 23.99 |
