@@ -1,3 +1,4 @@
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Psyche&#39;s thrusters are back online! ✅<br><br>After the team detected a propulsion system pressure drop in April, engineers switched to a backup propellant line. Psyche remains on track for a Mars gravity assist in May 2026 on its way to the asteroid Psyche: <a href="https://t.co/ItxTd6QZzB">https://t.co/ItxTd6QZzB</a> <a href="https://t.co/Lfgp4iT0zL">pic.twitter.com/Lfgp4iT0zL</a></p>&mdash; NASA JPL (@NASAJPL) <a href="https://twitter.com/NASAJPL/status/1936105991256576301?ref_src=twsrc%5Etfw">June 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # CloudMobile_c7
 ### The Durant_Library garbagepail find
@@ -5,13 +6,13 @@ I got really comfortable coding and making github commits to the point i never f
 
 ![Lab in a Smartphone](https://pbs.twimg.com/media/F_oQXPRa0AAIx7H?format=jpg&name=large)
 ![BoonDocks](https://pbs.twimg.com/media/F_oQXbHboAAs0cV?format=png&name=medium)
-[Related](https://x.com/RicoThaka/status/1727711403145044435)
+[Related](https://x.com/status/1727711403145044435)
 
 # Dam Map!
 ![dams](https://pbs.twimg.com/media/GkgxSfGXoAAYrvH?format=jpg&name=medium)
-[RelatedTwwt](https://x.com/RicoThaka/status/1893818593155899603) [Tutorial](https://x.com/RicoThaka/status/1893815046280483296)
+[RelatedTwwt](https://x.com/status/1893818593155899603) [Tutorial](https://x.com/status/1893815046280483296)
 
-# LOTR [BeggingNormaniForAttention](https://x.com/RicoThaka/status/1890687645832880283)
+# LOTR [BeggingNormaniForAttention](https://x.com/status/1890687645832880283)
 ![LOTR](https://pbs.twimg.com/media/Gj0SBm6XAAAV3b8?format=jpg&name=medium)
 <iframe src="https://archive.org/embed/full-vhs-the-lord-of-the-rings-1978-thorn-emi-video-1981-vhs" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -33,23 +34,23 @@ I had a good time growing with Windows95 on [#RetroArch](https://docs.libretro.c
 <iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![win95](https://pbs.twimg.com/media/GjUa2L-XEAE_lrB?format=jpg&name=medium)
-[Fonts](https://x.com/RicoThaka/status/1898447665660412043)
+[Fonts](https://x.com//status/1898447665660412043)
 ![Fonts](https://pbs.twimg.com/media/Glijv9PaIAAEQUg?format=png&name=medium)
-[CommandLine](https://x.com/RicoThaka/status/1888467564734427417) [Solitare](https://x.com/RicoThaka/status/1889367293735698686)
+[CommandLine](https://x.com//status/1888467564734427417) [Solitare](https://x.com//status/1889367293735698686)
 
 ![NFS DOS](https://pbs.twimg.com/media/GjI0n4FbEAAS9G7?format=jpg&name=medium)
-[RelatedTweet](https://x.com/RicoThaka/status/1887629299274162266)
+[RelatedTweet](https://x.com/status/1887629299274162266)
 ![Keyboard](https://pbs.twimg.com/media/GjI0n3lbIAI4-tS?format=jpg&name=medium)
 
 # PlayStation 1995
 Was really pleasant and calming bc it ran perfectly and i had my old library in my pocket! That part was amazing!
-[WipeOut](https://x.com/RicoThaka/status/1889368173721559532)
+[WipeOut](https://x.com/status/1889368173721559532)
 ![wipeout](https://pbs.twimg.com/media/GjiBUHpbkAA8xFe?format=jpg&name=medium)
 sf3 was arcade perfect, wish i could t
 ![SF3](https://pbs.twimg.com/media/GjoO78_bIAEuLrf?format=jpg&name=medium)
 ![SF3](https://pbs.twimg.com/media/GjoOlvDaAAAlrZ9?format=jpg&name=medium)
-[I made it to gill](https://x.com/RicoThaka/status/1895906194914754914) [Related](https://x.com/RicoThaka/status/1898203718878720281)
-![Cap](https://pbs.twimg.com/media/GliuTfMbcAAVkdo?format=jpg&name=large) [RelatedTWT](https://x.com/RicoThaka/status/1898458965773816026)
+[I made it to gill](https://x.com/status/1895906194914754914) [Related](https://x.com/status/1898203718878720281)
+![Cap](https://pbs.twimg.com/media/GliuTfMbcAAVkdo?format=jpg&name=large) [RelatedTWT](https://x.com/status/1898458965773816026)
 ![Best BaseBallGameEver](https://pbs.twimg.com/media/GlY5CatbwAME9ww?format=jpg&name=medium)
 
 ![ff7](https://pbs.twimg.com/media/GlfGFeDXYAAGx_w?format=jpg&name=medium)
@@ -60,10 +61,10 @@ I did not do much Technical reading from howto books, but work pdfs man that was
 ![emit](https://pbs.twimg.com/media/GjrzfihXoAAvbFF?format=jpg&name=medium)
 
 ![Spyro](https://pbs.twimg.com/media/Gjv9CFUWwAAMMC3?format=jpg&name=medium)
-[RelatedTwt NORMANi](https://x.com/RicoThaka/status/1890382692534960378) [STARWARS Episode1 Racer](https://x.com/RicoThaka/status/1895970633714164133)
+[RelatedTwt NORMANi](https://x.com/status/1890382692534960378) [STARWARS Episode1 Racer](https://x.com/status/1895970633714164133)
 
 # GLSL SHaders
 ![KoM](https://pbs.twimg.com/media/GkWBUDuXYAAQuPB?format=png&name=medium)
 ![mario](https://pbs.twimg.com/media/GkWBUD7WgAAwvGz?format=png&name=medium)
 ![termux](https://pbs.twimg.com/media/GkWBzuPaoAALlWS?format=jpg&name=medium)
-[DonkyKong](https://x.com/RicoThaka/status/1893187582269264309)
+[DonkyKong](https://x.com/status/1893187582269264309)

@@ -5,7 +5,7 @@
 ## Design for different form factors
 ![Android Design](https://developer.android.com/static/images/topic/libraries/architecture/navigation-form-factors-whitespace.png) The design of your app’s UI isn't tied to a particular device form factor. Android applications need to adapt to a number of different types of devices, from 4-inch handsets to 50-inch TVs to ChromeOS devices with resizable windows. [readmore - developer.android.com](https://developer.android.com/guide/navigation/responsive/form-factors)
 
-[FLexBox - flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) , Im working on the main container for [HoletoAnotherUniverse - /ricothaka](https://ricothaka.github.io/twitters/htau.html) thats the old compared to the new 
+[FLexBox - flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) , Im working on the main container for [HoletoAnotherUniverse - /ricothaka](https://ricothakarashard.github.io/twitters/htau.html) thats the old compared to the new 
 ![htua](https://pbs.twimg.com/media/GmbzY_YagAAe9KW?format=jpg&name=large)
 
 [TELNET COMMANDS - ulTRAX'S ARCHIVE](https://ultrick.tripod.com/codes/telnet01.html)
@@ -154,7 +154,7 @@ Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of 
 [Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
 
 <video controls preload="none"   
-  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
+  src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
   poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
   >
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
@@ -174,7 +174,7 @@ Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of 
         video.
 </video>
 
-[The Result](ricothaka.github.io/playlist)
+[The Result](ricothakarashard.github.io/playlist)
 
 
 ![N](https://pbs.twimg.com/media/GYrNr4caUAEZ-en?format=jpg&name=large)
