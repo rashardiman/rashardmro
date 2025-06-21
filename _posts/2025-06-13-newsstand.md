@@ -1,4 +1,16 @@
 
+
+[{{ site.baseurl }}/compiling/Summer-Of-Resistance-LosAngeles]({{ site.baseurl }}/compiling/Summer-Of-Resistance-LosAngeles) [SummeroFresistanceOnCompiling](https://moonlover404.github.io/compiling/Summer-Of-Resistance-LosAngeles)
+![image](https://github.com/user-attachments/assets/20cdfc23-df8a-4695-bec1-73da48f7df1d)
+
+![image](https://github.com/user-attachments/assets/f13b5fd3-2f93-4f95-a60b-5f1913bf9a4f)
+
+# AviaTion 
+<div class="tupperware">
+
+
+</div>
+
 # SummerofresistanceDTLA
 more coverage on [ricothakarashard.github.io/graffshit](https://thakarashard.github.io/ricothaka/GraffShit)
 [Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz) 
