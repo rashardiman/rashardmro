@@ -1,3 +1,6 @@
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">It&#39;s the summer solstice! <br><br>This precise moment in Earth&#39;s orbit has been an astronomical signpost observed by humans for millennia – so however you&#39;re spending your day, take a moment to celebrate this shared celestial connection. ☀️ <a href="https://t.co/pxQZUU6hu6">pic.twitter.com/pxQZUU6hu6</a></p>&mdash; NASA JPL (@NASAJPL) <a href="https://twitter.com/NASAJPL/status/1936088999116128683?ref_src=twsrc%5Etfw">June 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [Current @cityoflosangeles Dodgers](https://www.washingtonpost.com/nation/2025/06/21/dodgers-immigration-raids-los-angeles/) [The Dodgers say ICE tried to enter its stadium grounds. The federal agency calls the report ‘false’: Here’s what we know](https://www.cnn.com/2025/06/20/us/dodger-stadium-ice-los-angeles)
 [Dodgers say immigration agents denied entry to Los Angeles stadium](https://www.bbc.com/news/articles/cp86m3j10vpo)
 ![image](https://github.com/user-attachments/assets/519acadc-8058-4a40-ab39-6f0686a263a1)
