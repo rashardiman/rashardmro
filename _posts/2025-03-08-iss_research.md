@@ -46,7 +46,7 @@ The Apollo 9 spacecraft, with astronauts James A. McDivitt, David R. Scott, and 
 https://earthobservatory.nasa.gov/features/BlueMarble
 [AMG JOB](https://x.com/RicoThaka/status/1901769189653926187)
 
-[Research i need to compile here](https://ricothaka.github.io/compiling/The-Iss-Research)
+[Research i need to compile here](https://ricothakarashard.github.io/compiling/The-Iss-Research)
 # Spot The Station
 [Schedule](https://spotthestation.nasa.gov/)
 [Uncovering the Secrets of the International Space Station (Full Episode)  Superstructures @natgeosociety](https://www.youtube.com/watch?v=Ei-TcECJVXU)
@@ -55,7 +55,7 @@ https://earthobservatory.nasa.gov/features/BlueMarble
 ### ApprovedApps
 ![Approvals](https://pbs.twimg.com/media/GkLRn7NaIAAnGPr?format=jpg&name=large)
 
-[ECOSTRESS - commute Tweet](https://x.com/RicoThaka/status/1835053132394717537) [DigitalRealty](https://x.com/RicoThaka/status/1879959480160731391) [EMiT](https://x.com/RicoThaka/status/1890483895797211532)
+[ECOSTRESS - commute Tweet](https://x.com/ricothaka/status/1835053132394717537) [DigitalRealty](https://x.com/RicoThaka/status/1879959480160731391) [EMiT](https://x.com/RicoThaka/status/1890483895797211532)
 ---
 [TutorialFiles](https://x.com/RicoThaka/status/1882203952944730255) [MoreMaps! FirMS KML](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-kml)
 [LosAngelesFire](https://x.com/RicoThaka/status/1882206772829766132) [GoogleEarth](https://earth.google.com/web/@0,-0.3811001,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA) [KML_ViEWER -https://kmlviewer.nsspot.net/ -](https://kmlviewer.nsspot.net/) [BurningHills](https://x.com/RicoThaka/status/1882197967530242306)
@@ -107,28 +107,28 @@ This handbook is the companion document to NPR 7120.5F, NASA Space Flight Progra
 The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/) [MRO_TWEET](https://x.com/RicoThaka/status/1760472287265038367)
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
           
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
 
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
 
 
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
 
-<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
 
 ![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
 # 
 
 {% for image in site.static_files %}
     {% if image.path contains 'spacestation/loc' %}
-        <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master{{ image.path }}" alt="image" />
+        <img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
 <div >
