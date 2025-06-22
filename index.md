@@ -6,10 +6,11 @@ mermaid: true
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+{% include nav.html %}
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
-{% include nav.html %}
+
 
 <div class="box">
 {% for post in site.posts %}
@@ -20,6 +21,13 @@ mermaid: true
  
 </div>
 
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Sewer_Shark_Coverart.jpg" alt="Sewer Shark - Wikipedia"/>
+
+[SEGA CDSewer Shark](https://www.retrogames.cc/segacd-games/sewer-shark.html)
+
+`"Sewer Shark was the only game i owned for my SegaCD"` -[U/natehinxman](https://www.reddit.com/r/RG35XX_Plus/comments/1bqu38q/sewer_shark_sega_cd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+I knew so many [SegaCD_Owners]() Like that @blackgirlscode, however I feel guilt for working, I worked lawncare adHoc as a kid to buy games and im older with my money bc at the end of the day everything on the market is a [radio signal](https://nationaldefensenetwork.com/radio-show/) piped to you or an array of loops and echos to play the same concept -Rashard, i wonder if GHOST or whatever the characters name is on SewerShark is the big dude at [HollywoodFoodCoalition](https://hofoco.org/) :[[Linkedin]](https://www.linkedin.com/company/hofoco)? [imdb](https://www.imdb.com/title/tt0278701/) [Sewer Shark (3DO) Playthrough -NintendoCOMPLETEon@youtube](https://youtu.be/HrCHYjSFA9I) [sega16](https://www.sega-16.com/2008/08/sewer-shark/)  [GOOGLE_Ai](https://www.google.com/search?q=sewershark+review&sa=X&sca_esv=137efc39dde293df&rlz=1CASLJZ_enUS1167&udm=50&fbs=AIIjpHyXkckd7Il21lobbVJc1XW8UWqx1w2L_HS4glko4E1W2IeeIZvHkM4DWoJRZaDIWj-19PEa5EIwXyC_8gqy8sSg0YuGujPNov0Y-glAntJwAaUTSCsp6ryI_IVbPAgoByVKwXIZKeaCyoJYKwuW6FpLqoEWYlA9tCSUT3Vy3c5chzomaQ7uR2M-4sx5nof53OCU9lnlQDMSKFNvnz6tTmmYKwrlq8-VNKPoPeVSI9ebEV8f8aw&aep=1&ntc=1&ved=2ahUKEwiB6_G7mYaOAxUjHkQIHfdzAGUQ2J8OegQIERAC&mstk=AUtExfB3sosAzo0JRpEiSM64OpEyVRb5a0mVPiYk36YSszf8kO1DwC6xlmqdIFB9sK-jM_khOnwGt9J1dTN_cONshDz4kCEF_zHdakNwkucfRE2DPfoxuBv4GBxQEW4DdqqMNtRZPWxIaOx9W-yn4RxfrYnysY350ROBRzs&csuir=1&biw=945&bih=945&dpr=1) [スーワーシャーク](https://segaretro.org/Sewer_Shark)
+[Introduction to Turing Mesh Shaders - developer.@nvidia.com](https://developer.nvidia.com/blog/introduction-turing-mesh-shaders/)
 # #CAliFORNiALiNUX:South Pasadena Public library FirstVisit
 <iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -27,9 +35,17 @@ mermaid: true
  [`RSS` Feeds for Los Angeles District, South Pacific Division, U.S. Army Corps of Engineers](https://www.spl.usace.army.mil/Contact/RSS/) @nasa-jpl i dont know who these ppl are but as much as i have been looking at the river i know i need to pass some of my information on here are a couple poston /compiling [TheLosAngeleSRiver](https://rashardlanasa.github.io/compiling/The-Losangeles-River)  , [WaterWerkS](https://rashardlanasa.github.io/compiling/WaterWerkS) & [The 2025 Los Angeles Fires](https://rashardlanasa.github.io/compiling/The-2025-Los-Angeles-Fires) many of the tweets and images have collapsed but its things that i shhould not forget about sharing ...
 
  ### Who They are.. 
- The U.S. Army Corps of Engineers Los Angeles District provides civil works and military engineering support to Southern California, Nevada, Arizona and parts of Utah. [READMORE https://www.spl.usace.army.mil/About/](https://www.spl.usace.army.mil/About/)
+ The U.S. Army Corps of Engineers Los Angeles District provides civil works and military engineering support to Southern California, Nevada, Arizona and parts of Utah. [READMORE https://www.spl.usace.army.mil/About/](https://www.spl.usace.army.mil/About/) 915 Wilshire Blvd Ste 1101
+Los Angeles, CA 90017
+213-452-3921  [MAP](https://usace.maps.arcgis.com/apps/webappviewer/index.html?id=7344e62432694199af7790aa47a32fdd)
+![image](https://github.com/user-attachments/assets/e48ba9a1-d3f0-403b-ae11-b6cb5507ddc3)
 
-![Los Angeles Main District Office](https://www.spl.usace.army.mil/Locations/Los-Angeles/)
+![image](https://github.com/user-attachments/assets/5317b14a-07e6-4ecc-a788-71f6fc3ad7f9)
+
+
+![image - Los Angeles Main District Office](https://github.com/user-attachments/assets/e83c73a6-0ba7-4b5d-9b8b-f7eb32f1d902)
+
+
  ![District Boundary](https://www.spl.usace.army.mil/Portals/17/siteimages/Mil-Civ-District-map-3-12.png)
 [Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11) 
 Current release: Windows 11 2024 Update l Version 24H2
