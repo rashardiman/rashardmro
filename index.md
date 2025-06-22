@@ -20,10 +20,22 @@ mermaid: true
  
 </div>
 
+# #CAliFORNiALiNUX:South Pasadena Public library FirstVisit
+<iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) [SouthPasadenaLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) [PAsadenaLibraries](https://www.cityofpasadena.net/library/branches/) 
+ [`RSS` Feeds for Los Angeles District, South Pacific Division, U.S. Army Corps of Engineers](https://www.spl.usace.army.mil/Contact/RSS/) @nasa-jpl i dont know who these ppl are but as much as i have been looking at the river i know i need to pass some of my information on here are a couple poston /compiling [TheLosAngeleSRiver](https://rashardlanasa.github.io/compiling/The-Losangeles-River)  , [WaterWerkS](https://rashardlanasa.github.io/compiling/WaterWerkS) & [The 2025 Los Angeles Fires](https://rashardlanasa.github.io/compiling/The-2025-Los-Angeles-Fires) many of the tweets and images have collapsed but its things that i shhould not forget about sharing ...
+
+ ### Who They are.. 
+ The U.S. Army Corps of Engineers Los Angeles District provides civil works and military engineering support to Southern California, Nevada, Arizona and parts of Utah. [READMORE https://www.spl.usace.army.mil/About/](https://www.spl.usace.army.mil/About/)
+
+![Los Angeles Main District Office](https://www.spl.usace.army.mil/Locations/Los-Angeles/)
+ ![District Boundary](https://www.spl.usace.army.mil/Portals/17/siteimages/Mil-Civ-District-map-3-12.png)
 [Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11) 
 Current release: Windows 11 2024 Update l Version 24H2
 @blackgirlscode i hope you guys are ok, i need to see if kimberly bryant can help me get to work and explain all this craziness, i cant talk, [This Library is Wonderful Tho](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library)
 @cityoflosangeles what version of [windows](https://www.microsoft.com/en-us/windows-server) are you guys on @stateofcalifornia ? @Microsoft we have  a lot of library stalking that im sure has hit [municipal](https://lacity.gov/directory/information-technology-agency) ... But I think ppl overwhelmed and a lot of old [ActiveDirectoryForests](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/using-the-organizational-domain-forest-model) got canned with all the lapses in public services @nasa-jpl im reporting, im just unorganized, this library is not trying to kill me or insult me yet. Im not on retrogames, its too scary @blackgirlscode! 
+[Kash Doll - The Vault-2018](https://archive.org/details/Kash_Doll_-_The_Vault-2018/09+Kash+Doll+-+Anybody+(Feat.+Zaytoven).mp3)
 
  # A Decade of Sun
  [Released Wednesday, June 24, 2020](https://svs.gsfc.nasa.gov/13641)
