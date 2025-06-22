@@ -18,6 +18,10 @@ mermaid: true
  
 </div>
 
+[Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11) 
+Current release: Windows 11 2024 Update l Version 24H2
+@blackgirlscode i hope you guys are ok, i need to see if kimberly bryant can help me get to work and explain all this craziness, i cant talk, [This Library is Wonderful Tho](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library)
+@cityoflosangeles what version of [windows](https://www.microsoft.com/en-us/windows-server) are you guys on @stateofcalifornia ? @Microsoft we have  a lot of library stalking that im sure has hit [municipal](https://lacity.gov/directory/information-technology-agency) ... But I think ppl overwhelmed and a lot of old [ActiveDirectoryForests](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/using-the-organizational-domain-forest-model) got canned with all the lapses in public services @nasa-jpl im reporting, im just unorganized, this library is not trying to kill me or insult me yet. Im not on retrogames, its too scary @blackgirlscode! 
 
  # A Decade of Sun
  [Released Wednesday, June 24, 2020](https://svs.gsfc.nasa.gov/13641)
