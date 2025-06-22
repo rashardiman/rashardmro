@@ -21,6 +21,13 @@ mermaid: true
  
 </div>
 
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Sewer_Shark_Coverart.jpg" alt="Sewer Shark - Wikipedia"/>
+
+[SEGA CDSewer Shark](https://www.retrogames.cc/segacd-games/sewer-shark.html)
+
+`"Sewer Shark was the only game i owned for my SegaCD"` -[U/natehinxman](https://www.reddit.com/r/RG35XX_Plus/comments/1bqu38q/sewer_shark_sega_cd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+I knew so many [SegaCD_Owners]() Like that @blackgirlscode, however I feel guilt for working, I worked lawncare adHoc as a kid to buy games and im older with my money bc at the end of the day everything on the market is a [radio signal](https://nationaldefensenetwork.com/radio-show/) piped to you or an array of loops and echos to play the same concept -Rashard, i wonder if GHOST or whatever the characters name is on SewerShark is the big dude at [HollywoodFoodCoalition](https://hofoco.org/) :[[Linkedin]](https://www.linkedin.com/company/hofoco)? [imdb](https://www.imdb.com/title/tt0278701/) [Sewer Shark (3DO) Playthrough -NintendoCOMPLETEon@youtube](https://youtu.be/HrCHYjSFA9I) [sega16](https://www.sega-16.com/2008/08/sewer-shark/)  [GOOGLE_Ai](https://www.google.com/search?q=sewershark+review&sa=X&sca_esv=137efc39dde293df&rlz=1CASLJZ_enUS1167&udm=50&fbs=AIIjpHyXkckd7Il21lobbVJc1XW8UWqx1w2L_HS4glko4E1W2IeeIZvHkM4DWoJRZaDIWj-19PEa5EIwXyC_8gqy8sSg0YuGujPNov0Y-glAntJwAaUTSCsp6ryI_IVbPAgoByVKwXIZKeaCyoJYKwuW6FpLqoEWYlA9tCSUT3Vy3c5chzomaQ7uR2M-4sx5nof53OCU9lnlQDMSKFNvnz6tTmmYKwrlq8-VNKPoPeVSI9ebEV8f8aw&aep=1&ntc=1&ved=2ahUKEwiB6_G7mYaOAxUjHkQIHfdzAGUQ2J8OegQIERAC&mstk=AUtExfB3sosAzo0JRpEiSM64OpEyVRb5a0mVPiYk36YSszf8kO1DwC6xlmqdIFB9sK-jM_khOnwGt9J1dTN_cONshDz4kCEF_zHdakNwkucfRE2DPfoxuBv4GBxQEW4DdqqMNtRZPWxIaOx9W-yn4RxfrYnysY350ROBRzs&csuir=1&biw=945&bih=945&dpr=1) [スーワーシャーク](https://segaretro.org/Sewer_Shark)
+[Introduction to Turing Mesh Shaders - developer.@nvidia.com](https://developer.nvidia.com/blog/introduction-turing-mesh-shaders/)
 # #CAliFORNiALiNUX:South Pasadena Public library FirstVisit
 <iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
