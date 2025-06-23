@@ -8,7 +8,9 @@ mermaid: true
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 {% include nav.html %}
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) 
 
 
 
@@ -20,6 +22,80 @@ mermaid: true
 {% endfor %}
  
 </div>
+
+
+
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
+
+# [Mary J Blige](https://www.youtube.com/watch?v=WER5Q1ZoYms&themeRefresh=1)* – Strength Of A Woman: `U + Me` [DiSCOGS](https://www.discogs.com/master/1172926-Mary-J-Blige-Strength-Of-A-Woman)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+
+<div class="section_2col ic">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-1' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
+
+# Front Left Hazcam – Two Year Movie
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/aEiAwMJvuC">https://t.co/aEiAwMJvuC</a> <a href="https://twitter.com/MeliszaMcfierce?ref_src=twsrc%5Etfw">@MeliszaMcfierce</a> i hope it was u, thanks for the subway giggles... look at this vid to understand that i can make <a href="https://twitter.com/donaldglover?ref_src=twsrc%5Etfw">@donaldglover</a> reveal <a href="https://twitter.com/JRCricketsOrig?ref_src=twsrc%5Etfw">@JRCricketsOrig</a> <a href="https://twitter.com/hashtag/ideatheft?src=hash&amp;ref_src=twsrc%5Etfw">#ideatheft</a>~~~ <a href="https://t.co/e2P205FGfu">https://t.co/e2P205FGfu</a> <a href="https://t.co/bGGIfdn3hX">pic.twitter.com/bGGIfdn3hX</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1928872292223955399?ref_src=twsrc%5Etfw">May 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Perseverance](https://mars.nasa.gov/mars2020/multimedia/raw-images/) is investigating [Jezero](https://www.uahirise.org/hipod/ESP_073068_1985) [Crater](https://www.reddit.com/r/StrangeEarth/comments/1itip0c/this_is_a_highly_detailed_view_of_one_of_the/)
+[NASA/JPL-Caltech](https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/)
+<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/8/48025_FRHTwoYearMovie.gif" >
+  <source src="https://assets.science.nasa.gov/content/dam/science/psd/mars/videos/movies/20230217frontlefthazcamtwoyearmovie/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />
+
+
+  Download the
+
+  or
+  <a href="https://assets.science.nasa.gov/content/dam/science/psd/mars/videos/movies/20230217frontlefthazcamtwoyearmovie/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" >
+webm</a>
+  video.
+</video>
+
+
+## Mars Land Surveying : Rocks on Mars 
+### PIA26481: NASA's Perseverance Observes 'Observation Rock'
+Original Caption Released with Image:
+This natural-color, high-resolution mosaic showing "Observation Rock" was taken by the Mastcam-Z instrument on NASA's Perseverance as the rover climbed the western wall of Jezero Crater. The location is near an area the Perseverance science team is calling "Curtis Ridge."
+
+The 14 frames used to generate the mosaic were acquired on Oct. 18, 2024, the 1,302nd Martian day, or sol, of Perseverance's mission. [NasaPhotoJournal](https://photojournal.jpl.nasa.gov/catalog/PIA26481) @nasa-jpl 
+[<img src="https://photojournal.jpl.nasa.gov/jpegMod/PIA26481_modest.jpg" alt="Rocks on mars" />](https://photojournal.jpl.nasa.gov/jpegMod/PIA26481_modest.jpg)
+
+
+<object class="tupperware ic" data="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg" type="image/jpeg" ></object>
+
+# [Mary J Blige](https://www.youtube.com/watch?v=WER5Q1ZoYms&themeRefresh=1)* – Strength Of A Woman: `U + Me` [DiSCOGS](https://www.discogs.com/master/1172926-Mary-J-Blige-Strength-Of-A-Woman)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+
+
+<a href="https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png"><img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png" style="width:180px;height:252px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> 
+
+[Fire and Ice (1983 film)](https://youtu.be/iqGl01na3a4?si=PYxA8SzkXaMKxhJc)
+[imdb](https://www.imdb.com/title/tt0085542/) [Gunsmith Cats Episode 1 1080p Subbed](https://youtu.be/rELcbhPheRM?si=mZ4NL3hLQiIRrSdL)
+By <a href="//en.wikipedia.org/wiki/Kenichi_Sonoda" title="Kenichi Sonoda">Kenichi Sonoda</a> - <a rel="nofollow" class="external free" href="https://www.amazon.co.jp/dp/B00A2MCLJY">https://www.amazon.co.jp/dp/B00A2MCLJY</a>, <a href="//en.wikipedia.org/wiki/File:Gunsmith_Cats_volume_1_cover.jpg" title="Fair use of copyrighted material in the context of Gunsmith Cats">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=69585498">Link</a>
+
+[Red Earth / War-Zard (Euro 961121)](https://www.retrogames.cc/arcade-games/red-earth-war-zard-euro-961121.html)
+Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a fantasy-themed 2D fighting game released by Capcom as an arcade game in 1996. It was the first game for Capcom's CP System III hardware,[2] the same hardware which Street Fighter III and its derivatives ran on.[3] After not being released on a home platform for 26 years, it was announced on February 20, 2022 that Red Earth would receive its first port as a part of the Capcom Fighting Collection on June 24, 2022 for PlayStation 4, Xbox One, Nintendo Switch, and PC.[4] 
+
+<a href="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg" style="width:180px;height:252px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> 
+
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Sewer_Shark_Coverart.jpg" alt="Sewer Shark - Wikipedia"/>
 
@@ -87,35 +163,6 @@ The Mars Reconnaissance Orbiter, or MRO, has studied the Red Planet's atmosphere
  ![Mars Reconnaissance Orbiter is on the Approach](https://ia801300.us.archive.org/34/items/SPD-MARS-mrogallerycruisecruise_approach_200602/cruise_approach_200602_br.jpg)
  @NASA's next martian orbiter has gotten one step closer to the red planet with the transition from cruise phase to approach phase! "Cruise is a deceptive term - we certainly weren't playing shuffleboard," joked project manager Jim Graf. "It was a very busy time for the team. [readmore](https://archive.org/details/SPD-MARS-mrogallerycruisecruise_approach_200602)
 [HOLETOANOTHERUNiVERSE](https://thakarashard.github.io/holetoanotheruniverse/) = [NEWSSTAND](https://github.com/ricothakarashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md)
-
-<div class="section_2col ic">
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-1' %}
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-</div>
-
-# Front Left Hazcam – Two Year Movie
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/aEiAwMJvuC">https://t.co/aEiAwMJvuC</a> <a href="https://twitter.com/MeliszaMcfierce?ref_src=twsrc%5Etfw">@MeliszaMcfierce</a> i hope it was u, thanks for the subway giggles... look at this vid to understand that i can make <a href="https://twitter.com/donaldglover?ref_src=twsrc%5Etfw">@donaldglover</a> reveal <a href="https://twitter.com/JRCricketsOrig?ref_src=twsrc%5Etfw">@JRCricketsOrig</a> <a href="https://twitter.com/hashtag/ideatheft?src=hash&amp;ref_src=twsrc%5Etfw">#ideatheft</a>~~~ <a href="https://t.co/e2P205FGfu">https://t.co/e2P205FGfu</a> <a href="https://t.co/bGGIfdn3hX">pic.twitter.com/bGGIfdn3hX</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1928872292223955399?ref_src=twsrc%5Etfw">May 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Perseverance](https://mars.nasa.gov/mars2020/multimedia/raw-images/) is investigating [Jezero](https://www.uahirise.org/hipod/ESP_073068_1985) [Crater](https://www.reddit.com/r/StrangeEarth/comments/1itip0c/this_is_a_highly_detailed_view_of_one_of_the/)
-[NASA/JPL-Caltech](https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/)
-<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/8/48025_FRHTwoYearMovie.gif" >
-  <source src="https://assets.science.nasa.gov/content/dam/science/psd/mars/videos/movies/20230217frontlefthazcamtwoyearmovie/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />
-
-
-  Download the
-
-  or
-  <a href="https://assets.science.nasa.gov/content/dam/science/psd/mars/videos/movies/20230217frontlefthazcamtwoyearmovie/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" >
-webm</a>
-  video.
-</video>
-
-<object class="tupperware ic" data="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg" type="image/jpeg" ></object>
 
 
 # Curious about For Loops
