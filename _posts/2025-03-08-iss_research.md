@@ -6,6 +6,18 @@ date:   2025-03-24 21:19:06 -0800
 tags: jupiter europa iss
 image: Europa_Clipper.png
 ---
+
+
+My painting carries with it the message of pain. - [Frida Kahlo](https://www.fridakahlo.org/)
+[Museo Frida Kahlo](https://www.museofridakahlo.org.mx/?lang=en) [Faces of Frida - artsandculture.google.com](https://artsandculture.google.com/project/frida-kahlo) [Frida Kahlo - frida-kahlo-foundation.org](https://frida-kahlo-foundation.org/)
+
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/freidaimpleScanStation20250622161418-1.png" alt="item image #43"/>
+
+
+
+
+
 @atfweb plz dont run up on me 🙏🏽 however as part of your investigation please consider the PhotoEssay i smashed together on [my workblog rashardmro/2025/04/22/Marsblogv2](https://thakarashard.github.io/rashardmro/2025/04/22/Marsblogv2.html) with the war map of the Jan6th Insurrection 
 [Trump: National Guard Will Be In LA Until There's No Danger: Full Q&A](https://www.youtube.com/watch?v=_xNVjPm14yU) [Every Cyber Attack Facing America](https://youtu.be/wnhCuYRYCdM) [
 Timeline of the January 6 United States Capitol attack](https://en.wikipedia.org/wiki/Timeline_of_the_January_6_United_States_Capitol_attack)
