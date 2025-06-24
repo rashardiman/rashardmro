@@ -1,11 +1,26 @@
 ---
-layout: default
+layout: post
 title:  NewsStand
 published: true
 tags: earth nsn "Near Space Network" gds mars
 image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This <a href="https://twitter.com/hashtag/EarthDay?src=hash&amp;ref_src=twsrc%5Etfw">#EarthDay</a>, we’re celebrating how <a href="https://twitter.com/NOAA?ref_src=twsrc%5Etfw">@NOAA</a>’s JPSS satellites monitor Earth’s atmosphere, oceans, and land, supporting weather forecasts. 🌎<br><br>The NOAA-20 satellite captured this view on April 21, 2025.<br><br>Watch this <a href="https://twitter.com/hashtag/EarthFromOrbit?src=hash&amp;ref_src=twsrc%5Etfw">#EarthFromOrbit</a> video for more: <a href="https://t.co/loB2Ml33FN">https://t.co/loB2Ml33FN</a> <a href="https://t.co/ujSY0IutU4">pic.twitter.com/ujSY0IutU4</a></p>&mdash; Joint Polar Satellite System (JPSS) (@JPSSProgram) <a href="https://twitter.com/JPSSProgram/status/1914713310794060254?ref_src=twsrc%5Etfw">April 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[NASA’s Europa Clipper Captures Mars in Infrared](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/)
+
+![NASA’s Europa Clipper Captures Mars in Infrared](https://www.nasa.gov/wp-content/uploads/2025/05/1-pia26562-e-themis-mars.png)
+This picture of Mars is a composite of several images captured by Europa Clipper’s thermal imager on March 1. Bright regions are relatively warm, with temperatures of about 32 degrees Fahrenheit (0 degrees Celsius). Darker areas are colder. The darkest region at the top is the northern polar cap and is about minus 190 F (minus 125 C).
+NASA/JPL-Caltech/ASU [READMORe](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/)
+
+<figure>
+  <figcaption>Nuff Man A Dead:Song by Super Cat ‧ 1992
+</figcaption>
+  <audio controls src="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"></audio>
+  <a href="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"> Download audio </a>
+</figure>
+
 
   [A Crewed Mission to Mars...](https://nssdc.gsfc.nasa.gov/planetary/mars/marsprof.html) [First to See the Farside](https://lroc.im-ldi.com/images/1390)
 ![image](https://github.com/user-attachments/assets/51caa06f-305b-4c23-9133-a3d028dddd62)
