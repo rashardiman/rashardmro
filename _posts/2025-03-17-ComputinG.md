@@ -5,7 +5,7 @@ published: true
 image: Aitken_supercomputer_big.jpg
 ---
 
-
+[Nintendo Power 1988 - 2004](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20001%20%28July-August%201988%29/page/n1/mode/2up)
 [BinderHub](https://binderhub.readthedocs.io/en/latest/) BinderHub is a kubernetes-based cloud service that allows users to share reproducible interactive computing environments from code repositories. It is the primary technology behind [https://mybinder.org/](https://mybinder.org/) [How-to Guides](https://repo2docker.readthedocs.io/en/latest/howto/index.html) [x11docker/gnome](https://hub.docker.com/r/x11docker/gnome)
 [You’ve discovered the about page of Michael Rose.](https://mademistakes.com/about/) + [MASTERinG_JEKYLL](https://mademistakes.com/mastering-jekyll/)
 # Accessing static files in Jekyll
