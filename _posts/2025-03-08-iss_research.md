@@ -4,7 +4,7 @@ title:  "iSS_ResearcH"
 published: true
 date:   2025-03-24 21:19:06 -0800
 tags: jupiter europa iss
-image: Europa_Clipper.png
+image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
 
 
