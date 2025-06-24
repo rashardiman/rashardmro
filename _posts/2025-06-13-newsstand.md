@@ -7,6 +7,11 @@ image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+[NASA’s Europa Clipper Captures Mars in Infrared](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/)
+
+![NASA’s Europa Clipper Captures Mars in Infrared](https://www.nasa.gov/wp-content/uploads/2025/05/1-pia26562-e-themis-mars.png)
+This picture of Mars is a composite of several images captured by Europa Clipper’s thermal imager on March 1. Bright regions are relatively warm, with temperatures of about 32 degrees Fahrenheit (0 degrees Celsius). Darker areas are colder. The darkest region at the top is the northern polar cap and is about minus 190 F (minus 125 C).
+NASA/JPL-Caltech/ASU [READMORe](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/)
 
 <figure>
   <figcaption>Nuff Man A Dead:Song by Super Cat ‧ 1992
