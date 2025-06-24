@@ -6,6 +6,10 @@ tags: earth nsn "Near Space Network" gds mars
 image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
+# Rubin Observatory
+Located on a mountaintop in [Chile](https://www.nasa.gov/news-release/nasa-welcomes-chile-as-newest-artemis-accords-signatory/) -[Rubin Observatory](https://rubinobservatory.org/)
+[Paranal Observatory  ESO](https://www.eso.org/public/teles-instr/paranal-observatory/) 
+[WATCH: First images from powerful new telescope released  @BBC News](https://youtu.be/7MdDB941Tp0) [The Dark Energy Survey](https://www.darkenergysurvey.org/the-des-project/instrument/the-camera/) records images using five filters, spanning 400 nm to 1080 nm. Each filter images the sky in a different color of light
 ## Launch Schedule
 [Axiom Mission 4 Launches to the International Space Station - plus.nasa.gov](https://plus.nasa.gov/scheduled-video/axiom-mission-4-launches-to-the-international-space-station/)
 ![image](https://github.com/user-attachments/assets/edbb1eff-46df-46d6-9301-559c5bf94010)
