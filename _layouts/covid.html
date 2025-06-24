@@ -29,28 +29,48 @@
         <ul></ul>
       </nav>
 
-      <img src="https://europa.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkSEkzWTNock5ESmplbTFwWjNoNk9XWmlZV0YwYm1GM1pYRmhjZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpYTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWtWVlVrOVFRVjlNVDBkUFgwaFBVa2xhVDA1VVFVeGZWMGhKVkVVdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRGVlZKUFVFRmZURTlIVDE5SVQxSkpXazlPVkVGTVgxZElTVlJGTG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRNkVYTmxjblpwWTJWZmJtRnRaVG9LYkc5allXdz0iLCJleHAiOm51bGwsInB1ciI6ImJsb2Jfa2V5In19--4a931e4dbac271c1f1f693977fbd2c3e59009d7d/EUROPA_LOGO_HORIZONTAL_WHITE.png" width="500"/>
+      <img src="https://www.foundationforpn.org/wp-content/uploads/2020/10/covid-19-4960254_1920.png" width="500"/>
       <div id="content" class="animate pop" markdown="1">
 
 
 
-        <div class="box">
 
-          {% for post in site.posts %}
-             
-            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-          
-             
-          {% endfor %}
-           
-          </div> 
+<h1>{{ page.title }}</h1>
+Written on {{ page.date | date: "%B %e, %Y" }}
 
 
 
 
+{% if site.hide_post_date != true %}
+  {% include post-date.html %}
+{% endif %}
+{% if page.image %}
+  <div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+  </div>
+  <p class="view">by {{ page.author | default: site.author }}</p>
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+  <small>{{ page.date | date: "%-d %B %Y" }}</small>
+{% endif %}
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+  </div>  
+  
+
+  {{ content }}
 
 
-        {{ content }}
+
 
  # GoodieMob : SoulFood 1996
   <iframe src="https://archive.org/embed/goodie-mob-soul-food" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>     
@@ -175,8 +195,8 @@ Hubei, China, the World Health Organization designated the outbreak a public hea
       <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/701160148&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/flomilli" title="Flo Milli" target="_blank" style="color: #cccccc; text-decoration: none;">Flo Milli</a> · <a href="https://soundcloud.com/flomilli/in-the-party" title="In The Party" target="_blank" style="color: #cccccc; text-decoration: none;">In The Party</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1772831295&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     <hr />
-<p>layout: default
-title: HoleToAnotherUniVersE</p>
+
+	      
 
 <div class="swatch">
     <div></div>
