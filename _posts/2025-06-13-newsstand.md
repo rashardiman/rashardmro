@@ -1,11 +1,20 @@
 ---
-layout: default
+layout: post
 title:  NewsStand
 published: true
 tags: earth nsn "Near Space Network" gds mars
 image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
+
+
+<figure>
+  <figcaption>Nuff Man A Dead:Song by Super Cat ‧ 1992
+</figcaption>
+  <audio controls src="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"></audio>
+  <a href="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"> Download audio </a>
+</figure>
+
 
   [A Crewed Mission to Mars...](https://nssdc.gsfc.nasa.gov/planetary/mars/marsprof.html) [First to See the Farside](https://lroc.im-ldi.com/images/1390)
 ![image](https://github.com/user-attachments/assets/51caa06f-305b-4c23-9133-a3d028dddd62)
