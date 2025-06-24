@@ -7,6 +7,7 @@ image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This <a href="https://twitter.com/hashtag/EarthDay?src=hash&amp;ref_src=twsrc%5Etfw">#EarthDay</a>, we’re celebrating how <a href="https://twitter.com/NOAA?ref_src=twsrc%5Etfw">@NOAA</a>’s JPSS satellites monitor Earth’s atmosphere, oceans, and land, supporting weather forecasts. 🌎<br><br>The NOAA-20 satellite captured this view on April 21, 2025.<br><br>Watch this <a href="https://twitter.com/hashtag/EarthFromOrbit?src=hash&amp;ref_src=twsrc%5Etfw">#EarthFromOrbit</a> video for more: <a href="https://t.co/loB2Ml33FN">https://t.co/loB2Ml33FN</a> <a href="https://t.co/ujSY0IutU4">pic.twitter.com/ujSY0IutU4</a></p>&mdash; Joint Polar Satellite System (JPSS) (@JPSSProgram) <a href="https://twitter.com/JPSSProgram/status/1914713310794060254?ref_src=twsrc%5Etfw">April 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 [NASA’s Europa Clipper Captures Mars in Infrared](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/)
 
 ![NASA’s Europa Clipper Captures Mars in Infrared](https://www.nasa.gov/wp-content/uploads/2025/05/1-pia26562-e-themis-mars.png)
