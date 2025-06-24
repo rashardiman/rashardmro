@@ -7,9 +7,18 @@ image: Coronavirus._SARS-CoV-2.png
 tags: covid
 ---
 
-
-
 # Covid BrainDumP
+
+### Severe acute respiratory syndrome coronavirus [Pub_Chem](https://pubchem.ncbi.nlm.nih.gov/patent/US-2006257852-A1)
+`US20060257852A1` [European Publication Server XML:EP 3 172 319 B1](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
+[CHIRON CORP (US)](https://www.linkedin.com/company/chiron-corporation) was an American multinational [biotechnology](https://en.wikipedia.org/wiki/Biotechnology) firm based in [Emeryville, California](https://www.ci.emeryville.ca.us/) that was acquired by [@Novartis International AG](https://www.novartis.com/) on April 20, .. [wiki](https://en.wikipedia.org/wiki/Chiron_Corporation) @cdcgov @nasa-jpl @whitehouse @newshour [EP3172319B1 European Patent Office](https://patents.google.com/patent/EP3172319B1/de) @cityoflosangeles @stateofcalifornia @ucla -[Rashard](https://rashardmro.github.io/) - + - [Trello](https://trello.com/b/CN1UytXe/housekeeping)
+
+![image](https://github.com/user-attachments/assets/dd326c48-338c-4059-8dfa-9f9264cbab3f)
+
+[US-20060257852-A1](https://ppubs.uspto.gov/pubwebapp/external.html?q=(US-20060257852-A1).did.&db=US-PGPUB) [GooglePatenTs](https://patents.google.com/patent/US20060257852A1)
+
+![image](https://github.com/user-attachments/assets/3edd76fe-7b40-4315-a6fa-8d5b62e0cefc)
+
 ### [Tixati is a New and Powerful P2P System](https://tixati.com/)
 @nasa-jpl [Tixati](https://tixati.com/linux) is a [bitorrent_client](https://www.bittorrent.org/beps/bep_0003.html) with a chat fuynction. I was at [Wholefoods](https://www.wholefoodsmarket.com/stores/avalon) on [Wifi](https://www.facebook.com/100004549987965/videos/1766755096819473/) working on [My @linkedin](https://www.linkedin.com/in/rashard-iman-kelly-a2b699354/) an someone offered me a torrent. I dont torrent much so, i was scared but accepted the file @nasa @deptofdefense, it was an archive with a bunch of [Wuhan_Era_Covid](https://pmc.ncbi.nlm.nih.gov/articles/PMC9874793/) [videos from china](https://www.npr.org/2024/12/31/nx-s1-5214781/whats-changed-in-wuhan-5-years-after-the-covid-19-outbreak). I have been being chased ever since, i cant blame that on @blackgirlscode : `so and so` @stateofcalifornia @cityoflosangeles. . . [rashard - @nasa-jpl EARTHDATA+MARS]()
 ![@NIHGOV ](https://pmc.ncbi.nlm.nih.gov/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)
