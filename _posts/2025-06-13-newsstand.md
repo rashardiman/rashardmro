@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Earth"
+title:  NewsStand
 published: true
 tags: earth nsn "Near Space Network" gds mars
 image: pia04304-mars.webp
