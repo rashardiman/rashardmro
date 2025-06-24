@@ -3,7 +3,7 @@ layout: post
 mermaid: true
 published: true
 title: RashardGDS
-image: rashardMRO.jpeg
+image: rashardkelly.jpeg
 tags: nasaoffice nasajpl helpdesk
 ---
 
