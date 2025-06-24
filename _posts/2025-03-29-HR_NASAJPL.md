@@ -4,9 +4,17 @@ title:  "Notes for @nasa-jpl HR"
 published: true
 date:   2024-11-18 22:51:06 -0800
 tags: earth nsn "Near Space Network" gds 
-image: PIA26080_modest.jpg
+image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
+
+
+
+[Celebrating Women in Science](https://www.jpl.nasa.gov/edu/news/celebrating-women-in-science/)
+
+![Women In Science @blackgirlscode @nasa-jpl](https://d2pn8kiwq2w21t.cloudfront.net/images/womeninscience.width-1024.jpg)
+
+Women working in science, technology, engineering and mathematics at NASA's Jet Propulsion Laboratory pose for a photo in mission control in honor of Women in Science Day. Credit: NASA/JPL-Caltech
 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/AskLosAngeles/comments/1ljh3vt/whats_your_la_hidden_gems/">What’s YOUR LA hidden gems?</a><br> by<a href="https://www.reddit.com/user/mariapuffs/">u/mariapuffs</a> in<a href="https://www.reddit.com/r/AskLosAngeles/">AskLosAngeles</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
