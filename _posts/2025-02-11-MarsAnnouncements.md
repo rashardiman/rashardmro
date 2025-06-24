@@ -1,8 +1,37 @@
 ---
 layout: post
-title: Mars_Announcements
+title: Mars_News
+image: Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
 ---
 
+
+# [Curiosity](https://en.wikipedia.org/wiki/Mars_Science_Laboratory) Views Twilight Clouds [PIA26519] (https://photojournal.jpl.nasa.gov/catalog/?IDNumber=PIA26519)
+[MSL]():[Curiosity](https://eyes.nasa.gov/curiosity/) used its left Mast Camera, or Mastcam, to capture these drifting noctilucent, or twilight, clouds on Jan. 17, 2025, the 4,426th Martian day, or sol, of the mission
+Feb. 11, 2025 [Read](https://www.jpl.nasa.gov/images/pia26519-curiosity-views-twilight-clouds/) [presskit - MSL](https://web.archive.org/web/20120805074403/http://solarsystem.nasa.gov/docs/MSL_Landing_20120724.pdf) [Aug. 6, 2012 - Video from rover looks down on Mars during landing](https://www.nbcnews.com/id/wbna48540619) [WATCH:MSL Sol 3 Update @nasa-jpl](https://www.youtube.com/watch?v=6f8HHQ2U2jg) [Article 14
+Mars Science Laboratory Telecommunications
+System Design Andre Makovsky Peter Ilott Jim Taylor @nasa @whitehouse](https://descanso.jpl.nasa.gov/DPSummary/Descanso14_MSL_Telecom.pdf) [DistanceFromEarth](https://www.wolframalpha.com/input/?i=mars+earth+distance+august+5+2012) 
+
+
+
+[`<video>`: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
+
+```html
+<video controls width="250">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4">MP4</a>
+  video.
+</video>
+```
+
+![image](https://github.com/user-attachments/assets/be142e11-27ee-4e57-9603-3205d0d40ed7)
+![MSL](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PIA19912-MarsCuriosityRover-MountSharp-20151002.jpg/1920px-PIA19912-MarsCuriosityRover-MountSharp-20151002.jpg)
+
+[MARS3](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049A)
+![image](https://github.com/user-attachments/assets/9504440f-804a-43ad-ad53-3b124b86785e)
 
 <style>
 
@@ -12,6 +41,8 @@ title: Mars_Announcements
  
   }
 </style>
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/generative/comments/lxed7e/text_encoded_as_binary_in_the_perseverance_rover/">Text Encoded as Binary in the Perseverance Rover Parachute ("One Giant Leap For Mankind 20071969") [p5]</a><br> by<a href="https://www.reddit.com/user/malayvasa/">u/malayvasa</a> in<a href="https://www.reddit.com/r/generative/">generative</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 [![4throck](https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png)]((https://raw.githubusercontent.com/ricothakarashardrashard/ricothakarashard.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png) "Redirect to homepage")
 
