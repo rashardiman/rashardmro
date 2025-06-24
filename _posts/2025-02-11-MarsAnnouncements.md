@@ -11,6 +11,15 @@ Feb. 11, 2025 [Read](https://www.jpl.nasa.gov/images/pia26519-curiosity-views-tw
 Mars Science Laboratory Telecommunications
 System Design Andre Makovsky Peter Ilott Jim Taylor @nasa @whitehouse](https://descanso.jpl.nasa.gov/DPSummary/Descanso14_MSL_Telecom.pdf) [DistanceFromEarth](https://www.wolframalpha.com/input/?i=mars+earth+distance+august+5+2012) 
 
+<video controls width="250">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4">MP4</a>
+  video.
+</video>
 
 
 [`<video>`: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
