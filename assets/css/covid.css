@@ -10,7 +10,7 @@ font-size: 1rem;
   font-family: "IBM Plex Sans", monospace;
 
   
-background: url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png) -237px 30px no-repeat fixed,
+background: url(https://upload.wikimedia.org/wikipedia/commons/8/82/SARS-CoV-2_without_background.png) -237px 30px no-repeat fixed,
 linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
   
  
@@ -81,7 +81,7 @@ a {
     font-kerning: normal;
     letter-spacing: .2rem;
     font: bold 10px/18px verdana, lucida, sans-serif;
-    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background: url(https://upload.wikimedia.org/wikipedia/commons/c/cf/SARS_virion.gif);
     background-size: 20% auto;
     background-attachment: fixed;
   }
@@ -170,7 +170,7 @@ h1, h2, h3 {
   background-size: 30px 30px;
     background-attachment: fixed;   
  background-image: 
-   url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png),
+   url(https://upload.wikimedia.org/wikipedia/commons/8/82/SARS-CoV-2_without_background.png),
   
 linear-gradient(45deg, #2BFF88 0%, #2BD2FF 52%, #FA8BFF 90%);
 background-size: cover;/*now this is known for the safari*/
