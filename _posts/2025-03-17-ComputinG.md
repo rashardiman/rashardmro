@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 published: true
-image: computing
+image: Aitken_supercomputer_big.jpg
 ---
 
 
