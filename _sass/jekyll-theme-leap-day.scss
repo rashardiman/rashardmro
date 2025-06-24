@@ -274,7 +274,7 @@ a small {
   }
 }
 
-.tupperware {
+.tupperware_col {
   display: flex;
   flex-flow: row wrap;
   padding: 1px;
@@ -282,10 +282,10 @@ a small {
   height: auto;
 }
 
-.tupperware img {
+.tupperware_col img {
 }
 
-.tupperware figcaption {
+.tupperware_col figcaption {
   background-color: #22222290;
   color: #fff;
   font: bold small sans-serif;
