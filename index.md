@@ -29,11 +29,11 @@ imma eat @blackgirlscode hi @nasa-jpl
 
 [M_R_O contact instructions](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/stories/)
 
-<object data="https://raw.githubusercontent.com/ricothakarashard/rashardmro/refs/heads/master/assets/pdf/contactingMROpt1SimpleScanStation20250625111945.pdf" type="application/pdf" width="500" height="400">
+<object data="https://archive.org/download/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/contactingMROpt1SimpleScanStation20250625111945.pdf" type="application/pdf" width="500" height="400"></object>
 
 [BioMAssDashBoard](https://earthdata.nasa.gov/maap-biomass/) [RUST](https://www.zrcworldwide.com/blog/what-causes-rust-in-metals)
 
- <object data="https://raw.githubusercontent.com/ricothakarashard/rashardmro/refs/heads/master/assets/pdf/notesNriverrustSimpleScanStation20250625114336.pdf" type="application/pdf" width="500" height="400">
+ <object data="https://archive.org/download/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/notesNriverrustSimpleScanStation20250625114336.pdf" type="application/pdf" width="500" height="400"></object>
  
 
 
