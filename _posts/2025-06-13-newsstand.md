@@ -6,6 +6,18 @@ tags: earth nsn "Near Space Network" gds mars
 image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
+
+# Kenya Protests LIVE: 16 Dead As Demonstration Turns Violent After Protesters Clash With Police
+@bbc @nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia @atfweb
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxIomWsO_vA?si=FLWX6pF_YSB9z-sK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@blackgirlscode ? @github check on those ppl who was interviewing [GitHub Africa: Intro to the CHAOSS Project](https://youtu.be/sMSJgeRuyrk) - [GitHub celebrates All in Africa program's first graduates](https://youtu.be/00JJPn0d4h4)
+![image](https://github.com/user-attachments/assets/7f5d3d11-a684-4bf1-a79d-e56f19b60426) [GitHub Africa Community Powered Open Source](https://youtu.be/bdVCL69UkWs) [GitHub Africa Maintainers](https://youtu.be/2DsAPt75OQc) @ajc @cia [GitHub Africa Virtual Meetup Event](https://youtu.be/VxcaQ9lB_kw) [@Meta Launches Open-Source AI Accelerator Across Sub-Saharan Africa](https://youtu.be/DwXnJ21K-RU) [@Ubuntu Summit 2024 | Open source software between Africa and the West](https://www.youtube.com/watch?v=mPP7amqTGFA) @canonical @fbicyber [Panel: Open source in Africa - GitHub Universe 2019](https://www.youtube.com/watch?v=CFvwIX-gjSI) [S2.Ep11 - Regional Impact of Open Source Community Africa (OSCA) | My Open Source Experience Podcast](https://www.youtube.com/watch?v=pcpMAhaqfuw) [Eazy-E Dissing Dr Dre and Snoop Dogg](https://youtu.be/TpNtFBAI0V8) + [Roland DJ-505](https://www.roland.com/global/products/dj-505/)
+
+![image](https://github.com/user-attachments/assets/83f10635-40d0-48aa-9c12-774072cbe875)
+
+
 # Rubin Observatory
 Located on a mountaintop in [Chile](https://www.nasa.gov/news-release/nasa-welcomes-chile-as-newest-artemis-accords-signatory/) -[Rubin Observatory](https://rubinobservatory.org/)
 [Paranal Observatory  ESO](https://www.eso.org/public/teles-instr/paranal-observatory/) 
