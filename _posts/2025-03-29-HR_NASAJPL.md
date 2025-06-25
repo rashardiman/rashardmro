@@ -9,12 +9,64 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+# PLANET MARS
+[NAsaGLNN](https://archive.org/details/C-1997-2554)
+![image](https://github.com/user-attachments/assets/c41fee6e-6d7e-48bf-b8dc-ef3f954bdb35)
+
+# Longtime Southern California NASA engineer, space mission manager dies at 92 [![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
+[wiki](https://en.wikipedia.org/wiki/John_R._Casani) : [Talk @whitehouse @nasa @nasa-jpl](https://en.wikipedia.org/wiki/Talk:John_R._Casani) : [NASAWATCH.cOm John Casani (Update)](https://nasawatch.com/personnel-news/john-casani/)
+John R. Casani, a longtime Jet Propulsion Laboratory engineer, project manager and researcher, died at the age of 92 last week. 
+
+Casani served a central role in many of NASA’s historic deep space missions, the space agency said in a statement.  
+
+Born in Philadelphia in 1932, Casani studied electrical engineering at the University of Pennsylvania and worked at an Air Force research lab before he moved to SoCal to work at the Jet Propulsion Laboratory (JPL), located on the Caltech campus in Pasadena, way back in 1956, two years before NASA itself was formed. 
+
+He went on to become an engineer on some of America’s earliest spacecraft after initially working on missiles. He worked on the design team for the Ranger and Mariner series of spacecraft and was a payload engineer on Pioneer 3 and 4 – NASA’s first two missions to the moon; he was tasked with the very important job of carrying each of the 20-inch probes in a suitcase from JPL to the launch site in Cape Canaveral, Florida, where he installed them in the rocket’s nose cone.
+
+By the time the mid 1960s rolled around, Casani had established himself as a “meticulous” worker and started working on the design team for the Mariner project. Shortly after, he helped lead NASA’s flagship mission to the outer planets and beyond: Voyager, which is still active today. 
+
+“He not only led the mission from clean room to space, he was first to envision attaching a message representing humanity to any alien civilization that might encounter humanity’s first interstellar emissaries,” NASA’s statement reads.
+
+Casani presented that idea to famed astronomer Carl Sagan, who ended up making the “Golden Record,” a 12-inch gold-plated copper disk containing sounds and images selected to portray the diversity of life and culture on earth, according to NASA.  
+
+Voyager 1 and 2 both launched in 1977, meaning that Casani – described as “an engineer’s engineer” — was quickly shuttled to the Galileo team, the first mission to orbit a gas giant planet. He led the project from inception to assembly while navigating several attempts by Congress to end the project.
+
+After leading Galileo for 11 years, Casani became a deputy assistant laboratory director for flight projects in 1988 before being promoted just over a year later to serve as project manager of Cassini, which was NASA’s flagship mission to orbit Saturn. He was then named as JPL’s first chief engineer in 1994, a role in which he served for five years before retiring, temporarily. 
+
+In retirement, Casani served on several committees and helped conduct investigations into the Mars Climate Orbiter and Mars Polar Lander failures. He also led the James Webb Space Telescope Independent Comprehensive Review Panel.
+
+By 2003, however, Casani was back at JPL serving as project manager for Project Prometheus, which was the first attempt at nuclear-powered systems for long-range missions. The project was canceled in 2005.  
+
+After the cancelation of Prometheus, Casani was appointed as the manager of the Institutional Special Projects Office at JPL, which was a position he held until his second retirement in 2012.
+
+“[John’s] work helped advance NASA spacecraft in areas including mechanical technology, system design and integration, software and deep space communication,” NASA’s statement reads. “No less demanding were the management challenges of these multifaceted missions, which led to innovations still in use today.” 
+
+Charles Elachi, the JPL director from 2001 through 2016, said Casani “reflected the true spirit of JPL.” 
+
+“He was bold, innovative, visionary and welcoming,” Elachi said in the NASA statement. “He was an undisputed leader with an upbeat, fun attitude and left an indelible mark on the laboratory and NASA. I am proud to have called him a friend.”
+
+Deputies find pair of burglars inside San Bernardino County home
+In addition to his impressive résumé, Casani received many awards throughout his long career, including NASA’s Exceptional Achievement Medal and the Air and Space Museum Trophy for Lifetime Achievement. He also received an honorary doctorate from the Sapienza University of Rome.
+
+The 92-year-old, who died Thursday, is survived by his wife of 39 years, Lynn, and their five sons. A cause of death was not revealed. 
+
+[10 Who Made a Difference in Space: John Casani, Chairman, JWST Independent Comprehensive Review Panel - SpaceNews.CoM](https://spacenews.com/10-who-made-difference-space-john-casani-chairman-jwst-independent-comprehensive-review/)
+[Lynn Casani Obituary](https://www.legacy.com/us/obituaries/latimes/name/lynn-casani-obituary?id=23717109)
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG) [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP)  [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+
+![image](https://github.com/user-attachments/assets/cb11018f-1ca8-4dfa-946b-e9408f45ae0c)
 
 [Celebrating Women in Science](https://www.jpl.nasa.gov/edu/news/celebrating-women-in-science/)
+[ADULT_ENTERTAiNMENT_LAW:LOSANGELES](https://archive.org/details/image-1-01) [PDF](https://archive.org/download/image_20250428_2325/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+@nasa @whitehouse @nasa-jpl @cityoflosangeles @stateofcalifornia @blackgirlscode hi @bbc
+
+<iframe src="https://archive.org/embed/image-1-01" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![Women In Science @blackgirlscode @nasa-jpl](https://d2pn8kiwq2w21t.cloudfront.net/images/womeninscience.width-1024.jpg)
 
-Women working in science, technology, engineering and mathematics at NASA's Jet Propulsion Laboratory pose for a photo in mission control in honor of Women in Science Day. Credit: NASA/JPL-Caltech
+Women working in science, technology, engineering and mathematics at NASA's Jet Propulsion Laboratory pose for a photo in mission control in honor of Women in Science Day. Credit: [NASA](https://archive.org/details/nasa-documentaries)/[JPL](https://ktla.com/news/local-news/longtime-southern-california-nasa-engineer-space-mission-manager-dies-at-92/)-Caltech - [Celebrating Women in Science](https://www.jpl.nasa.gov/edu/news/celebrating-women-in-science/)
 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/AskLosAngeles/comments/1ljh3vt/whats_your_la_hidden_gems/">What’s YOUR LA hidden gems?</a><br> by<a href="https://www.reddit.com/user/mariapuffs/">u/mariapuffs</a> in<a href="https://www.reddit.com/r/AskLosAngeles/">AskLosAngeles</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
