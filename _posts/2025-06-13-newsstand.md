@@ -7,6 +7,42 @@ image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+# Contacting M_R_O & LA_Aqueduct Notes
+imma eat @blackgirlscode hi @nasa-jpl
+[![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+[M_R_O contact instructions](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/stories/)
+
+<object data="https://archive.org/download/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/contactingMROpt1SimpleScanStation20250625111945.pdf" type="application/pdf" width="500" height="400"></object>
+
+[BioMAssDashBoard](https://earthdata.nasa.gov/maap-biomass/) [RUST](https://www.zrcworldwide.com/blog/what-causes-rust-in-metals)
+
+ <object data="https://archive.org/download/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/notesNriverrustSimpleScanStation20250625114336.pdf" type="application/pdf" width="500" height="400"></object>
+ 
+
+
+<figure>
+  <figcaption>Nuff Man A Dead:Song by Super Cat ‧ 1992
+</figcaption>
+  <audio controls src="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"></audio>
+  <a href="https://dn721609.ca.archive.org/0/items/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3"> Download audio </a>
+</figure>
+
+
+<figure>
+  <figcaption markdown="1">
+	  
+[Astronomy](https://www.youtube.com/watch?v=EuJaStSL0xM&themeRefresh=1):[8th](https://youtu.be/eeTnog5RRQo?si=QkWV9rOIjwyEh7PF) [Light](https://www.reddit.com/r/90sHipHop/comments/1b32u3r/black_star_astronomy_8th_light/):[BLACKSTAR](https://www.youtube.com/watch?v=aFUPxtpZiwA) ‧ 1992 @blackgirlscode the book store they used to run in brooklyn was like the one in [Watts](https://malikbooks.com/), I cant remember the name, but erika directed me [there](https://laist.com/news/how-to-la/these-literary-spaces-offer-more-than-just-books-they-create-safe-space-and-community), and he warned me about life in [@stateofcalifornia - Top 10 Best Black Owned Bookstore Near Los Angeles, California](https://www.yelp.com/search?find_desc=Black+Owned+Bookstore&find_loc=Los+Angeles%2C+CA)
+
+</figcaption>
+
+  <audio controls src="https://archive.org/download/black-star-the-album/Album/02-Astronomy%20%288th%20Light%29.mp3"></audio>
+  <a href="https://archive.org/download/black-star-the-album/Album/02-Astronomy%20%288th%20Light%29.mp3"> Download audio </a>
+</figure>
+
+
 # Kenya Protests LIVE: 16 Dead As Demonstration Turns Violent After Protesters Clash With Police
 @bbc @nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia @atfweb
 
