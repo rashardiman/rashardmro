@@ -5,6 +5,11 @@ published: true
 title: About Rashard
 image: rashardMRO.jpeg
 ---
+@nasa-jpl @stateofcalifornia @cityoflosangeles [RepKarenBass](https://archive.org/details/image-1-01)
+
+<object data="https://ia601200.us.archive.org/27/items/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/techstack_postcovidSimpleScanStation20250625110815.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://ia601200.us.archive.org/27/items/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/techstack_postcovidSimpleScanStation20250625110815.pdf">download the PDF file.</a></p></object>
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1gkn90ExKRNAOlhDs4RoW0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 {% include social.md %}
