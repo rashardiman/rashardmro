@@ -8,6 +8,21 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+[Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?list=RDU9ZLAgyn2-Q) coral you were a pleasure for me [Single Parent ](https://youtu.be/Ogf7D1QscWk?si=MyURQiqsYuX20XAo) period
+
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-newsstandscan625' %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 # Contacting M_R_O & LA_Aqueduct Notes
 imma eat @blackgirlscode hi @nasa-jpl
