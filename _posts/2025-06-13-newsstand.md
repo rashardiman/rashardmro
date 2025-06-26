@@ -28,12 +28,15 @@ author: "RashardKelly @nasa-jpl"
 
 # Az.DataLakeStore 1.4.0
 @nasa-jpl Earthdata @spokeo 
+[Az.DataLakeStore 1.4.0](https://www.powershellgallery.com/packages/Az.DataLakeStore/1.4.0)
+Microsoft Azure PowerShell - Azure Data Lake Store cmdlets in Windows PowerShell and PowerShell Core.
+
+For more information on Data Lake Store, please visit the following: [What is Azure Data Lake Storage Gen1?](https://learn.microsoft.com/en-us/previous-versions/azure/data-lake-store/data-lake-store-overview)
 [@Spokeo https://www.spokeo.com/careers/engineering](https://www.spokeo.com/careers/engineering) i dont know what our windows population is like @nasa-jpl but im sure [The People of SEDAC](https://www.earthdata.nasa.gov/centers/sedac-daac/people) would benefit from that package. I dont know what you guys are into but we are in the same field at that lelev! check us out [SEDAC Data Access and Tools](https://www.earthdata.nasa.gov/centers/sedac-daac/data-access-tools), you might have access but if i can get my own computer id learn it - [rashard](https://rashardmro.github.io/2025/02/11/AboutRashard.html)
-[What is Azure Data Lake Storage Gen1?](https://learn.microsoft.com/en-us/previous-versions/azure/data-lake-store/data-lake-store-overview)
+
 
 ![image](https://github.com/user-attachments/assets/92b5e017-e1a1-4867-a1ca-05c7392c6be8)
 
-[Az.DataLakeStore 1.4.0](https://www.powershellgallery.com/packages/Az.DataLakeStore/1.4.0)
 
 [@microsoft Windows11_TELNET](https://www.google.com/search?q=windows+11+telnet&rlz=1C1GCEJ_enUS1026US1168&oq=windows+11+telnet&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDINCAkQABiGAxiABBiKBdIBCTUzNzNqMGoxNagCCLACAfEFFjBo62QU1yjxBRYwaOtkFNco&sourceid=chrome&ie=UTF-8) 
 
