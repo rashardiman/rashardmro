@@ -12,7 +12,26 @@ author: "RashardKelly @nasa-jpl"
 Please make an [embed](https://codepen.io/thakarashard/pen/EajrepQ) like [ABC7](https://abc7.com/watch/live/) [HTML5: Edition for Web Authors @w3c : embeddedContent](https://www.w3.org/TR/2011/WD-html5-author-20110809/content-models.html#embedded-content)
 [The External Object element - HTML - MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)
 its copy paste code for the end user
-@cityoflosangeles we like to stream channels in our [Cafateria @nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) : [`<embed>`: The Embed External Content element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) [How to Embed HTML Code showit.com](https://learn.showit.com/en/articles/615194-how-to-embed-html-code) [HTML_SPEC 3.2.5.3 Transparent content models](https://html.spec.whatwg.org/#transparent-content-models) @blackgirlscode [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL)
+@cityoflosangeles we like to stream channels in our [Cafateria @nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) : [`<embed>`: The Embed External Content element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) [How to Embed HTML Code showit.com](https://learn.showit.com/en/articles/615194-how-to-embed-html-code) [HTML_SPEC 3.2.5.3 Transparent content models](https://html.spec.whatwg.org/#transparent-content-models) @blackgirlscode [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [HTML `<address>` Tag]()
+
+<style>
+address {
+  display: block;
+  font-style: italic;
+}
+</style>
+
+<address markdown="1">
+	
+# <a href="mailto:ita.channel35@lacity.org">Send email 2 LA CityView 35 Media Group</a>
+200 North Spring Street, 10th floor, Room 1000
+Los Angeles, CA 90012
+Email: ita.channel35@lacity.org
+Phone: 213-473-9798
+`<a href="mailto:ita.channel35@lacity.org">Send email 2 LA CityView 35 Media Group</a>`
+</address>
+![image](https://github.com/user-attachments/assets/8ebfe3dc-65c0-43be-be04-8cc70fd587cf)
+
 
 ![image](https://github.com/user-attachments/assets/f7825c5b-43bc-407c-92d8-545b1ff1c7db)
 
