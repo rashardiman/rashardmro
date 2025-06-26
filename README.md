@@ -6,9 +6,16 @@
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 
 
+
+
+
 # [doxxed](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) @nasa-jpl ?@nasa @whitehouse @cityoflosangeles please understand im finding out who my responsible relatives are and i work with dangerous equipment and hold secrets that are not for ppl that might be annoying to you, but please forgive yourself because kidnapping confuses everyone @stateofcalifonia [gavin newsom](https://yandex.com/search/?text=gavin+newsome&lr=20765&search_source=yacom_desktop_common) [rep karen bass](https://yandex.com/search/?text=rep+karen+bass&lr=20765) 
 ![image](https://github.com/user-attachments/assets/816203b5-c6f0-4046-b3f8-a75ec39a6614)
 ![image](https://github.com/user-attachments/assets/3528ab5b-0716-48b1-ae98-d61931d21a10)
+
+
+@nasa-jpl working mars on @x 
+<iframe src="https://archive.org/embed/screen-recording-2024-07-22-11.35.43-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [![Twitter Follow](https://img.shields.io/badge/Social-moonlover404__-blue?style=social&logo=X)](https://twitter.com/moonlover404)
 
