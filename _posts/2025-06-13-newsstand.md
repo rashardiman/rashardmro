@@ -8,7 +8,8 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 # Collection of publicly available IPTV channels from all over the world
-[![Twitter Follow](https://img.shields.io/badge/Social-LACityView35__-blue?style=social&logo=X)](https://twitter.com/LACityView35) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)
+[![Twitter Follow](https://img.shields.io/badge/Social-LACityView35__-blue?style=social&logo=X)](https://twitter.com/LACityView35) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass) [Add: ABC7 Eyewitness News #24597
+ https://github.com/iptv-org/iptv/issues/24597](https://github.com/iptv-org/iptv/issues/24597) [![Twitter Follow](https://img.shields.io/badge/Social-@abc7__-blue?style=social&logo=X)](https://twitter.com/@abc7)
 
 [iptv-org/iptv https://iptv-org.github.io/](https://iptv-org.github.io/) [github](https://github.com/iptv-org/iptv)
 ![image](https://github.com/user-attachments/assets/6d735536-fc5d-445e-9fa6-a94f1c446aa5)
