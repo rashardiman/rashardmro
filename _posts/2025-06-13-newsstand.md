@@ -7,10 +7,28 @@ image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+# LA CityView
+[![Twitter Follow](https://img.shields.io/badge/Social-LACityView35__-blue?style=social&logo=X)](https://twitter.com/LACityView35) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@abc7__-blue?style=social&logo=X)](https://twitter.com/@abc7)
+Please make an [embed](https://codepen.io/thakarashard/pen/EajrepQ) like [ABC7](https://abc7.com/watch/live/) [HTML5: Edition for Web Authors @w3c : embeddedContent](https://www.w3.org/TR/2011/WD-html5-author-20110809/content-models.html#embedded-content)
+[The External Object element - HTML - MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)
+its copy paste code for the end user
+@cityoflosangeles we like to stream channels in our [Cafateria @nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) : [`<embed>`: The Embed External Content element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) [How to Embed HTML Code showit.com](https://learn.showit.com/en/articles/615194-how-to-embed-html-code) [HTML_SPEC 3.2.5.3 Transparent content models](https://html.spec.whatwg.org/#transparent-content-models) @blackgirlscode [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL)
+
+![image](https://github.com/user-attachments/assets/f7825c5b-43bc-407c-92d8-545b1ff1c7db)
+
+```html
+<iframe width="640" height="360" src="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></iframe>
+```
+<object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
+
+![image](https://github.com/user-attachments/assets/09e73f94-98f9-4016-ad23-c7c944b73d2b)
+
+![image](https://github.com/user-attachments/assets/8f29f1df-012c-40d6-b186-f5ae3837c7c2)
+
 
 [Another bill again-Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?list=RDU9ZLAgyn2-Q) coral you were a pleasure for me [Single Parent ](https://youtu.be/Ogf7D1QscWk?si=MyURQiqsYuX20XAo) period
 
-
+[`<!DOCTYPE html>`](https://www.w3schools.com/tags/tag_doctype.ASP) 
 
 <div class="tupperware">
     
