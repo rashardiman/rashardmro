@@ -220,35 +220,39 @@ main::before {
   text-align: center;
 }
 
+
 .tupperware > * {
   border: 1px solid #c9ff23;
   border-radius: 1px;
   padding: 10px;
   flex-basis: 200px;
-  flex-shrink: 3;
-
-  flex-grow: 1;
+  flex-shrink:3;
+  
+  flex-grow:1;
   overflow: hidden;
   width: fit-content;
   block-size: max-content;
   height: fit-content;
   align-items: flex-start;
   transition: all 300ms ease-in-out;
-
+  
   &:hover {
     flex-grow: 9.3;
+    
   }
 }
 
+
 .tupperware {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row wrap; 
   padding: 1px;
   gap: 1px;
   height: auto;
 }
 
 .tupperware img {
+
 }
 
 .tupperware figcaption {
@@ -258,4 +262,1316 @@ main::before {
   padding: 3px;
   text-align: center;
 }
+
+
+
+.logo {
+  float: left;
+  background-color: black;
+  display: block;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+li {
+  display: inline;
+  position: relative;
+  color: white;
+}
+
+ul ul {
+  position: absolute;
+  display: none;
+}
+
+li:hover ul {
+  display: block;
+}
+
+.logo {
+  float: left;
+  background-color: black;
+  display: block;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+li {
+  display: inline;
+  position: relative;
+  color: white;
+}
+
+ul ul {
+  position: absolute;
+  display: none;
+}
+
+li:hover ul {
+  display: block;
+}
+
+#navcontainer {
+  display:block;
+  padding: 0;
+  top: 0;
+width: 55vw;
+  height: 20px;
+  display: flex;
+  background-color: black;
+  position: fixed;
+  color: white;
+  top: 0;
+}
+
+#navcontainer ul {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+#navcontainer ul li {
+  display: block;
+
+  float: right;
+  text-align: center;
+  padding: 0px;
+  margin: 0;
+}
+
+#navcontainer ul li a {
+  width: 100px;
+  height: max-content;
+  background: #262626;
+  border-left: 1px dashed #f5d7b4;
+  border-bottom: 1px solid #262626;
+  border-right: 1px solid #262626;
+  padding: 0;
+  margin: 0 0 0px 0;
+  color: #a6a6a6;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+#navcontainer ul li a:hover {
+  color: #f2f2f2;
+  background: #262626;
+  border-top: 1px solid magenta;
+}
+
+#navcontainer a:active {
+  background: #262626;
+  color: #fff;
+}
+
+#navcontainer li#active a {
+  background: #262626;
+  border-right: 4px solid #2e97f2;
+  color: #fff;
+}
+.css3badge {
+  display: inline;
+  float: right;
+  flex-wrap: nowrap;
+}
+
+
+h1,
+h2,
+h3 {
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+  font-weight: 900;
+  margin: 5px;
+  padding: 5px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+h2 {
+  word-spacing: -.2ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
+  background: transparent
+   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+  font-size: 30pt;
+  color: white;
+  font-family: Cluster;
+  word-break: break-all; 
+  width: 100%;
+}
+
+.mermaid svg { 
+  display: block;  
+  margin: 0; 
+  padding: 0; 
+  width: 100%;
+} 
+
+
+img {
+    display: block;
+    border-radius: 0px 0px 0px 0px;
+    max-width: 100%;
+    max-height: auto;
+    transition: all 0.5s linear;
+  }
+  
+img:hover {
+    transform: scale(1.05);
+  }
+  
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 10px #ffffff50;
+}  
+/*img {  max-height: 100%;
+  max-width: 100%;
+display:block;} */
+
+img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
+
+img[alt^="L"] {
+  width: 100%;
+  border-top:solid 10px #f4bf75;
+  
+  }
+
+img[alt*="USGS"] {
+  width: 100%;
+  border-bottom:solid 10px #c9ff23;
+  
+  }
+img[src*="nasa.gov"] {
+width: 100%;
+border-bottom:solid 5px #c9ff23;
+
+}
+img[alt="kk"] {
+  width: 100%;
+  
+}
+img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}
+img[alt="whiteslavery40"] {
+  max-width: 40%;
+  transform: rotate(45deg);
+}
+
+
+a,
+a:hover,
+a:visited a:hover {
+  color: #c9ff23;
+}
+
+a {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+video {
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+    background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 80.4px 80.4px;
+  
+border-radius:12px;
+  background-attachment: fixed;
+  transition: 4s cubic-bezier(.25,.1,.2,3);
+}
+
+video:hover {
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+  background: rgb(217,4,121);
+  background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 80.4px 80.4px;
+  background-attachment: fixed;
+
+}
+
+
+.twoPanelSpread {
+  border-radius:12px;
+  background-color: #00db46; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #e66250, #ff80cc);
+}
+
+.row {
+  border-radius:12px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+
+.leftColumn {
+  /* background-color: #2470FF; */
+  width: 100%;
+}
+
+.leftColumn img {
+  
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+  
+}
+
+.rightColumn {
+  /* background-color: #c9ff23; */
+}
+.rightColumn img { 
+ 
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+
+
+
+/* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
+
+.flex-container {
+  align-items: stretch;
+/* flex-flow: row nowrap; */
+flex-direction: row;
+flex-wrap: nowrap;
+  padding: 0px;
+justify-content: center;
+align-content: stretch;
+height: 100%;
+display: grid;
+grid-template-columns: auto auto auto;
+}
+
+.flex-container > div {
+border: 1px solid #c9ff23;
+  border-radius:12px;
+}
+
+.flex-container > img {
+object-fit: contain;
+max-width: 100%;
+border: 1px solid #c9ff23;
+  border-radius:12px
+
+}
+
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+  
+
+
+@keyframes createbox {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+  
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+        opacity: 0;
+    display: none;
+  }
+
+
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+    opacity: 1;
+    display: block;
+  }
+}
+
+
+
+   
+    .flex3BorderedPaddedROW {
+  
+      display: flex;
+       align-items: stretch; 
+      /* flex-flow: row nowrap; */ 
+      flex-direction: row; 
+      flex-wrap: nowrap; 
+      justify-content: center;
+      align-content: stretch;
+      height: 100%;
+      padding: 15px;
+      gap: 5px;
+      
+          width:100%;
+      height:100%;
+      object-fit: cover;
+      overflow: hidden;
+  
+    }
+  
+    .flex3BorderedPaddedROW > div{
+     
+      border: 1px solid #c9ff23;
+      border-radius: 0px;
+      padding: 8px;
+    }
+  
+  
+    .flex3BorderedPaddedROW > img{
+     
+      border: 3px dotted #c9ff23;
+      border-radius: 0px;
+      padding: 8px;
+    }
+  
+  
+figure {
+    transition: all 0.5s linear;
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 220px;
+    margin: auto;
+    background: linear-gradient(
+      45deg,
+      #262626 25%,
+      #595959 0,
+      #595959 50%,
+      #262626 0,
+      #262626 75%,
+      #595959 0
+    );
+    background-size: 80.4px 80.4px;
+    background-attachment: fixed;
+    border-radius: 0px;
+  }
+  
+  figure:hover,
+  figure:focus,
+  figure:active {
+    background: linear-gradient(
+      45deg,
+      #db362d 25%,
+      #e8f5fd 0,
+      #e8f5fd 50%,
+      #db362d 0,
+      #db362d 75%,
+      #e8f5fd 0
+    );
+    background-size: 480.4px 480.4px;
+    background-attachment: fixed;
+    border-radius: 0px;
+    transform: scale(1.05);
+  }
+
+  
+
+  figcaption {
+    background-color: #222;
+    color: #fff;
+    padding: 3px;
+    text-align: center;
+    transition: all 0.5s linear;
+  }
+  
+  figcaption:hover {
+    transform: scale(1.05);
+  }
+  audio {
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+  }
+  
+  #playlist {
+    display: flex;
+    flex-flow: row wrap;
+    flex-direction: row;
+  }
+  
+  .track figure figcaption {
+    margin: 1px;
+    overflow: hidden;
+    flex: 1 1 200px;
+    border-radius: 0.3em;
+    transition: all 0.5s linear;
+    box-shadow: 0 0 0 1px hsla(0, 9%, 1%, 0.3) outset 0 0.5em 1em
+      rgba(0, 0, 0, 0.1);
+    text-shadow: 0 1px 1px hsla(0, 0%, 100%, 0.3);
+  }
+  
+  .track:hover,
+  .track:focus,
+  .track:active {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    transform: scale(1.09);
+  }
+  
+  .track {
+  }
+  
+  .track > img {
+    width: 100%;
+  
+    transition: all 0.5s linear;
+  }
+  
+  audio {
+    max-width: 100%;
+    transition: all 0.5s linear;
+  }
+  
+  audio:hover,
+  audio:focus,
+  audio:active {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+  
+      
+  
+.gullies {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+    width: 100%;
+  height: 1em;
+
+}
+.gullies div:nth-child(1) {
+  background: #3029f2;
+    animation: .2s ease-out 0s 1 slideInFromLeft;
+ 
+
+}
+.gullies div:nth-child(2) {
+  background: #446ff2;
+  animation: .2s ease-out 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(3) {
+  background: #3098f2;
+  animation: .8s ease-in 0s 1 slideInFromLeft;
+  
+}
+.gullies div:nth-child(4) {
+  background: #0dd9c4;
+  animation: .9s ease-in 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(5) {
+  background: #3df28b;
+    
+  animation: .8s ease-in 0s 1 slideInFromLeft;  
+
+}
+
+.gullies div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+
+
+}
+
+.oncall {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 1em;
+}
+.oncall div:nth-child(1) {
+  background: #f2a922;
+}
+.oncall div:nth-child(2) {
+  background: #f28b0c;
+    animation: 1s ease-in 1s 1 slideInFromLeft;
+}
+.oncall div:nth-child(3) {
+  background: #f27405;
+}
+.oncall div:nth-child(4) {
+  background: #732e07;
+
+}
+.oncall div:nth-child(5) {
+  background: #bf3706;
+}
+
+.oncall div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+
+}
+
+
+
+@keyframes slideInFromRight {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes blur {
+    0% {
+        filter: blur(1.5rem);
+    }
+    100% {
+        filter: blur(0rem);
+    }
+}
+
+@keyframes flip {
+    0% {
+        filter: blur(1.5rem);
+      transform: rotateZ(90deg);
+    }
+    100% {
+        filter: blur(0rem);
+      transform: rotateZ(0deg);
+    }
+}
+@keyframes saturate {
+    0% {
+
+      filter: saturate(7);
+    }
+    100% {
+
+      filter: saturate(3);
+    }
+}
+
+@keyframes scale {
+    0% {
+
+      transform: scale( 2, 2);
+    }
+    100% {
+
+      transform: scale(4, 1);
+
+    }
+}
+
+@keyframes rotate {
+    0% {
+
+      transform: rotate(300.142rad);
+    }
+    100% {
+
+      transform: rotate(0rad);
+
+    }
+}
+
+
+  .featured-post {
+    height: 400px;
+    margin: 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .featured-post h2 {
+    bottom: 0;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+  }
+  .featured-post h2 span {
+    display: inline-block;
+    color: white;
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+  }
+  .featured-post span a {
+    color: white;
+  }
+  .featured-post h1 {
+    margin: 10px;
+  }
+  .post-content {
+    width: 600px;
+    display: block;
+    margin: 10px auto 10px;
+  }
+  .post-date {
+    display: block;
+    margin-bottom: 1rem;
+    color: #9a9a9a;
+    font-size:0.8rem;
+  }
+  .featured-image img {
+    align: middle;
+    margin: 5px auto 25px;
+    display: block;
+    max-width: 600px;
+  }
+  .featured-post {
+    height: 400px;
+    margin: 5px 10px 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .featured-post h2 {
+    bottom: 0;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+  }
+  .featured-post h2 span {
+    display: inline-block;
+    color: white;
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+  }
+  .featured-post span a {
+    color: white;
+  }
+  .featured-post h1 {
+    margin: 10px;
+  }
+
+nav {
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left:50%;
+  margin-left:-580px;
+  text-align: right;
+
+  ul {
+    list-style: none;
+    list-style-image:none;
+    font-size: 14px;
+    line-height:24px;
+
+    li {
+      padding: 5px 0px;
+      line-height: 16px;
+      // padding-right:17px;
+      // position:relative;
+      // right:-12px;
+
+      &.tag-h1 {
+        font-size: 1em;
+        text-decoration:none;
+        font-weight:600;
+
+        a:hover {
+          font-size: 120%; 
+          color: #63c0f5;
+          text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+          
+                 
+        }
+        a {
+          font-weight: bold;
+          color: white;
+          transition: all .2s ease-out;
+        }
+
+        + .tag-h2 {
+
+        }
+      }
+
+      &.tag-h2 {
+
+        + .tag-h1 {
+          margin-top:10px;
+        }
+      }
+    }
+
+
+
+    // .active {
+    //   border-right:solid 4px #39C;
+    //   padding-right:13px;
+    // }
+  }
+}
+
+
+
+
+
+footer {
+  width:180px;
+  position: fixed;
+  left:50%;
+  margin-left:-530px;
+  bottom:20px;
+  text-align: right;
+  line-height: 16px;
+}
+
+@media print, screen and (max-width: 1060px) {
+
+  div.wrapper {
+    width:100%;
+    margin:0;
+  }
+
+  nav{
+    width: 230px;
+    position: fixed;
+    top: 220px;
+    left:50%;
+    margin-left:-580px;
+    text-align: right;
+  }
+
+  header, section, footer {
+    float:none;
+
+    h1 {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
+
+  #banner {
+    width: 100%;
+
+    .downloads {
+        margin-right: 60px;
+      }
+
+    .fork {
+    }
+
+    #logo {
+      margin-right: 15px;
+    }
+  }
+
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin: 190px auto 20px;
+    max-width: 600px;
+  }
+
+  footer{
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+    }
+}
+
+@media print, screen and (max-width: 1000px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0px 0px;
+    margin: 0;
+
+    h1 {
+      font-size: 32px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+
+    p { display: none;}
+  }
+
+  #banner {
+    top: 80px;
+
+    .fork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
+  }
+
+  section {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: auto;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+}
+
+@media print, screen and (max-width: 1024px) {
+  body {
+  }
+
+  header{
+    position: relative;
+    padding: 0px 0px;
+    min-height: 0px;
+
+    h1 {
+      font-size: 24px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
+  section {
+    margin-top: 0px;
+  }
+
+  #banner { display: none;}
+  header ul {
+    display:none;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
+
+@media print, screen and (max-height: 680px) {
+
+  footer {
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+  }
+}
+
+@media print, screen and (max-height: 480px) {
+  nav {
+    display: none;
+  }
+
+  footer {
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+  }
+}
+
+
+
+
+
+.gallery-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 70vh;
+}
+
+.item {
+  flex: 1;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  transition: flex 0.8s ease;
+  
+  &:hover{
+    flex: 7;
+  }
+}
+
+.item-1 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04200/opgs/edr/ncam/NLB_770345493EDR_F1072484NCAM00256M_.JPG');
+}
+
+.item-2 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202MR1059130272102870C00_DXXX.jpg');
+}
+
+.item-3 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04250/opgs/edr/ncam/NRB_774801663EDR_F1080222NCAM00200M_.JPG');
+}
+
+.item-4 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202ML1059130291702010C00_DXXX.jpg');
+}
+
+.item-5 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04251/opgs/edr/ncam/NLB_774875074EDR_F1080438NCAM00274M_.JPG');
+}
+
+
+
+video {
+  height: auto !important;
+  width: 100% !important;
+ /* margin-left: 1em;
+  margin-right: 1em;
+  border-radius: .3em; */
+  display: block;
+  background: repeating-linear-gradient(
+			to left,
+			transparent,
+			transparent 54px,
+			black 55px,
+			black 55px
+		),
+		repeating-linear-gradient(
+			to bottom,
+			transparent,
+			transparent 54px,
+			grey 55px,
+			grey 55px
+		),
+		linear-gradient(45deg, grey, black);
+	
+	background-attachment:fixed;
+  transition: 3s cubic-bezier(0.1, 0.2, 0.3, 0.4);
+  /*  transition: 4s cubic-bezier(.25,.1,.2,3); */
+}
+
+embed {
+  
+  width: 100%;
+min-height: max-content;
+}
+
+iframe {
+  margin:0px;
+  width: 100%;
+}
+
+
+
+.twoPanelSpread {
+  margin: 0px;
+  padding: 0px;
+  background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp)
+    center repeat;
+}
+
+.row {
+  border-radius: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.leftColumn {
+  /* background-color: #2470FF; */
+  width: 100%;
+}
+
+.leftColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.rightColumn {
+  /* background-color: #c9ff23; */
+}
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+
+
+
+.top-container {
+
+  padding: 0px;
+  align-content: center;
+ 	max-width: 900px; 
+	padding: 0px;
+	margin-right: auto;
+	margin-left: auto; 	
+	/* opera does not like 'margin:20px auto' */
+	/* background: #666; */
+  width: 50%; /* ie5win fudge begins */
+	text-align:left; 
+}
+
+/* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
+
+/* FLEX_BOX_FOR_3_IMAGES */
+.greenlineflex-container {
+
+  display: flex;
+   align-items: stretch; 
+   flex-flow: row wrap;  
+  flex-direction: row; 
+  justify-content: center;
+  align-content: stretch;
+  height: auto;
+width:100%;
+  gap: 5px;
+
+}
+
+.greenlineflex-container > div{
+ 
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+}
+
+
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+
+.pinupGallery {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+  object-fit: contain;
+}
+.expandingGallery {
+  width: 100%;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+}
+
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery > img:hover {
+  flex: var(--magnifier);
+}
+
+
+.twitterbox {
+  display:flex;
+  flex-flow: row wrap;
+  max-width: 1100px;
+} 
+
+
+.tweet {
+
+  flex: 1 1 400px;
+
+}
+
+
+/* i like the formatting here
+img[alt="whiteslavery"] { max-width: 30%; float:left;}
+img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
+*/
+
+
+
+
+
+@keyframes slideInFromRight {
+  0% {
+      transform: translateX(100%);
+  }
+  100% {
+      transform: translateX(0);
+  }
+}
+@keyframes slideInFromLeft {
+  0% {
+      transform: translateX(-100%);
+  }
+  100% {
+      transform: translateX(0);
+  }
+}
+
+@keyframes blur {
+  0% {
+      filter: blur(1.5rem);
+  }
+  100% {
+      filter: blur(0rem);
+  }
+}
+
+@keyframes flip {
+  0% {
+      filter: blur(1.5rem);
+    transform: rotateZ(90deg);
+  }
+  100% {
+      filter: blur(0rem);
+    transform: rotateZ(0deg);
+  }
+}
+@keyframes saturate {
+  0% {
+
+    filter: saturate(7);
+  }
+  100% {
+
+    filter: saturate(3);
+  }
+}
+
+@keyframes scale {
+  0% {
+
+    transform: scale( 2, 2);
+  }
+  100% {
+
+    transform: scale(4, 1);
+    
+  }
+}
+
+@keyframes rotate {
+  0% {
+
+    transform: rotate(300.142rad);
+  }
+  100% {
+
+    transform: rotate(0rad);
+    
+  }
+}
+
+
+
+
 
