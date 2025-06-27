@@ -7,6 +7,9 @@ image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+articles on [/compiling]({{ site.baseurl }}/compiling/)
+[Summer Of Resistance Losangeles : RioTDATA](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
+![image](https://github.com/user-attachments/assets/e5b04878-46f6-4f66-b019-7df470ff7316)  + [They Said It Was Live](https://thakarashard.github.io/compiling/they-said-it-was-live)
 
 
 # [No Kings](https://www.youtube.com/watch?v=4ezqrcuZ5T8) / [FuckIce](https://youtu.be/_TPhEUxEIVQ)[RiotData](https://www.youtube.com/watch?v=D4A0YyYoXtU) ; [Graffiti Wars; A matter of pride (Los Angeles, documentary 1991)](https://www.youtube.com/watch?v=Omm3e8-AlJE)
