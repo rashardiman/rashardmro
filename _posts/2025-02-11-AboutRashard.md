@@ -5,6 +5,11 @@ published: true
 title: About Rashard
 image: rashardMRO.jpeg
 ---
+
+
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
 @nasa-jpl @stateofcalifornia @cityoflosangeles [RepKarenBass](https://archive.org/details/image-1-01)
 
 <object data="https://ia601200.us.archive.org/27/items/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/techstack_postcovidSimpleScanStation20250625110815.pdf" type="application/pdf" width="350" height="400">
@@ -43,4 +48,8 @@ Savannah, GA 31415-9615 [Business Summary](https://www.savannahnow.com/story/new
 
 @nasa-jpl @stateofcalifornia @cityoflosangeles i will explain soon respectfully 
 <img src="https://pbs.twimg.com/media/Gsxw8tub0AADakT?format=png&amp;name=large" alt="Image"/>![image](https://github.com/user-attachments/assets/97a066b1-2c20-44ee-9357-6de4cf960585)
+
+[rashardkelly.com](https://web.archive.org/web/20120213075546/http://www.rashardkelly.com/)
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 

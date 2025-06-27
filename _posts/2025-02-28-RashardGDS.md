@@ -7,6 +7,10 @@ image: rashardkelly.jpg
 tags: nasaoffice nasajpl helpdesk
 ---
 
+
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
 #  About The[Ice](https://www.youtube.com/watch?v=iDtcvXVlTVA&embeds_referring_euri=https%3A%2F%2Frashardmro.github.io%2F&source_ve_path=Mjg2NjY) [ArtParty](https://hyperallergic.com/1018989/defining-photos-from-los-angeles-historic-anti-ice-protests/) 
 Iwas looking  ScanDTE the [NearSpaceNetwork](https://www.nasa.gov/communicating-with-missions/nsn/) and a [signal](https://asf.alaska.edu/wp-content/uploads/2025/06/NASA-Near-Space-Network.png) from [ICEsat-2](https://icesat-2.gsfc.nasa.gov/) came through at the [Alaska Satellite Field](https://asf.alaska.edu/asf-satellite-tracking-stations/#ASF-NASA-NSN) Mayor Karen Bass thats why I told the people defending justice at the art party that "iM ICe! They dont read too well!" @stateofCalifornia @cityoflosangeles @nasa-jpl it was not a good joke and i got hurt but @blackgirlscode I know the people that [began thier wall writing journey in Atlanta](https://discoveratlanta.com/things-to-do/krog-street-tunnel/) and Would know about my badge, and I have suspicions [whiteamericabrokeintoo!](https://www.youtube.com/watch?v=TxXQUfCR5gU) [LYRiCs](https://www.reddit.com/r/TaylorSwift/comments/pyu8im/favorite_lyrics_from_reputation/) and the whole thing is this @whitehouse @nasa im just trailing . . . just know i know those [dance](https://www.youtube.com/watch?v=Csgo0oU5a_Y)-[people](https://www.youtube.com/watch?v=Of7YqEAbpPc) are involved with the [Art](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-09-25)[Riots](https://deadline.com/gallery/pussy-riot-nadya-tolokonnikova-police-state-la-protests-national-guard/)
 
@@ -121,3 +125,5 @@ and how to properly cite the data, please visit https://lpdaac.usgs.gov/.
 
 ********************************************************************************
 ```
+
+<img src="https://web.archive.org/web/20120213075546im_/http://www.rashardkelly.com/wp-content/uploads/2011/10/practice.rasard1-288x89.png" alt="Rashard Kelly"/>
