@@ -7,6 +7,121 @@ image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+
+![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
+
+![image](https://github.com/user-attachments/assets/98381b96-45c1-4d1d-9e7f-808ca4bd2c93)
+
+[DOWNLOAD_PDF](https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf)
+<object data="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf">download the PDF file.</a></p></object>
+
+
+
+
+![@blackgirlscode hi](https://github.com/user-attachments/assets/cc045d4b-c1de-443c-84ad-294e741b6268)
+
+
+[DOWNLOAD_PDF](https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf)
+<object data="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf">download the PDF file.</a></p></object>
+
+
+[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
+<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
+
+[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive)
+
+# _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+<iframe src="https://archive.org/embed/helvetica-2007" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0)
+
+# [Why is Virtualization Useful? - virtualbox.org](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
+![image](https://github.com/user-attachments/assets/fa80f596-c116-462d-9e1e-3f30db146c1e)
+
+[#Typography](https://mksd.jp/mksd_font_list.html)
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090348.mp4" type="video/mp4">	 
+	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090348.mp4" type="video/mp4">	 
+</video> 
+
+[Android Swap Space ?](https://docs.libretro.com/) 
+[Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
+Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space.
+In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+</video> 
+
+![redhat](https://docs.redhat.com/Logo-Red_Hat-Documentation-A-Reverse-RGB.svg)
+
+
+[DiskControl @microsoft @libretro](https://docs.libretro.com/) 
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia601404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
+	<source src="https://ia801404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
+</video> 
+
+
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://archive.org/download/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-182220.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+
+# @nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research]
+
+<video preload="auto" width="auto" height="500px" controls> 
+	<source src="https://ia600809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+	<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+</video> 
+
+
+
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+</video> 
+
+![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
+[ALF](https://archive.org/details/ALF-The-Complete-Series) [WATCHLiST](https://ricothakarashard.github.io/MovingPhotos) 
+
+[font](https://www.typedifferent.com/fonts/bd-elmax)
+![image](https://github.com/user-attachments/assets/90c059d8-4e21-4202-a698-b96e0718a249)
+
+
+```html
+[/linux](https://ricothakarashard.github.io/linux)
+<a href="https://ricothakarashard.github.io/linux">linux</a>
+```
+{% raw %}
+[/linux]({{ site.url }}/linux)
+<a href="{{ site.url }}/linux">linux</a>
+{% endraw %}
+
+Worked on using @git instantly so i can be more independant [/myBinder]({{ site.url }}/myBinder)
+<a href="{{ site.url }}/myBinder">myBinder</a>
+
+[Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
+[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
+
 articles on [/compiling]({{ site.baseurl }}/compiling/)
 [Summer Of Resistance Losangeles : RioTDATA](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
 ![image](https://github.com/user-attachments/assets/e5b04878-46f6-4f66-b019-7df470ff7316)  + [They Said It Was Live](https://thakarashard.github.io/compiling/they-said-it-was-live)
