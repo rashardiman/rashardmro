@@ -567,6 +567,7 @@ code {
   border-radius: 2px;
   width: -moz-fit-content;
   width: fit-content;
+  word-wrap: break-word;
 }
 /*
 pre {
@@ -597,6 +598,7 @@ pre {
   color: white;
   width: -moz-fit-content;
   width: fit-content;
+	word-wrap: break-word;
   code {
     margin: 0px;
     padding: 0px;
