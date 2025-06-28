@@ -9,12 +9,8 @@ author: "RashardKelly @nasa-jpl"
 
 
 
-[Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
+# [Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
 [2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
-
-articles on [/compiling]({{ site.baseurl }}/compiling/)
-[Summer Of Resistance Losangeles : RioTDATA](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
-![image](https://github.com/user-attachments/assets/e5b04878-46f6-4f66-b019-7df470ff7316)  + [They Said It Was Live](https://thakarashard.github.io/compiling/they-said-it-was-live)
 
 
 # [No Kings](https://www.youtube.com/watch?v=4ezqrcuZ5T8) / [FuckIce](https://youtu.be/_TPhEUxEIVQ)[RiotData](https://www.youtube.com/watch?v=D4A0YyYoXtU) ; [Graffiti Wars; A matter of pride (Los Angeles, documentary 1991)](https://www.youtube.com/watch?v=Omm3e8-AlJE)
@@ -30,6 +26,11 @@ articles on [/compiling]({{ site.baseurl }}/compiling/)
 {% endfor %}
 
 </div>
+
+articles on [/compiling]({{ site.baseurl }}/compiling/)
+[Summer Of Resistance Losangeles : RioTDATA](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
+![image](https://github.com/user-attachments/assets/e5b04878-46f6-4f66-b019-7df470ff7316)  + [They Said It Was Live](https://thakarashard.github.io/compiling/they-said-it-was-live)
+
 
 
 # Collection of publicly available IPTV channels from all over the world
