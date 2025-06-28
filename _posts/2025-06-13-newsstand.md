@@ -9,6 +9,60 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+[Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
+[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
+
+articles on [/compiling]({{ site.baseurl }}/compiling/)
+[Summer Of Resistance Losangeles : RioTDATA](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
+![image](https://github.com/user-attachments/assets/e5b04878-46f6-4f66-b019-7df470ff7316)  + [They Said It Was Live](https://thakarashard.github.io/compiling/they-said-it-was-live)
+
+
+# [No Kings](https://www.youtube.com/watch?v=4ezqrcuZ5T8) / [FuckIce](https://youtu.be/_TPhEUxEIVQ)[RiotData](https://www.youtube.com/watch?v=D4A0YyYoXtU) ; [Graffiti Wars; A matter of pride (Los Angeles, documentary 1991)](https://www.youtube.com/watch?v=Omm3e8-AlJE)
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-riotdata' %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+# Collection of publicly available IPTV channels from all over the world
+[![Twitter Follow](https://img.shields.io/badge/Social-LACityView35__-blue?style=social&logo=X)](https://twitter.com/LACityView35) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass) [Add: ABC7 Eyewitness News #24597
+ https://github.com/iptv-org/iptv/issues/24597](https://github.com/iptv-org/iptv/issues/24597) [![Twitter Follow](https://img.shields.io/badge/Social-@abc7__-blue?style=social&logo=X)](https://twitter.com/@abc7)
+
+[iptv-org/iptv https://iptv-org.github.io/](https://iptv-org.github.io/) [github](https://github.com/iptv-org/iptv)
+![image](https://github.com/user-attachments/assets/6d735536-fc5d-445e-9fa6-a94f1c446aa5)
+
+# LA CityView
+[![Twitter Follow](https://img.shields.io/badge/Social-LACityView35__-blue?style=social&logo=X)](https://twitter.com/LACityView35) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@abc7__-blue?style=social&logo=X)](https://twitter.com/@abc7)
+Please make an [embed](https://codepen.io/thakarashard/pen/EajrepQ) like [ABC7](https://abc7.com/watch/live/) [HTML5: Edition for Web Authors @w3c : embeddedContent](https://www.w3.org/TR/2011/WD-html5-author-20110809/content-models.html#embedded-content)
+[The External Object element - HTML - MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)
+its copy paste code for the end user
+@cityoflosangeles we like to stream channels in our [Cafateria @nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) : [`<embed>`: The Embed External Content element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) [How to Embed HTML Code showit.com](https://learn.showit.com/en/articles/615194-how-to-embed-html-code) [HTML_SPEC 3.2.5.3 Transparent content models](https://html.spec.whatwg.org/#transparent-content-models) @blackgirlscode [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [HTML `<address>` Tag](https://www.w3schools.com/tags/tag_address.asp)
+
+<style>
+address {
+  display: block;
+  font-style: italic;
+}
+</style>
+
+<address markdown="1">
+	
+# <a href="mailto:ita.channel35@lacity.org">Send email 2 LA CityView 35 Media Group</a>
+200 North Spring Street, 10th floor, Room 1000
+Los Angeles, CA 90012
+Email: ita.channel35@lacity.org
+Phone: 213-473-9798
+`<a href="mailto:ita.channel35@lacity.org">Send email 2 LA CityView 35 Media Group</a>`
+</address>
+![image](https://github.com/user-attachments/assets/8ebfe3dc-65c0-43be-be04-8cc70fd587cf)
 
 ![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
 
@@ -119,60 +173,6 @@ In years past, the recommended amount of swap space increased linearly with the 
 Worked on using @git instantly so i can be more independant [/myBinder]({{ site.url }}/myBinder)
 <a href="{{ site.url }}/myBinder">myBinder</a>
 
-[Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
-[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
-
-articles on [/compiling]({{ site.baseurl }}/compiling/)
-[Summer Of Resistance Losangeles : RioTDATA](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
-![image](https://github.com/user-attachments/assets/e5b04878-46f6-4f66-b019-7df470ff7316)  + [They Said It Was Live](https://thakarashard.github.io/compiling/they-said-it-was-live)
-
-
-# [No Kings](https://www.youtube.com/watch?v=4ezqrcuZ5T8) / [FuckIce](https://youtu.be/_TPhEUxEIVQ)[RiotData](https://www.youtube.com/watch?v=D4A0YyYoXtU) ; [Graffiti Wars; A matter of pride (Los Angeles, documentary 1991)](https://www.youtube.com/watch?v=Omm3e8-AlJE)
-
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-riotdata' %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-
-</div>
-
-
-# Collection of publicly available IPTV channels from all over the world
-[![Twitter Follow](https://img.shields.io/badge/Social-LACityView35__-blue?style=social&logo=X)](https://twitter.com/LACityView35) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass) [Add: ABC7 Eyewitness News #24597
- https://github.com/iptv-org/iptv/issues/24597](https://github.com/iptv-org/iptv/issues/24597) [![Twitter Follow](https://img.shields.io/badge/Social-@abc7__-blue?style=social&logo=X)](https://twitter.com/@abc7)
-
-[iptv-org/iptv https://iptv-org.github.io/](https://iptv-org.github.io/) [github](https://github.com/iptv-org/iptv)
-![image](https://github.com/user-attachments/assets/6d735536-fc5d-445e-9fa6-a94f1c446aa5)
-
-# LA CityView
-[![Twitter Follow](https://img.shields.io/badge/Social-LACityView35__-blue?style=social&logo=X)](https://twitter.com/LACityView35) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@abc7__-blue?style=social&logo=X)](https://twitter.com/@abc7)
-Please make an [embed](https://codepen.io/thakarashard/pen/EajrepQ) like [ABC7](https://abc7.com/watch/live/) [HTML5: Edition for Web Authors @w3c : embeddedContent](https://www.w3.org/TR/2011/WD-html5-author-20110809/content-models.html#embedded-content)
-[The External Object element - HTML - MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)
-its copy paste code for the end user
-@cityoflosangeles we like to stream channels in our [Cafateria @nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) : [`<embed>`: The Embed External Content element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) [How to Embed HTML Code showit.com](https://learn.showit.com/en/articles/615194-how-to-embed-html-code) [HTML_SPEC 3.2.5.3 Transparent content models](https://html.spec.whatwg.org/#transparent-content-models) @blackgirlscode [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [HTML `<address>` Tag](https://www.w3schools.com/tags/tag_address.asp)
-
-<style>
-address {
-  display: block;
-  font-style: italic;
-}
-</style>
-
-<address markdown="1">
-	
-# <a href="mailto:ita.channel35@lacity.org">Send email 2 LA CityView 35 Media Group</a>
-200 North Spring Street, 10th floor, Room 1000
-Los Angeles, CA 90012
-Email: ita.channel35@lacity.org
-Phone: 213-473-9798
-`<a href="mailto:ita.channel35@lacity.org">Send email 2 LA CityView 35 Media Group</a>`
-</address>
-![image](https://github.com/user-attachments/assets/8ebfe3dc-65c0-43be-be04-8cc70fd587cf)
 
 
 ![image](https://github.com/user-attachments/assets/f7825c5b-43bc-407c-92d8-545b1ff1c7db)
