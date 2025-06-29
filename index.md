@@ -10,7 +10,16 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)  [WipEout® OST PSX: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [ROUJIN Z - Full Movie  English Subs (1991) 老人Z](https://youtu.be/X5i0JU_NsZU) [Kiki's Delivery Service - Official Trailer](https://youtu.be/4bG17OYs-GA?si=yCkhma6MGTBR-7QP) [Wipeout 3](https://www.retrogames.cc/psx-games/wipeout-3-usa.html)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) 
+
+# Dear Tamron Hall [![Twitter Follow](https://img.shields.io/badge/Social-@TamronHallShow__-blue?style=social&logo=X)](https://twitter.com/TamronHallShow)
+id like you to try out my page [newsstand](https://thakarashard.github.io/rashardmro/2025/06/13/newsstand.html) [`alt`](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md) it has a great recent post about [EmbeddableContent](https://www.w3.org/TR/2014/REC-html5-20141028/embedded-content-0.html) - [Rashard Iman Kelly @nasa-jpl](https://rashardgds.github.io/2025/02/11/AboutRashard.html)
+
+@Stateofcalifornia Gavin @cityoflosangeles Karen @github Thoma(sss)se' @ashtom @blackgirlscode TamronHallShow the archive has a [DoxxingStory](https://archive.org/details/rashardmro-master_20250628/Screen+recording+2025-06-28+3.48.43+PM.webm) im doing my best @nasa @whitehouse @usnavy jose m pi @nasa-jpl Jamie & Robin + Jason 
+
+<object data="https://archive.org/embed/rashardmro-master_20250628" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+[1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)  [WipEout® OST PSX: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [ROUJIN Z - Full Movie  English Subs (1991) 老人Z](https://youtu.be/X5i0JU_NsZU) [Kiki's Delivery Service - Official Trailer](https://youtu.be/4bG17OYs-GA?si=yCkhma6MGTBR-7QP) [Wipeout 3](https://www.retrogames.cc/psx-games/wipeout-3-usa.html)
 
 
 <div class="box">
