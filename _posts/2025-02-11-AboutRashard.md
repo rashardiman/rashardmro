@@ -6,12 +6,29 @@ title: About Rashard
 image: rashardMRO.jpeg
 ---
 
+![image](https://github.com/user-attachments/assets/44ad672b-dd03-47ee-b791-7af570860e39)
+
+@nasa-jpl @stateofcalifornia @cityoflosangeles [RepKarenBass](https://archive.org/details/image-1-01) 
+i made some progress in getting my @nsa [user_login issues](https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Ffed%2Fiwa%2F%3FfedData%3DP3R5cGU9c29jaWFsJlNBTUxSZXF1ZXN0PWZaSFpUc013RUVWJTJGSmZKNzRqUVZBbGxKcExRVklsQksxSVJGdkNEanVxa2xMNm5IWWZ2NnVpbElCWWslMkJldWJNJTJCTjQ3S1ZBbE8xTDBicU9YZk50emNNR0hraHJJME1oUWJ6VXhGQVFRVFJVSDRoaXBpOXM1U2FLWWROWTR3NHhFUnlPbkp5Z0F0MDRZallKeWxxR1hkakVwSDIlMkZrVmk2dm43N0tjb3FDQjI3Qjl6UGtjUThCOUx6VTRLaDJ2aFFuWjJGOEhzYWpKb2xKTWliamkyY1VWTjhxSmtLdmhHNVBDM2c5UUVDdW1xWUtxN3U2UVVIeEkycHFOUFNLMjVyYk44SDQlMkZYS2VvWTF6SFJDTU5RVWFLZHBCUkMxckJVVE1LQXdiYXYwMmJIMXMyRkFmWW9MM0lXQVFyUllhNWVuJTJCUlFZWE5sOFVkZkYzUllxUGlmUndqWVdYWGM0cUl3WDdEQzZOVmRUOTcyb1VqWWFLV0lYckFTVzlobzR6c1JaODVjMUphZDZubGxQSE0lMkJSc3p4SE9ENSUyRiUyQnZucSUyQkF3JTNEJTNEJlJlbGF5U3RhdGU9YWpIRndKVjV5Uk5UTlhmVUR5WkRRdVEuLndFY0g2UXJzd2tqWmF2RWs4eWlHUGNvRmRQZ1cycTlyNGt6amtIV2VKYkx6OG1GV2tQdnFXSDhsSGM2bTd4MFRRWUZnZlM5bVdEV2JSOV9aMzZPUE9jQ29ma0o1MGRRTzhiUVlTOTFKdVNuUktfZVZTaEFudTMwdkNqbG9rTnl6d09wUFYwaUlBVGxRS0NXQ1pVY25LZlVjX2FoSXQ5blR2c25SLUFRbWRZeVJFamU0cG5rOFJQSWhLeUdjNDdjYXpYai1MRndKWlpNYURQYW10Q0dNaDhPYkMzS2lwX3JMWW1kNXFQOGpwcXFhalZEdGZ3d1JNN3BYRzd0aGk2c3hka0FVSTVQMHp3MUVNV0w2RHdJb1BLTDF2bDV1R1dJQWlqOUNXSEt0Z0hYUFdURVIwZ0NzWEpEY2NCYTBqV2c3ZnpVOXFLUmhpWExaT2NzMTlNdFFudE1iSDJrTXdBLUgxUVVISWMzNllsb2Z1WXFpSGsydGpUWUdNbW9kbnZKRHY4ZndiemE1WXRZcHZDaDFha0dwaHFSV2FJR3VzSVN4dGlublZiZmZjQzg5Y0NSeEJfci1qalRJWDRMc1hKN1lVYy1zaTUzMHZLaExYS1o0XzVaM19qNEQydlBKX19FVFZ6ZU9tc0RscDdxMGlZSzRqam1Fakp1NE5VNlBhbEpFaFRPQ1o1Y0UtZEdYMWQwcHItdmlGNzUtM250WkVHMU9xbVdvZUN0TnZlc1Q0dDJWbm9zS3lKNFd5Rzg0TXYyVTJ0Y0FLa01GeGQ1b1VKaFhUclhjZjlhVG9XcHJpbWlkYnp0WkI3MWE0UUx6RjZtUjJBQ0piTEo1NllqQk45Wno4OGFSamxzQ0JwREJSYkhFa0t5dWp0ckU3cGYwZm5jWkVSZEdKTmlacTc5OElSdTN4VkRUdTVfbXE2WG8zdzhYUzlaM1NlWHdNODl0bzFGWnJrQWNpbEVTYkpxa3VEa2wtLTV4ay1ncThhdmN2T0IxaEp1T3Q4Q2RJRlJJYXNoUDF3YVE4MnhIZDlEZ1JaZVREWGNnVU4xbTlqa0lma1pUM3A5WWpQOXAwRVJvRXQxZi1nZGNLdkVtNzg3eERKRTY0ckRabFVJeTNUVklPbkFjWGg5RDdRbVNhWDdVcDdVVHVhaVRZOFd5ZV9hU054emFDTkowaUQ0a0FFM180MzF0dmdxd2RtN0doVnZtUnhRNVQzSUc1MTU5WHM3ajM0UFBXRVkwT3lXRGdiMFAtVWsuJlNNUE9SVEFMVVJMPWh0dHBzJTNBJTJGJTJGYXV0aC5sYXVuY2hwYWQubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRnB1YmxpYyUyRnNhbWwyc3NvJlNBTUxUUkFOU0FDVElPTklEPTNhMTIwMDM3LWQ0MzQzZDMyLTQzNWU4OGVmLWIzMWRlZWU5LTQ5MWUzMDNlLTMzOQ%3D%3D) resolved
+
+-What is your favorite genre of music?
+•••
+-What was the last name of your third grade teacher?
+••••••
+-Where was your mother born?
+••••••••
+>[savannah](https://www.fabledcollective.com/underground-morgue-of-savannah/#:~:text=The%20Old%20Candler%20Hospital,-The%20Old%20Candler&text=Established%20in%201804%2C%20it%20holds,Savannah%20Poor%20House%20and%20Hospital.)
+```
+Error
+We could not verify answers to your security questions.
+```
+![image](https://github.com/user-attachments/assets/8be42a5e-f22f-4cce-ab4d-67c1c38e0871)
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 [OldBlogPost from -RashardKelly.com](https://web.archive.org/web/20120817113707/http://www.rashardkelly.com/blog/)
 
-@nasa-jpl @stateofcalifornia @cityoflosangeles [RepKarenBass](https://archive.org/details/image-1-01)
+
 
 <object data="https://ia601200.us.archive.org/27/items/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/techstack_postcovidSimpleScanStation20250625110815.pdf" type="application/pdf" width="350" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://ia601200.us.archive.org/27/items/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/techstack_postcovidSimpleScanStation20250625110815.pdf">download the PDF file.</a></p></object>
