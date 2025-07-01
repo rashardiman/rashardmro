@@ -9,6 +9,7 @@ image: rashardMRO.jpeg
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+[OldBlogPost from -RashardKelly.com](https://web.archive.org/web/20120817113707/http://www.rashardkelly.com/blog/)
 
 @nasa-jpl @stateofcalifornia @cityoflosangeles [RepKarenBass](https://archive.org/details/image-1-01)
 
