@@ -3,7 +3,7 @@ layout: post
 title:  NewsStand
 published: true
 tags: earth nsn "Near Space Network" gds mars
-image: pia04304-mars.webp
+image: ESP_062216_2660_RGB.NOMAP.browse.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
