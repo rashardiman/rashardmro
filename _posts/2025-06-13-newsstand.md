@@ -7,7 +7,17 @@ image: pia04304-mars.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-riotdata' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
 
+</div>
 
 # [Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
 [2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
