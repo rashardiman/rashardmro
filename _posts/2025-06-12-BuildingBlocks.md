@@ -5,7 +5,9 @@ published: true
 title: Building Blocks
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
-
+[@nasas Disaster_map @noaa @stateofcalifornia FirEDATA](https://maps.disasters.nasa.gov/arcgis/apps/dashboards/57bc276c7cd34cd59674a55bce89be0c)
+Gula Matari
+Quincy Jones
 [CD-ROM Software Library](https://archive.org/details/cdromsoftware)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExXt21DDDY8?si=CQvK3R2ad2TOSeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
