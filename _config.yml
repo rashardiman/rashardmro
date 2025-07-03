@@ -1,5 +1,5 @@
-title: RashardMRO
-description: MyWorkLog+STUFF
+title: {{ site.title }}
+description: Rashard_M_R_O MyWorkLog+STUFF
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
