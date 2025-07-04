@@ -27,6 +27,14 @@ mermaid: true
 [opus](https://pds-rings.seti.org/) [PDS Data Release Calendar 2025](https://pds.nasa.gov/datasearch/subscription-service/data-release-calendar-2025.shtml) [pds](https://pds.nasa.gov/)
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d09072d9-7ea5-432b-92c0-809a79b43845)
 
+<figure>
+  <figcaption>NAS:No_Bad_Energy</figcaption>
+  <audio controls src="https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3"></audio>
+  <a href="https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3"> Download audio </a>
+</figure>
+
+
+
 # Dear Tamron Hall [![Twitter Follow](https://img.shields.io/badge/Social-@TamronHallShow__-blue?style=social&logo=X)](https://twitter.com/TamronHallShow)
 id like you to try out my page [newsstand](https://thakarashard.github.io/rashardmro/2025/06/13/newsstand.html) [`alt`](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md) it has a great recent post about [EmbeddableContent](https://www.w3.org/TR/2014/REC-html5-20141028/embedded-content-0.html) - [Rashard Iman Kelly @nasa-jpl](https://rashardgds.github.io/2025/02/11/AboutRashard.html)
 
@@ -35,9 +43,6 @@ id like you to try out my page [newsstand](https://thakarashard.github.io/rashar
 <object data="https://archive.org/embed/rashardmro-master_20250628" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
 [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)  [WipEout® OST PSX: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [ROUJIN Z - Full Movie  English Subs (1991) 老人Z](https://youtu.be/X5i0JU_NsZU) [Kiki's Delivery Service - Official Trailer](https://youtu.be/4bG17OYs-GA?si=yCkhma6MGTBR-7QP) [Wipeout 3](https://www.retrogames.cc/psx-games/wipeout-3-usa.html)
-
-
-
 
 
 
