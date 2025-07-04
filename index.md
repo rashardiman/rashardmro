@@ -23,6 +23,36 @@ mermaid: true
  
 </div>
 
+[2025 Rose Bowl Postgame](https://youtu.be/3bi35E0oS0A)
+![marvoyagerneptuneSimpleScanStation20250703162827-08](https://github.com/user-attachments/assets/7134a3c8-f9cd-4b3f-af91-e03a07699ead)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-03](https://github.com/user-attachments/assets/e627eaed-0bca-45f8-b86f-6fe969a6268a)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-06](https://github.com/user-attachments/assets/1dfb38bd-f496-4c1b-a1b9-0394eb18ee65)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-10](https://github.com/user-attachments/assets/be8e4b22-aad7-4485-9376-1331d1e5d2af)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-26](https://github.com/user-attachments/assets/752c5305-9776-4c79-8934-8d024fe2ac7a)
+![marvoyagerneptuneSimpleScanStation20250703162827-29](https://github.com/user-attachments/assets/fe739577-fa38-4e55-adee-25d9c86bc672)
+![marvoyagerneptuneSimpleScanStation20250703162827-23](https://github.com/user-attachments/assets/32a777b2-f5b8-44a4-be1c-455585447399)
+![marvoyagerneptuneSimpleScanStation20250703162827-27](https://github.com/user-attachments/assets/74f9c9be-d1eb-40af-afb0-e95c1f9bfcc2)
+![marvoyagerneptuneSimpleScanStation20250703162827-18](https://github.com/user-attachments/assets/46388f04-a96d-447e-8e27-cc8942d413df)
+![marvoyagerneptuneSimpleScanStation20250703162827-16](https://github.com/user-attachments/assets/6cef73e0-f48c-4c2d-a15c-ad1f8ee0e50f)
+
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/mars-gallery-july3rd-laplcentral' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 [@blackgirlscode](https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3)
 [opus](https://pds-rings.seti.org/) [PDS Data Release Calendar 2025](https://pds.nasa.gov/datasearch/subscription-service/data-release-calendar-2025.shtml) [pds](https://pds.nasa.gov/)
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d09072d9-7ea5-432b-92c0-809a79b43845)
