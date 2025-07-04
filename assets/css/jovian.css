@@ -87,26 +87,44 @@ img:nth-child(even) {
 
   .drop {filter: drop-shadow(4px 4px 1px #b71c1c);}
 
-  .tupperware > * {
-    border: 1px solid #c9ff23;
-    border-radius: 5px;
-    padding: 0px;
-    flex: 1 1 150px;
-    overflow: hidden;
-    }
-  
-  .tupperware {
-    display: flex;
-    flex-flow: row wrap; 
-    padding: 15px;
-    gap: 5px;
-    margin: 10px;
-    height: 400px;
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 10px;
+  flex-basis: 200px;
+  flex-shrink: 3;
+
+  flex-grow: 1;
+  overflow: hidden;
+  width: fit-content;
+  block-size: max-content;
+  height: fit-content;
+  align-items: flex-start;
+  transition: all 300ms ease-in-out;
+
+  &:hover {
+    flex-grow: 9.3;
   }
-  
-  .tupperware img {
-    width: 100%;
-  }
+}
+
+.tupperware {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 1px;
+  gap: 1px;
+  height: auto;
+}
+
+.tupperware img {
+}
+
+.tupperware figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
 
 
 img[src*="nasalogo_whitetext_redwing.svg"] {
