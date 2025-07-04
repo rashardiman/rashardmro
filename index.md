@@ -23,6 +23,55 @@ mermaid: true
  
 </div>
 
+[2025 Rose Bowl Postgame](https://youtu.be/3bi35E0oS0A)
+![marvoyagerneptuneSimpleScanStation20250703162827-08](https://github.com/user-attachments/assets/7134a3c8-f9cd-4b3f-af91-e03a07699ead)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-03](https://github.com/user-attachments/assets/e627eaed-0bca-45f8-b86f-6fe969a6268a)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-06](https://github.com/user-attachments/assets/1dfb38bd-f496-4c1b-a1b9-0394eb18ee65)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-10](https://github.com/user-attachments/assets/be8e4b22-aad7-4485-9376-1331d1e5d2af)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-26](https://github.com/user-attachments/assets/752c5305-9776-4c79-8934-8d024fe2ac7a)
+![marvoyagerneptuneSimpleScanStation20250703162827-29](https://github.com/user-attachments/assets/fe739577-fa38-4e55-adee-25d9c86bc672)
+![marvoyagerneptuneSimpleScanStation20250703162827-23](https://github.com/user-attachments/assets/32a777b2-f5b8-44a4-be1c-455585447399)
+![marvoyagerneptuneSimpleScanStation20250703162827-27](https://github.com/user-attachments/assets/74f9c9be-d1eb-40af-afb0-e95c1f9bfcc2)
+![marvoyagerneptuneSimpleScanStation20250703162827-18](https://github.com/user-attachments/assets/46388f04-a96d-447e-8e27-cc8942d413df)
+![marvoyagerneptuneSimpleScanStation20250703162827-16](https://github.com/user-attachments/assets/6cef73e0-f48c-4c2d-a15c-ad1f8ee0e50f)
+
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/mars-gallery-july3rd-laplcentral' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+<object
+  type="application/pdf"
+  data="https://ia801809.us.archive.org/19/items/image_20250428_2325/marvoyagerneptuneSimpleScanStation20250703162827.pdf"
+  width="600"
+  height="400"></object>
+
+[@blackgirlscode](https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3)
+[opus](https://pds-rings.seti.org/) [PDS Data Release Calendar 2025](https://pds.nasa.gov/datasearch/subscription-service/data-release-calendar-2025.shtml) [pds](https://pds.nasa.gov/)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d09072d9-7ea5-432b-92c0-809a79b43845)
+
+<figure>
+  <figcaption>NAS:No_Bad_Energy</figcaption>
+  <audio controls src="https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3"></audio>
+  <a href="https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3"> Download audio </a>
+</figure>
+
+
+
 # Dear Tamron Hall [![Twitter Follow](https://img.shields.io/badge/Social-@TamronHallShow__-blue?style=social&logo=X)](https://twitter.com/TamronHallShow)
 id like you to try out my page [newsstand](https://thakarashard.github.io/rashardmro/2025/06/13/newsstand.html) [`alt`](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-06-13-newsstand.md) it has a great recent post about [EmbeddableContent](https://www.w3.org/TR/2014/REC-html5-20141028/embedded-content-0.html) - [Rashard Iman Kelly @nasa-jpl](https://rashardgds.github.io/2025/02/11/AboutRashard.html)
 
@@ -31,9 +80,6 @@ id like you to try out my page [newsstand](https://thakarashard.github.io/rashar
 <object data="https://archive.org/embed/rashardmro-master_20250628" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
 [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)  [WipEout® OST PSX: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [ROUJIN Z - Full Movie  English Subs (1991) 老人Z](https://youtu.be/X5i0JU_NsZU) [Kiki's Delivery Service - Official Trailer](https://youtu.be/4bG17OYs-GA?si=yCkhma6MGTBR-7QP) [Wipeout 3](https://www.retrogames.cc/psx-games/wipeout-3-usa.html)
-
-
-
 
 
 
