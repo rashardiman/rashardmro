@@ -53,6 +53,13 @@ mermaid: true
 
 </div>
 
+
+<object
+  type="application/pdf"
+  data="https://ia801809.us.archive.org/19/items/image_20250428_2325/marvoyagerneptuneSimpleScanStation20250703162827.pdf"
+  width="600"
+  height="400"></object>
+
 [@blackgirlscode](https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3)
 [opus](https://pds-rings.seti.org/) [PDS Data Release Calendar 2025](https://pds.nasa.gov/datasearch/subscription-service/data-release-calendar-2025.shtml) [pds](https://pds.nasa.gov/)
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d09072d9-7ea5-432b-92c0-809a79b43845)
