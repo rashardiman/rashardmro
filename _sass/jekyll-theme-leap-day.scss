@@ -568,6 +568,7 @@ code {
   width: -moz-fit-content;
   width: fit-content;
   word-wrap: break-word;
+	overflow: auto;
 }
 /*
 pre {
@@ -598,6 +599,7 @@ pre {
   color: white;
   width: -moz-fit-content;
   width: fit-content;
+	overflow: auto;
 	word-wrap: break-word;
   code {
     margin: 0px;
