@@ -23,6 +23,26 @@ mermaid: true
  
 </div>
 
+# Time Averaged Map of Combined Dark Target and Deep Blue AOD at 0.55 micron for land and ocean: Mean daily 1 deg. [MODIS-Terra MOD08_D3 v6.1]
+over 2025-06-22 - 2025-07-03
+
+![image](https://github.com/user-attachments/assets/534c2234-1ee4-4a9b-a931-0b625ff97603)
+
+## Time Averaged Map of HCHO column amount daily 0.1 deg. [OMI OMHCHOd v003] molecules/cm^2
+over 2025-06-22 - 2025-07-03
+![GIOVANNI-output3GyLa3o2](https://github.com/user-attachments/assets/92f2cf67-1a2b-4d9c-bf95-e6da81e66ce7)
+
+![image](https://github.com/user-attachments/assets/5b454c84-2fee-4c08-a7c3-ec858bc9d17e)
+
+# California Linux: first real day [hotpepper](https://www.hotpepperusa.com/) [🌶️](mailto:support@hotpepperusa.com)
+[Archive](https://archive.org/details/Julyhotpepper) [@nasa-jpl @nasa @cityoflosangeles](https://archive.org/download/Julyhotpepper/1_adult_EntertainmentZoning_LOS_ANGELES.pdf) @stateofcalifornia i will finish writing in later -[rashard](thakarashard.github.io) 
+<iframe src="https://archive.org/embed/Julyhotpepper" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<object data="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf" type="application/pdf" width="650" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf">download the PDF file.</a></p></object>
+
+[DOWNLOAD:PDF](https://github.com/rashardgds/linux/blob/master/Documentation/1_july4postgriffithSimpleScanStation20250705100835.pdf)
+
 [2025 Rose Bowl Postgame](https://youtu.be/3bi35E0oS0A)
 ![marvoyagerneptuneSimpleScanStation20250703162827-08](https://github.com/user-attachments/assets/7134a3c8-f9cd-4b3f-af91-e03a07699ead)
 
