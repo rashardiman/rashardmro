@@ -9,6 +9,17 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+
+# @nasa-jpl @nasa 
+I really want someone with a sincere desire to clear trauma to listen to [Oj Da Juiceman](https://www.tiktok.com/discover/oj-da-juiceman-freestyle-xxl) in this era to see how the enviroment can make me run behind on taking care of duties at the lab and y taking care of coral was the umber one priority when [erika](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/#:~:text=Erika%20Renee%20Johnson%20Kelly%20has%20been%20found%20safe%2C%20a%20spokesperson,was%20located%20in%20Canton%2C%20Georgia.) went nuts with those [artists and ball players](https://www.instagram.com/reel/CxwJg_YA6-a/), he still talked to me, he might be nas brother, Either way you will enjoy your next trip to [Fernbank alot more](https://www.fernbankmuseum.org/) and help us heal the city, even if i made the comment at griffith about it dissolving, thats the crime, theres a healthy population that honestly need guidance. Jehovahs Witnesses like a lot of ppl from religion have nothing to do now bc they were loyal and the Laity was [corrupt](https://girlsunited.essence.com/feedback/news/latto-receives-key-to-the-city/) across all faiths. 
+-rashard
+[Gutter ft OJ Da Juiceman "Right Hand Cooking"](https://www.youtube.com/watch?v=ii_vJls8FgE&ab_channel=zaytovenbeatz)
+![image](https://github.com/user-attachments/assets/c3979001-0504-4ae9-b1a2-a4b8b1c31c38) [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM) [Retail developer looking to turn North DeKalb Mall into massive mixed use development](https://www.youtube.com/watch?v=uGc0kykQcZU&ab_channel=11Alive) [Triple shooting at DeKalb County strip mall](https://www.youtube.com/watch?v=q4fRn6v_vVM&ab_channel=FOX5Atlanta) [Crews tear down North DeKalb Mall to make way for new mixed-use development @blackgirlscode](https://youtu.be/hlQQqfc21YY)
+
+<iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qf46uyMoFuY?si=eVOai3jcu9phpA8L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # PLANET MARS
 [NAsaGLNN](https://archive.org/details/C-1997-2554)
 ![image](https://github.com/user-attachments/assets/c41fee6e-6d7e-48bf-b8dc-ef3f954bdb35)
