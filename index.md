@@ -23,6 +23,9 @@ mermaid: true
  
 </div>
 
+[rashardiman.github.io](https://rashardiman.github.io/) @nasa-jpl 4 @blackgirlscode identity checkin. I deleted the linux vids bc i typed a pass
+![image](https://github.com/user-attachments/assets/f0d982a2-0231-4895-805f-dfdbd73aa07a)
+
 # Time Averaged Map of Combined Dark Target and Deep Blue AOD at 0.55 micron for land and ocean: Mean daily 1 deg. [MODIS-Terra MOD08_D3 v6.1]
 over 2025-06-22 - 2025-07-03
 
