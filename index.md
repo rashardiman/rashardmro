@@ -4,8 +4,6 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
-![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
-
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
@@ -143,6 +141,8 @@ Trace complete.
 
 C:\Users\terminal16>
 ```
+
+![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
 
 
 We're swamped and our servers are down.
