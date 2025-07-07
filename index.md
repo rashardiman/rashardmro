@@ -25,6 +25,58 @@ mermaid: true
  
 </div>
 
+
+<video controls poster="https://ia903101.us.archive.org/22/items/Julyhotpepper/IMG_20250704_151750_1.jpg" >
+  <source src="https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4" type="video/mp4" />
+
+
+  Download the
+
+  or
+  <a href="https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4" type="video/mp4" >
+webm</a>
+  video.
+</video>
+
+![image](https://github.com/user-attachments/assets/c4772cdb-9798-4db4-899a-50dbc6f68e15)
+
+
+Contributors: Conovaloff
+
+GIFT TO LOS ANGELES.
+
+Capitalist G. J. Griffith Donates as a
+
+Christmas Present a Magnificent Park Site.
+
+LOS ANGELES, Cal., Dec. 16 — G. J. Griffith has donated to this city 3000 acres of land near Elysian Park, extending out along the Los Angeles River. A large portion of this tract is susceptible of cultivation and peculiarly fitted for public park purposes. It is a beautiful combination of hills and lovely dales, with magnificent prospects of poetic retreats. This gift will make the greatest public park in the matter of acreage in the United States. Mr. Griffith's letter to the Mayor and Council apprising them of this princely donation is in part as follows: "In the course of twenty-three years' active business life in California I have become proudly attached to our beautiful city of Los Angeles, which, through its great natural advantages and its matchless climate, averaging 300 sunny days in the year, is destined to soon become a great metropolis. The arduous work of these years has been rewarded with fair success, and, recognizing the duty which one who has acquired some little wealth owes to the community in which he has prospered, and desiring to aid the advancement and happiness of the city that has been for so long and always will be my home, I am impelled to make an offer, the acceptance of which by yourselves, acting for the people, I believe will be a source of enjoyment and pride to my fellows and add a charm to our beloved city. Realizing that public parks are the most desirable feature of all cities which have them, and that they lend an attractiveness and beauty that no other adjunct can, I hereby propose to present to the city of Los Angeles, as a Christmas gift, a public park of about 3000 acres of land in one body, situated a fraction over a mile north of the northern city line, including two and a half miles of the frostiess foothills bordering on the Cahuenga Valley, five miles of the Los Angeles River bottom— the lands generally known as the Ostrich Farm, and the beautiful little valley which was called the Press Colony site; also with these lands the improvements thereon, consisting of several buildings and a water plant, with tunnels and piping, the original cost of these having been over $10,000, and all of which will be of service and benefit in improving the park. This gift enables Los Angeles to at last have what was most needed — a magnificent breathing soot, susceptible of the highest development, the delight of the people of Los Angeles and the wonder and Admiration of the people from other localities." - [San Francisco Call, Volume 81, Number 17, 17 December 1896](https://cdnc.ucr.edu/?a=d&d=SFC18961217.2.32.1&e=-------en--20--1--txt-txIN--------)
+
+---
+
+South Pasadena 205.155.237.66
+active
+Your current session
+Seen in US
+Los Angeles 155.190.3.7
+stale
+Last accessed on Jun 30, 2025
+Seen in US
+South Pasadena 205.155.237.66
+stale
+Last accessed on Jun 29, 2025
+Seen in US
+Palo Alto 155.190.2.33
+stale
+Last accessed on Jun 28, 2025
+Seen in US
+Palo Alto 155.190.2.33
+stale
+Last accessed on Jun 28, 2025
+Seen in
+
+![image](https://github.com/user-attachments/assets/a7b98d3d-d6b9-4152-bd67-0d21ea358e54)
+
+
 [rashardiman.github.io](https://rashardiman.github.io/) @nasa-jpl 4 @blackgirlscode identity checkin. I deleted the linux vids bc i typed a pass
 ![image](https://github.com/user-attachments/assets/f0d982a2-0231-4895-805f-dfdbd73aa07a)
 
