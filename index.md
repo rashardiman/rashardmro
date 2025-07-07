@@ -25,6 +25,8 @@ mermaid: true
  
 </div>
 
+[Los Angeles Department of City Planning @cityoflosangeles @stateofcalifornia](https://planning.lacity.gov/StaffRpt/CHC/8-21-08/CHC-2008-2724.pdf)
+![image](https://github.com/user-attachments/assets/cc499dc4-0653-4c8b-93b4-8753d8d91ea2)
 
 <video controls poster="https://ia903101.us.archive.org/22/items/Julyhotpepper/IMG_20250704_151750_1.jpg" >
   <source src="https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4" type="video/mp4" />
