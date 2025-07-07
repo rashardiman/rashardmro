@@ -6,6 +6,9 @@ tags: earth nsn "Near Space Network" gds mars
 image: ESP_062216_2660_RGB.NOMAP.browse.jpg
 author: "RashardKelly @nasa-jpl"
 ---
+
+
+
 ![image](https://github.com/user-attachments/assets/da90f52b-c11b-4188-84c2-1a1928276502)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExXt21DDDY8?si=eGxt2RqbNO3sZIPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
