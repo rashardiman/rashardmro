@@ -25,6 +25,82 @@ mermaid: true
  
 </div>
 
+
+@cityuoflosangeles @atfweb @fbicyber @nasa-jpl @nasa @whitehouse
+I can make clean trace routes from [TheMetro](metro.net) but not [PasadenaLibrary](https://www.bing.com/search?q=south%20pasadena%20libratry&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=south%20pasadena%20libratry&sc=8-23&sk=&cvid=6196CEFDA9594F73A7C3CDB506FB6CA2) to [Lacity.gov/org](https://lacity.org/)
+```
+Tracing route to whitehouse.gov [192.0.66.51]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms     1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    13 ms    11 ms    11 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    11 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    13 ms    11 ms    11 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    12 ms    12 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    11 ms  192.0.66.51
+
+Trace complete.
+
+C:\Users\terminal16>
+C:\Users\terminal16>tracert lacity.gov
+
+Tracing route to lacity.gov [23.195.37.151]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms     1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     4 ms     4 ms     4 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     5 ms     6 ms     6 ms  hundredge-0-0-0-24.10.core2.losa.net.internet2.edu [64.57.20.82]
+  6    70 ms    70 ms    69 ms  fourhundredge-0-0-0-21.4079.core1.losa.net.internet2.edu [163.253.1.50]
+  7    71 ms    70 ms    70 ms  fourhundredge-0-0-0-2.4079.core2.salt.net.internet2.edu [163.253.1.115]
+  8    69 ms    69 ms    71 ms  fourhundredge-0-0-0-0.4079.core2.denv.net.internet2.edu [163.253.1.168]
+  9    69 ms    72 ms    72 ms  fourhundredge-0-0-0-0.4079.core2.kans.net.internet2.edu [163.253.1.251]
+ 10    69 ms    71 ms    69 ms  fourhundredge-0-0-0-0.4079.core1.chic.net.internet2.edu [163.253.2.28]
+ 11    71 ms    69 ms    69 ms  fourhundredge-0-0-0-12.4079.core1.eqch.net.internet2.edu [163.253.2.73]
+ 12    69 ms    70 ms    69 ms  fourhundredge-0-0-0-0.4079.core1.clev.net.internet2.edu [163.253.1.210]
+ 13    71 ms    72 ms    70 ms  fourhundredge-0-0-0-3.4079.core1.ashb.net.internet2.edu [163.253.1.122]
+ 14    68 ms    68 ms    68 ms  163.253.1.133
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19    68 ms    68 ms    69 ms  a23-195-37-151.deploy.static.akamaitechnologies.com [23.195.37.151]
+
+Trace complete.
+
+C:\Users\terminal16>tracert -d lacity.gov
+
+Tracing route to lacity.gov [23.195.37.151]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.168.1
+  2     1 ms    <1 ms    <1 ms  205.155.237.65
+  3     3 ms     3 ms     3 ms  137.164.7.154
+  4     4 ms     4 ms     4 ms  137.164.11.82
+  5     7 ms     7 ms     7 ms  64.57.20.82
+  6    69 ms    69 ms    70 ms  163.253.1.50
+  7    70 ms    70 ms    70 ms  163.253.1.115
+  8    70 ms    69 ms    70 ms  163.253.1.168
+  9    71 ms    69 ms    70 ms  163.253.1.251
+ 10    70 ms    73 ms    72 ms  163.253.2.28
+ 11    71 ms    71 ms    71 ms  163.253.2.73
+ 12    73 ms    71 ms    71 ms  163.253.1.210
+ 13    72 ms    72 ms   101 ms  163.253.1.122
+ 14    70 ms    69 ms    68 ms  163.253.1.133
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19    68 ms    68 ms    68 ms  23.195.37.151
+
+Trace complete.
+
+C:\Users\terminal16>
+
+```
 # @usgs @nasa @nasa-jpl @noaa @nealfennimore @LibraryOfCongress @whitehouse @cityoflosangeles [RepkarenBass](https://www.bing.com/search?q=mayor%20karen%20bass%20los%20angeles&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=mayor%20karen%20bass%20los%20angeles&sc=7-28&sk=&cvid=AD521AE9D4ED4D73AC365DD94298EE50) @LibraryOfCongress i was doing som research on [Griffith Observatory](https://www.bing.com/search?q=griffith+observatory&cvid=ef2fa422c31e46199dc12ef42a8a56dd&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGD3SAQg2MTExajBqOagCALACAA&FORM=ANAB01&PC=DCTS) an i lost access, im scared [Los Angeles Metro](https://www.fortinet.com/resources/cyberglossary/traceroutes) done been attacked 
 ![IMG_20250706_223659_1](https://github.com/user-attachments/assets/69d93158-0c18-4c9e-9017-732db6d85137) @LACMTA i hope i dont sound crazy, but if i cant get clean packets back from [Whitehouse.GOV](https://www.whitehouse.gov/) something is wrong! 
 i cant ping a nasa subdomain from [south pasadena](https://www.bing.com/search?q=south+pasadena+library&cvid=ebc7383a5baf472a839e302cc93aaa88&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEIMzQ4N2owajSoAgCwAgA&FORM=ANAB01&PC=DCTS) [library](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) so i dont know that might be normal 
