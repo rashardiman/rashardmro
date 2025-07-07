@@ -20,18 +20,19 @@ mermaid: true
 # California Linux :  [OutLook](https://youtu.be/xJLCSOBOEMI)/[Android](https://support.microsoft.com/en-us/topic/using-microsoft-launcher-on-android-c59f2824-0218-ae6d-3666-d93a7fc537e0) + the vortex of [traceroute](https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05525v.jpg) [
 
 <object data="https://archive.org/embed/screen-recording-2025-07-07-123028" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+[@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
 
 <div class="tupperware">
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://archive.org/download/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
+	<source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">	 
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-182220.mp4" type="video/mp4">	 
+	<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">	 
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+	<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">	 
 </video> 
 </div>
 
