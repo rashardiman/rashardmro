@@ -25,7 +25,132 @@ mermaid: true
  
 </div>
 
-[Los Angeles Department of City Planning @cityoflosangeles @stateofcalifornia](https://planning.lacity.gov/StaffRpt/CHC/8-21-08/CHC-2008-2724.pdf)
+
+@cityuoflosangeles @atfweb @fbicyber @nasa-jpl @nasa @whitehouse
+I can make clean trace routes from [TheMetro](metro.net) but not [PasadenaLibrary](https://www.bing.com/search?q=south%20pasadena%20libratry&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=south%20pasadena%20libratry&sc=8-23&sk=&cvid=6196CEFDA9594F73A7C3CDB506FB6CA2) to [Lacity.gov/org](https://lacity.org/)
+```
+Tracing route to whitehouse.gov [192.0.66.51]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms     1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    13 ms    11 ms    11 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    11 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    13 ms    11 ms    11 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    12 ms    12 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    11 ms  192.0.66.51
+
+Trace complete.
+
+C:\Users\terminal16>
+C:\Users\terminal16>tracert lacity.gov
+
+Tracing route to lacity.gov [23.195.37.151]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms     1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     4 ms     4 ms     4 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     5 ms     6 ms     6 ms  hundredge-0-0-0-24.10.core2.losa.net.internet2.edu [64.57.20.82]
+  6    70 ms    70 ms    69 ms  fourhundredge-0-0-0-21.4079.core1.losa.net.internet2.edu [163.253.1.50]
+  7    71 ms    70 ms    70 ms  fourhundredge-0-0-0-2.4079.core2.salt.net.internet2.edu [163.253.1.115]
+  8    69 ms    69 ms    71 ms  fourhundredge-0-0-0-0.4079.core2.denv.net.internet2.edu [163.253.1.168]
+  9    69 ms    72 ms    72 ms  fourhundredge-0-0-0-0.4079.core2.kans.net.internet2.edu [163.253.1.251]
+ 10    69 ms    71 ms    69 ms  fourhundredge-0-0-0-0.4079.core1.chic.net.internet2.edu [163.253.2.28]
+ 11    71 ms    69 ms    69 ms  fourhundredge-0-0-0-12.4079.core1.eqch.net.internet2.edu [163.253.2.73]
+ 12    69 ms    70 ms    69 ms  fourhundredge-0-0-0-0.4079.core1.clev.net.internet2.edu [163.253.1.210]
+ 13    71 ms    72 ms    70 ms  fourhundredge-0-0-0-3.4079.core1.ashb.net.internet2.edu [163.253.1.122]
+ 14    68 ms    68 ms    68 ms  163.253.1.133
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19    68 ms    68 ms    69 ms  a23-195-37-151.deploy.static.akamaitechnologies.com [23.195.37.151]
+
+Trace complete.
+
+C:\Users\terminal16>tracert -d lacity.gov
+
+Tracing route to lacity.gov [23.195.37.151]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.168.1
+  2     1 ms    <1 ms    <1 ms  205.155.237.65
+  3     3 ms     3 ms     3 ms  137.164.7.154
+  4     4 ms     4 ms     4 ms  137.164.11.82
+  5     7 ms     7 ms     7 ms  64.57.20.82
+  6    69 ms    69 ms    70 ms  163.253.1.50
+  7    70 ms    70 ms    70 ms  163.253.1.115
+  8    70 ms    69 ms    70 ms  163.253.1.168
+  9    71 ms    69 ms    70 ms  163.253.1.251
+ 10    70 ms    73 ms    72 ms  163.253.2.28
+ 11    71 ms    71 ms    71 ms  163.253.2.73
+ 12    73 ms    71 ms    71 ms  163.253.1.210
+ 13    72 ms    72 ms   101 ms  163.253.1.122
+ 14    70 ms    69 ms    68 ms  163.253.1.133
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19    68 ms    68 ms    68 ms  23.195.37.151
+
+Trace complete.
+
+C:\Users\terminal16>
+
+```
+# @usgs @nasa @nasa-jpl @noaa @nealfennimore @LibraryOfCongress @whitehouse @cityoflosangeles [RepkarenBass](https://www.bing.com/search?q=mayor%20karen%20bass%20los%20angeles&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=mayor%20karen%20bass%20los%20angeles&sc=7-28&sk=&cvid=AD521AE9D4ED4D73AC365DD94298EE50) @LibraryOfCongress i was doing som research on [Griffith Observatory](https://www.bing.com/search?q=griffith+observatory&cvid=ef2fa422c31e46199dc12ef42a8a56dd&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGD3SAQg2MTExajBqOagCALACAA&FORM=ANAB01&PC=DCTS) an i lost access, im scared [Los Angeles Metro](https://www.fortinet.com/resources/cyberglossary/traceroutes) done been attacked 
+![IMG_20250706_223659_1](https://github.com/user-attachments/assets/69d93158-0c18-4c9e-9017-732db6d85137) @LACMTA i hope i dont sound crazy, but if i cant get clean packets back from [Whitehouse.GOV](https://www.whitehouse.gov/) something is wrong! 
+i cant ping a nasa subdomain from [south pasadena](https://www.bing.com/search?q=south+pasadena+library&cvid=ebc7383a5baf472a839e302cc93aaa88&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEIMzQ4N2owajSoAgCwAgA&FORM=ANAB01&PC=DCTS) [library](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) so i dont know that might be normal 
+
+```
+C:\Users\terminal16>ping jpl.nasa.gov
+
+Pinging jpl.nasa.gov [35.160.65.171] with 32 bytes of data:
+Request timed out.
+
+Ping statistics for 35.160.65.171:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
+Control-C
+^C
+C:\Users\terminal16>
+```
+
+I dont know how to read a [@Microsoft Windows Traceroute @blackgirlscode](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e) but the output is cleaner @nasa-jpl ! 
+
+```shell
+C:\Users\terminal16>traceroute whitehouse.gov
+'traceroute' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\terminal16>tracert whitehouse.gov
+
+Tracing route to whitehouse.gov [192.0.66.51]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms     1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    13 ms    11 ms    11 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    11 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    13 ms    11 ms    11 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    12 ms    12 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    11 ms  192.0.66.51
+
+Trace complete.
+
+C:\Users\terminal16>
+```
+
+
+We're swamped and our servers are down.
+But we're working on it and we should be back soon. Please try again in a few minutes.
+![image](https://github.com/user-attachments/assets/10755bb6-aa0a-4fdf-8a5f-37c18dcc5923)
+
+[Looking up at the Griffith Park Observatory, Los Angeles, California](https://www.loc.gov/item/2011634703/)
+[Los Angeles Department of City Planning @cityoflosangeles @stateofcalifornia](https://planning.lacity.gov/StaffRpt/CHC/8-21-08/CHC-2008-2724.pdf) [HISTORIC AMERICAN LANDSCAPES SURVEY - GRIFFITH PARK ZOO](https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca4100/ca4161/data/ca4161data.pdf) - [LibraryOfCongress Catalog:item/ca4161](https://www.loc.gov/item/ca4161/)
 ![image](https://github.com/user-attachments/assets/cc499dc4-0653-4c8b-93b4-8753d8d91ea2)
 
 <video controls poster="https://ia903101.us.archive.org/22/items/Julyhotpepper/IMG_20250704_151750_1.jpg" >
@@ -52,6 +177,10 @@ Capitalist G. J. Griffith Donates as a
 Christmas Present a Magnificent Park Site.
 
 LOS ANGELES, Cal., Dec. 16 — G. J. Griffith has donated to this city 3000 acres of land near Elysian Park, extending out along the Los Angeles River. A large portion of this tract is susceptible of cultivation and peculiarly fitted for public park purposes. It is a beautiful combination of hills and lovely dales, with magnificent prospects of poetic retreats. This gift will make the greatest public park in the matter of acreage in the United States. Mr. Griffith's letter to the Mayor and Council apprising them of this princely donation is in part as follows: "In the course of twenty-three years' active business life in California I have become proudly attached to our beautiful city of Los Angeles, which, through its great natural advantages and its matchless climate, averaging 300 sunny days in the year, is destined to soon become a great metropolis. The arduous work of these years has been rewarded with fair success, and, recognizing the duty which one who has acquired some little wealth owes to the community in which he has prospered, and desiring to aid the advancement and happiness of the city that has been for so long and always will be my home, I am impelled to make an offer, the acceptance of which by yourselves, acting for the people, I believe will be a source of enjoyment and pride to my fellows and add a charm to our beloved city. Realizing that public parks are the most desirable feature of all cities which have them, and that they lend an attractiveness and beauty that no other adjunct can, I hereby propose to present to the city of Los Angeles, as a Christmas gift, a public park of about 3000 acres of land in one body, situated a fraction over a mile north of the northern city line, including two and a half miles of the frostiess foothills bordering on the Cahuenga Valley, five miles of the Los Angeles River bottom— the lands generally known as the Ostrich Farm, and the beautiful little valley which was called the Press Colony site; also with these lands the improvements thereon, consisting of several buildings and a water plant, with tunnels and piping, the original cost of these having been over $10,000, and all of which will be of service and benefit in improving the park. This gift enables Los Angeles to at last have what was most needed — a magnificent breathing soot, susceptible of the highest development, the delight of the people of Los Angeles and the wonder and Admiration of the people from other localities." - [San Francisco Call, Volume 81, Number 17, 17 December 1896](https://cdnc.ucr.edu/?a=d&d=SFC18961217.2.32.1&e=-------en--20--1--txt-txIN--------)
+
+[A sparkling musical revue "Gaieties of 1936"](https://www.loc.gov/item/98517712/)
+[The Greek Theatre](https://www.lagreektheatre.com/)
+![gREEKtHEATER](https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05525v.jpg)
 
 ---
 
