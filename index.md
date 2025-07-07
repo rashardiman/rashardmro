@@ -25,7 +25,7 @@ mermaid: true
  
 </div>
 
-[Los Angeles Department of City Planning @cityoflosangeles @stateofcalifornia](https://planning.lacity.gov/StaffRpt/CHC/8-21-08/CHC-2008-2724.pdf) [HISTORIC AMERICAN LANDSCAPES SURVEY - GRIFFITH PARK ZOO](https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca4100/ca4161/data/ca4161data.pdf)
+[Los Angeles Department of City Planning @cityoflosangeles @stateofcalifornia](https://planning.lacity.gov/StaffRpt/CHC/8-21-08/CHC-2008-2724.pdf) [HISTORIC AMERICAN LANDSCAPES SURVEY - GRIFFITH PARK ZOO](https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca4100/ca4161/data/ca4161data.pdf) - [LibraryOfCongress Catalog:item/ca4161](https://www.loc.gov/item/ca4161/)
 ![image](https://github.com/user-attachments/assets/cc499dc4-0653-4c8b-93b4-8753d8d91ea2)
 
 <video controls poster="https://ia903101.us.archive.org/22/items/Julyhotpepper/IMG_20250704_151750_1.jpg" >
