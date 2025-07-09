@@ -17,7 +17,11 @@ mermaid: true
 </div>
 
 
+[https://ode.rsl.wustl.edu/mars/](https://ode.rsl.wustl.edu/mars/)
+
+
 # California Linux :  [OutLook](https://youtu.be/xJLCSOBOEMI)/[Android](https://support.microsoft.com/en-us/topic/using-microsoft-launcher-on-android-c59f2824-0218-ae6d-3666-d93a7fc537e0) + the vortex of [traceroute](https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05525v.jpg) [
+
 
 <object data="https://archive.org/embed/screen-recording-2025-07-07-123028" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 [@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
@@ -46,6 +50,7 @@ mermaid: true
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) 
+
 
 
 @cityuoflosangeles @atfweb @fbicyber @nasa-jpl @nasa @whitehouse
