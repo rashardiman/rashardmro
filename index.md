@@ -18,6 +18,7 @@ mermaid: true
 
 # Compiling
 
+<iframe src="https://archive.org/embed/mariner9_tv_companionbook-12" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # 6/4/2020 checking in 
 
