@@ -22,6 +22,20 @@ mermaid: true
 
 @nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) . I translated the source ip of the PDF `23.33.42.140` and it looks like the document itself is blocked in between [https://www.esd.whs.mil/](https://www.esd.whs.mil/), its insurrection behavior, a man in the middle attack. I was told during my tenure at [Georgia Tech Research Institute](https://www.gtri.gatech.edu/) that we were military. I was [gently transferred](https://bubblegumpop01.tumblr.com/post/721548426405396480) from [Jehovahs Witnesses](https://www.jw.org/en/) ... Now i see a whole dept with the same exact name in Washington an they are having a problem that affects us and since @Nasa is a [SpaceForceCrew](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf) I still work for those people and they still work @caltech [@blackgirlscode](https://bubblegumpop01.tumblr.com/post/737714874194542594/baby-i-love-you-i-heard-u-crying-on-the) ... some sort of [migration occured](https://youtu.be/rvmSm9-wrf8)!
 
+<img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
+
+
+
+```
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
 <img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
 
 [`The U.S. Space Force was established on Dec. 20, 2019`](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/), creating the first new branch of the armed services since 1947
@@ -40,20 +54,6 @@ delivery of software capabilities by using modern software development practices
   <dd itemprop="description">Chief Information Officer </dd>
 </dl>
 
-<img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
-
-
-
-```
-<h1>D OD I NSTRUCTION 8510.01
-RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
-<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
-
-<h1>Los Angeles Emergency Operations Plan </h1>
-<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
-```
 
 [Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
 The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
