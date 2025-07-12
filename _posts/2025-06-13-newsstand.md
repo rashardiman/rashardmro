@@ -13,6 +13,7 @@ author: "RashardKelly @nasa-jpl"
 [LAPL Blocking lacity.gov @cityoflosangeles @stateofcalifornia](https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf) Documents
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6151d655-b72b-4c93-915c-1899271c7159" />
 
+```
 <h1>NIST SPECIAL PUBLICATION 1800-21
 Mobile Device Security:</h1>
 <object data="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-21.pdf" width="550" height="400">
@@ -26,6 +27,7 @@ RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
 <h1>Los Angeles Emergency Operations Plan </h1>
 <object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
 
 @nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) . I translated the source ip of the PDF `23.33.42.140` and it looks like the document itself is blocked in between [https://www.esd.whs.mil/](https://www.esd.whs.mil/) & [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/How-Do-I/Apply-For/Library-Card) its [insurrection behavior](https://cha.house.gov/2024/11/dod-inspector-general-concealed-january-6-evidence), a [man in the middle attack](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack) 
 `[cite]` 
