@@ -9,6 +9,9 @@ author: "RashardKelly @nasa-jpl"
 
 
 # Compiling
+@nasajpl @blackgirlscode 
+[LAPL Blocking lacity.gov @cityoflosangeles @stateofcalifornia](https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf) Documents
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6151d655-b72b-4c93-915c-1899271c7159" />
 
 <h1>NIST SPECIAL PUBLICATION 1800-21
 Mobile Device Security:</h1>
