@@ -9,6 +9,71 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+### Related Tweets
+- [#its_Rashard iSigned up for the #ECOSTRESS_WORKSHOP #NASAJPL PasadenaFD](https://x.com/RicoThaka/status/1835051975114998091)
+- [#Akire Uhave #FaceToFaceHistory with @B2K @marqueshouston!he works for 911LAPD today](https://x.com/MooNLOVER404/status/1834654762064863649) I wrote @normani a mushy note an #the_nigga_forced_me_to submit a #FingerPrint! and called me #Transient! *there was twitter rhythm in the detainiment*
+[@uspto those #Perl sites are blocked  @LAPublicLibrary http://appft.uspto.gov and http://pdfaiw.uspto.gov @esa @nickyjenner1 @nasamars #Help #XML](https://x.com/MooNLOVER404/status/1834668119840981019)
+[Ms Karen Bass I got the Covid Patents from pdfaiw.uspto.gov](https://x.com/RicoThaka/status/1833658284961882433)
+[My History NASAJPL+JEHOVAHSWiTNESSES](https://x.com/MooNLOVER404/status/1740842550393712971)
+[VanishingFamily](https://x.com/MooNLOVER404/status/1740840534099525978)
+[NASAJPL on HOLLYWOOD WALK OF FAME](https://x.com/MooNLOVER404/status/1761520866612187488)
+[Rumatoid Authritis ,,, is it Chemwar?](https://x.com/RicoThaka/status/1729962943025148011) 
+[LA COUNTY MAPPiNG DATA](https://x.com/RicoThaka/status/1832207566585393420)
+
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+@ nasa-jpl i have been sharing this url [https://rashardmro.github.io/](https://rashardmro.github.io/) as my [@LinkedIn](https://www.linkedin-status.com/), its just too disrespecful [@whitehouse](https://www.whitehouse.gov/news/) when i got into the relationship with the girl who is [The Teacher](https://www.youtube.com/watch?v=CiU3vIEdRMI&ab_channel=SaturdayNightLive) in that snl skit sister or whatever started raiding my fridge and my bed linkdin collapsed! I started getting thrown in the mental hospital in georgia an linkedin got status like [@github](https://www.githubstatus.com/) so since we all monitor things [like that](https://www.earthdata.nasa.gov/data/alerts-outages) . . .
+[Georgia Gateway](https://m.gateway.ga.gov/home)
+[Gateway Behavioral Health Crisis Center - https://gatewaycsb.org/](https://gatewaycsb.org/)
+![image](https://github.com/user-attachments/assets/27b654db-df14-484d-8854-d210589a8d54)
+
+![image](https://github.com/user-attachments/assets/a1c5fcc8-0c17-4cbe-a918-dc8a293a87de)
+
+# Pair released after shooting near Georgia Regional Hospital @ajc
+By [`Asia Simone Burns`](https://www.ajc.com/staff/asia-simone-burns/)
+@blackgirlscode [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@Asia_EyeCandii__-blue?style=social&logo=X)](https://twitter.com/Asia_EyeCandii) [![Twitter Follow](https://img.shields.io/badge/Social-@ajc__-blue?style=social&logo=X)](https://twitter.com/ajc)
+Two bail bondsmen are free after an incident near Georgia Regional Hospital in DeKalb County, police confirmed to AJC.com.[Read @ajc](https://www.ajc.com/news/breaking-news/breaking-bounty-hunters-custody-after-shooting-near-georgia-regional-hospital/8S3qtvGjisoxl63ubxq7aN/)
+
+![image](https://github.com/user-attachments/assets/bd442f11-5dfb-4274-b269-c2d2e0f2149b)
+
+~ [ Division of Behavioral Health manages programs and services delivered by DBHDD’s community-based behavioral health providers for timely access to high-quality behavioral health treatment and support services. @nasa-jpl @whitehouse @nasa @blackgirlscode](https://dbhdd.georgia.gov/be-dbhdd)
+![https://careers.dbhdd.ga.gov/wp-content/uploads/2025/02/logo.svg](https://careers.dbhdd.ga.gov/wp-content/uploads/2025/02/logo.svg)
+
+## Video: What’s it’s like to report on the scene of Atlanta homicide
+[John Spink, Asia Simone Burns and Tyson A. Horne](https://www.ajc.com/news/crime/video-whats-its-like-to-report-on-the-scene-of-atlanta-homicides/UGMIXINKNRHRTE6Y5A2FBMOSX4/)
+
+# TamronHAllEmbed letter @nasa-jpl @w3c
+[SHaaDiThakaRashardRiCoTHakA - https://thakarashard.github.io/](https://thakarashard.github.io/) i asked her to check out embedding [i made a pen on @codepen](https://codepen.io/thakarashard/pen/EajrepQ)
+![image](https://github.com/user-attachments/assets/a9db042b-cf94-452a-8190-feae2bdf20eb)
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="EajrepQ" data-pen-title="tupperwareCol_6/20/2025" data-preview="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/EajrepQ">
+  tupperwareCol_6/20/2025</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<script async src="https://public.codepenassets.com/embed/index.js"></script>
+
+![image](https://github.com/user-attachments/assets/a4964b6c-8be0-4a48-aa00-3df0c48d6301)
+
+
+@stateofcalifornia @cityoflosangeles @whitehouse
+### Corals Birthday
+<iframe src="https://www.facebook.com/plugins/video.php?height=316&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817758251719157%2F&show_text=true&width=560&t=0" width="560" height="431" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Earth &gt;&gt; &lt;&lt; Psyche<br><br>DSOC, a tech demo on <a href="https://twitter.com/hashtag/MissionToPsyche?src=hash&amp;ref_src=twsrc%5Etfw">#MissionToPsyche</a>, works so well that it has graduated from sending pre-loaded test data (remember Taters the laser cat?) to transmitting actual spacecraft telemetry: <a href="https://t.co/Ly6pzLKryY">https://t.co/Ly6pzLKryY</a> <a href="https://t.co/nNUewrYXIr">pic.twitter.com/nNUewrYXIr</a></p>&mdash; NASA JPL (@NASAJPL) <a href="https://twitter.com/NASAJPL/status/1783552992970699171?ref_src=twsrc%5Etfw">April 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02iPM9McWT1JsHyAf8B6Qch1Ax7VoZB1UnkUusmTdrwVP19K8966ub7gVjdMVMfgCPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0QwJGwUe3PxfsZCWdgz9x44RtERmubdW4H6Pu5Avu545c9BHiauL8JDqqm7e6i2r7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii8ItlirOz4?si=egwi7ePFDJA1GUbL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/screen-recording-2025-05-20-7.27.23-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid023tsgdSaRS8PLbPFemn5qSX7jb15U4hZm6tFSQAhsBgiFZ68y7kA7uHohXvDoWkHQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0GiADU2ChM85uGZiCJ5TmTztVnwbbbE48xa6dqQMMaeZ48miuaq2BPigxtu3HMsx7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+# _Mary J. Blige - Sincerity (feat. DMX & Nas)_ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0PhxOv_8D0?si=SPCZ8E79-hWNfuxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # @nasa-jpl @nasa 
 I really want someone with a sincere desire to clear trauma to listen to [Oj Da Juiceman](https://www.tiktok.com/discover/oj-da-juiceman-freestyle-xxl) in this era to see how the enviroment can make me run behind on taking care of duties at the lab and y taking care of coral was the umber one priority when [erika](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/#:~:text=Erika%20Renee%20Johnson%20Kelly%20has%20been%20found%20safe%2C%20a%20spokesperson,was%20located%20in%20Canton%2C%20Georgia.) went nuts with those [artists and ball players](https://www.instagram.com/reel/CxwJg_YA6-a/), he still talked to me, he might be nas brother, Either way you will enjoy your next trip to [Fernbank alot more](https://www.fernbankmuseum.org/) and help us heal the city, even if i made the comment at griffith about it dissolving, thats the crime, theres a healthy population that honestly need guidance. Jehovahs Witnesses like a lot of ppl from religion have nothing to do now bc they were loyal and the Laity was [corrupt](https://girlsunited.essence.com/feedback/news/latto-receives-key-to-the-city/) across all faiths. 
