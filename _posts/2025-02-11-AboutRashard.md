@@ -5,7 +5,19 @@ published: true
 title: About Rashard
 image: rashardMRO.jpeg
 ---
-@nasa-jpl [ThisPost](https://bubblegumpop01.tumblr.com/post/718061386312417280) = [dance411](https://yandex.com/search?text=dance411+atlanta&lr=103322&search_source=yacom_desktop_common) [studios](https://ballroomdances.org/listing/dance-411-studios/)
+
+
+<img  src="https://github.com/user-attachments/assets/3d6145c6-c216-4f6d-87ee-f3953365d793" />
+
+[@nasa @whitehouse @blackgirlscode:Commit ef54de2
+](https://github.com/rashardiman/rashardmro/commit/ef54de2871988189930f37162b9326231e92da08)
+[RashardthakaKelly](https://app.docker.com/accounts/rashardthakakelly) @nasa-jpl there are other accounts but at this rate this is where i am and where my training[backlog]is hosted 
+![DockerinWhite](https://raw.githubusercontent.com/rashardiman/rashardmro/ef54de2871988189930f37162b9326231e92da08/assets/images/docker_src/docker-logo-white.png)
+
+
+[Firefox user 19101034/ - Rashard Kelly @mozilla](https://addons.mozilla.org/en-US/firefox/user/19101034/)
+
+@nasa-jpl [ThisPost](https://bubblegumpop01.tumblr.com/post/718061386312417280) = [dance411](https://yandex.com/search?text=dance411+atlanta&lr=103322&search_source=yacom_desktop_common) [studios](https://ballroomdances.org/listing/dance-411-studios/) 
 ![image](https://github.com/user-attachments/assets/44ad672b-dd03-47ee-b791-7af570860e39)
 
 @nasa-jpl @stateofcalifornia @cityoflosangeles [RepKarenBass](https://archive.org/details/image-1-01) 
