@@ -16,7 +16,7 @@ author: "RashardKelly @nasa-jpl"
 <img  alt="image" src="https://github.com/user-attachments/assets/9d20cb60-7d68-4af2-b2ea-921ff680bfa8" />
 
 [2025 SINGLES CONFERENCE](https://www.lphfamily.org/wp-content/uploads/2025/07/SINGLES-2025-GPS-CONFERENCE-768x543.jpg)
-@nasa-jpl i want @blackgirlscode to know im listening to normal stations, im not doing the [jehovahwitnesbrothercreep]() and im only going if someone from work sees me with a group to go. Im not going places with no people that know me - [Rashard](rashardci.github.io)
+@nasa-jpl i want @blackgirlscode to know im listening to normal stations, im not doing the [jehovahwitnesbrothercreep](https://www.jwmatch.com/s/) and im only going if someone from work sees me with a group to go. Im not going places with no people that know me - [Rashard](rashardci.github.io)
 @nasajpl @blackgirlscode 
 [Comedienne Kyria Abrahams Discusses Her Memoir I'm Perfect, You're Doomed](https://www.youtube.com/watch?v=TL8xVBWJLbw)
 [I'm Perfect, You're Doomed: Tales from a Jehovah's Witness Upbringing
