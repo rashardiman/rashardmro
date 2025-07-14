@@ -19,6 +19,61 @@ mermaid: true
 </article>
 
   {% endfor %}
+</h1>7 Facebook and the Dark Web: A Collision</h1>
+
+Chapter Abstract:
+“I2P: Who needs the IETF?”—From jrandom's collected I2P quotations Facebook's Tor hidden service, found at https://facebookcorewwwi.onion, is lightning in a bottle. It is at the intersection of all three legitimacies analyzed in this book: state delegation of rules and regulations to a standards body (in this case, the Internet Engineering Task Force [IETF]); corporate propriety (DigiCert, Facebook); nonprofit propriety (the Tor Project); hacker legitimacy (the [now disgraced] hacker wunderkind Jacob Appelbaum); and Dark Web authenticity (the notoriety of Silk Road). Thus, Facebook on Tor is an association of state-delegated power, respect of resources, and authenticity. It is also a symbol of the blurred lines between the Dark Web and the Clear Web, a collision of legitimation and delegitimation.
+Page(s): 195 - 220
+Copyright Year: 2018
+Online ISBN:9780262347587
+DOI: 10.7551/mitpress/11266.001.0001
+Publisher: MIT Press <a href="https://ieeexplore.ieee.org/document/8544232">READ_MORE</a>
+</h1>“Dark Web” Version of Facebook Shows a New Way to Secure the Web</h1>
+	<a href="https://www.bbva.com/en/innovation/dark-web-version-facebook-shows-new-way-secure-web/">Facebook says  </a>
+it launched the site to better serve people who already access its services via Tor but are sometimes blocked by its automatic security controls. The organization behind Tor says hundreds of thousands of people access the site this way, for example from within Iran and China, countries where government authorities block Facebook access.
+
+The new .onion site will prevent Tor users from being blocked and also offers additional security. Security experts that advised Facebook on its new service say it shows how Web companies can help people preserve their security and anonymity online.
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Facebook_logo_%282023%29.svg" />
+The Facebook onion address located at https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/[2][1] (formerly facebookcorewwwi.onion) is a site that allows access to Facebook through the Tor protocol, using its .onion top-level domain.[3][4] [Wiki](https://en.wikipedia.org/wiki/Facebook_onion_address)
+	
+<h1>AXIOM-4 SPLASHDOWN, July 15, 2025, coastal California, 5:31 am ET</h1>
+During undocking activities on July 14, the webcast commentator said Axiom-4 will splashdown on July 15 at 5:31 am ET off the coast of California, about 22.5 hours after undocking.  SpaceX has moved all of its splashdowns (Dragon recovery locations) for crew and cargo to off the coast of California instead of Florida. [spacepolicyonline.com](https://spacepolicyonline.com/events/axiom-4-splashdown-july-15-2025-coastal-california-531-am-et/)
+<img src="https://spacepolicyonline.com/wp-content/uploads/2025/03/dragon-recovery-locations-CA-768x366.png" />
+	
+# Monitoring California Groundwater
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
+  video.
+</video>
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/ef5fa1ca-1c6b-4b60-9b72-ec7c7e60de55" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9d20cb60-7d68-4af2-b2ea-921ff680bfa8" />
+[2025 SINGLES CONFERENCE](https://www.lphfamily.org/wp-content/uploads/2025/07/SINGLES-2025-GPS-CONFERENCE-768x543.jpg)
+@nasa-jpl i want @blackgirlscode to know im listening to normal stations, im not doing the [jehovahwitnesbrothercreep](https://www.jwmatch.com/s/) and im only going if someone from work sees me with a group to go. Im not going places with no people that know me - [Rashard](rashardci.github.io)
+@nasajpl @blackgirlscode 
+[Comedienne Kyria Abrahams Discusses Her Memoir I'm Perfect, You're Doomed](https://www.youtube.com/watch?v=TL8xVBWJLbw)
+[I'm Perfect, You're Doomed: Tales from a Jehovah's Witness Upbringing
+Kyria Abrahams](https://goodreads.com/book/show/3905412.I_m_Perfect__You_re_Doomed_Tales_From_A_Jehovah_s_Witness_Upbringing) [REDDiT](https://www.reddit.com/r/exjw/comments/239svf/im_perfect_youre_doomed_tales_of_a_jehovahs/) [BnN](https://www.barnesandnoble.com/w/im-perfect-youre-doomed-kyria-abrahams/1100365701)
+
+<iframe  src="https://www.youtube.com/embed/TL8xVBWJLbw?si=Nlzs6F3Qt4GqgwRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<div class="tupperware">
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/59f16bc3-6116-4b17-be97-c2e77a9666d8" />
+<img  alt="image" src="https://github.com/user-attachments/assets/0e9bf9cb-be78-4d20-86f0-632fedba191c" />
+
+</div>
+
+# ping [-c2](https://www.redhat.com/en/blog/ping-usage-basics) ice.gov
+# ping [-n](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) 2 ice.gov
+
 
 # About the International Space Station
 The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/)
