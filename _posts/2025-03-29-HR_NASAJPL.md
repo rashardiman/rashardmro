@@ -8,6 +8,9 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cd34xq0wNw?si=-Ilm7GcaMbYCasDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
 
 ### Related Tweets
 - [#its_Rashard iSigned up for the #ECOSTRESS_WORKSHOP #NASAJPL PasadenaFD](https://x.com/RicoThaka/status/1835051975114998091)
