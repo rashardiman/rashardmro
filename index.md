@@ -12,7 +12,7 @@ mermaid: true
 
 <img src="https://dodcio.defense.gov/portals/0/Images/CIOPPT1.png" alt="Cyber Workforce"/>
 
-[The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) m@blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
+[The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
 
 [tracesafe](https://raw.githubusercontent.com/kellyrashardiman/ricothaka/refs/heads/master/assets/plots/lbc.sh)
 
