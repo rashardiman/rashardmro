@@ -14,7 +14,7 @@ mermaid: true
 
 ![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 
-@nasa-jpl i hope this mades it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
+@nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
 [splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
 
 ### WebSite Analytics [rashard_mro @nasa @whitehouse @google @nasa-jpl @deptofdefense @atfweb @dhs-gov @stateofcalifornia good morning + @blackgirlscode](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727)
