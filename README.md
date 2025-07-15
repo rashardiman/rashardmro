@@ -10,6 +10,8 @@
 ![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 
 
+@google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
+<img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
 
 
 
