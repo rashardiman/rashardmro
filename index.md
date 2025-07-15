@@ -4,6 +4,22 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
 
 # Compiling
 `ping -c 2 ice.gov`
@@ -618,22 +634,7 @@ on [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Element
 
 
 
-
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
-
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
-</h1>7 Facebook and the Dark Web: A Collision</h1>
+<h1>7 Facebook and the Dark Web: A Collision</h1>
 
 Chapter Abstract:
 “I2P: Who needs the IETF?”—From jrandom's collected I2P quotations Facebook's Tor hidden service, found at https://facebookcorewwwi.onion, is lightning in a bottle. It is at the intersection of all three legitimacies analyzed in this book: state delegation of rules and regulations to a standards body (in this case, the Internet Engineering Task Force [IETF]); corporate propriety (DigiCert, Facebook); nonprofit propriety (the Tor Project); hacker legitimacy (the [now disgraced] hacker wunderkind Jacob Appelbaum); and Dark Web authenticity (the notoriety of Silk Road). Thus, Facebook on Tor is an association of state-delegated power, respect of resources, and authenticity. It is also a symbol of the blurred lines between the Dark Web and the Clear Web, a collision of legitimation and delegitimation.
