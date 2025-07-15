@@ -8,7 +8,14 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
+<img alt="Congratulations to Michael McCarriagher on his promotion to Assistant Deputy Director (ADD) of the GBIs Division of Forensic Sciences. 
+ADD McCarriagher will be responsible for the oversight of regional laboratories and departments within the Headquarters Crime Lab facility. Crime Lab staff include managers, assistant managers, scientists, laboratory technicians, and trainees.
+I am pleased to announce the promotion of ADD Michael McCarriagher. He is an exceptionally skilled forensic scientist whose leadership will continue to uphold the mission and values of the GBI. His extensive experience and proven dedication make him a tremendous asset to his department, and I am confident he will excel in his new role. - GBI Director Chris Hosey
+aDD Michael McCarriagher is an exceptional manager in the Division of Forensic Sciences with extensive experience across multiple roles within the Trace Evidence section of the GBI Crime Lab, said GBI Crime Lab Director Cleveland Miles. Given his strong background and proven expertise, I am confident that he will exceed expectations in his new role as Assistant Deputy Director" src="https://github.com/user-attachments/assets/359b1a88-88a9-4c12-9f57-ef2bedc1e3ae" />
 
+
+did i attack him St. Francis Center earlier ? #Undercover ? https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250714-202653.mp4 anyway NBC LA use #PeePeeMail so its hard to get to a lot of shit NASA Space Communications and Navigation how can i not be hurt by your management? I was supressed and could not find anything to track Axiom Space! and missed the event, someone poisoned me bad and i got sleepy but NASA Jet Propulsion Laboratory Bill Nelson if i had a special app to always have the updates i could have navigated the poisoner! #yourfault! #myfault for listening to music at work NASA Mars #JUNO bc i was told we need the normal population tracking things confidently and #CitizenScience is a mandate of the state of California Gavin Newsom i think im wrong again, but i think u just take charming photos... Congressmember Karen Bass Keisha Lance Bottoms DeKalb County Police Department
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid0364D582iizGsCQ2jK9LSumh5p7bfBSpxkMCc9TQDU43suWVsiy8JD5NDZvMdM61Rl&show_text=true&width=500" width="500" height="738" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
 
