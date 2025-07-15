@@ -9,27 +9,32 @@ mermaid: true
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
 
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
 
 # Compiling
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-@nasa-jpl i hope this makes it through, its another [WeatherReport](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) in a zip file named [splashdownweather.zip](https://archive.org/download/vid-20250714-084801/splashdownweather.zip) @cityoflosangeles @stateofcalifornia we need to alert all law enforce ment of [TheSplashdown](https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/) and beware of [california](https://www.justice.gov/usao-cdca/pr/four-southern-california-men-arrested-charges-alleging-they-kidnapped-migrants-and) [poachers](https://wildlife.ca.gov/Enforcement/CalTIP) to make sure they get to [The Lab](https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/) or [AirForce base](https://www.losangeles.spaceforce.mil/), whatever applies safely
--[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html)
+@nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) in a zip file named [splashdownweather.zip](https://archive.org/download/vid-20250714-084801/splashdownweather.zip) @cityoflosangeles @stateofcalifornia we need to alert all law enforce ment of [TheSplashdown](https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/) and beware of [california](https://www.justice.gov/usao-cdca/pr/four-southern-california-men-arrested-charges-alleging-they-kidnapped-migrants-and) [poachers](https://wildlife.ca.gov/Enforcement/CalTIP) to make sure they get to [The Lab](https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/) or [AirForce base](https://www.losangeles.spaceforce.mil/), whatever applies safely
+-[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html) :: @blackgirlscode, goodluck with [The Splashdown](https://www.floridatoday.com/story/tech/science/space/2025/07/14/axiom-spacex-splashdown-california-how-watch-nasa/85189399007/) i dont know how ot track the object! :( 
 
 <iframe src="https://archive.org/embed/vid-20250714-084801" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+# Don't Be a Sucker @paramount-engineering
+Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
+[wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
+
+
+<video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
+
+  <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
+  video.
+</video>
 
 
 `ping -c 2 ice.gov`
@@ -42,6 +47,66 @@ mermaid: true
 ![PastWork](https://www.jpl.nasa.gov/nmp/st5/IMAGES/main_image.gif)
 [home](https://www.jpl.nasa.gov/nmp/st5/TECHNOLOGY/tech-index.php)
 
+[NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
+<img  alt="image" src="https://github.com/user-attachments/assets/61f95af7-74d9-419d-821a-f0d33f89b861" />
+<img  alt="image" src="https://github.com/user-attachments/assets/29c15a3c-5c67-4c1c-81ef-211c943dca99" />
+
+[LosAnglesLearning](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/12/BuildingBlocks.html) @nasa @nasa-jpl [RiotData](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/13/newsstand.html) im organizing what moved in the soil, there was a lot of [land disturbance](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/)
+<img src="https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa" alt="image"/>
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
+  <source src="https://ia800400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
+</video> 
+
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/788909022028955648" data-did="922e59ad06d993c94d54220703ea3365bb12f3a1"><a href="https://rashardmro.tumblr.com/post/788909022028955648/ice">https://rashardmro.tumblr.com/post/788909022028955648/ice</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> 
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/screen-20250712-132411.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250709-090622.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250711-221041.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+
+
+# [@github @atfweb @nasa-jpl @cityoflosangeles @stateofcalifornia @tesla @nasa @whitehouse @dhs-gov](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg/800px-%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg) [:WikiTALK:](https://en.wikipedia.org/wiki/Talk:United_States_Army_Signal_Corps)
+
+<img alt="image" src="https://github.com/user-attachments/assets/c3d689ca-796b-4faf-8a58-d42e0b6aa64a" />
+
+# Monitoring California Groundwater
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
+  video.
+</video>
+
+[SWOT Monitors Warming Waters Off California Coast
+Full Resolution](https://svs.gsfc.nasa.gov/31247/)
+![@nasa-jpl @noaa SWOT](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031247/SWOT_2023-08_ca_coast_PIA26091_print.jpg)
+
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/YouTubeThumbnail_GOES50th_GOESandEarth.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4">MP4</a>
+  video.
+</video>
 
 
 
@@ -366,82 +431,6 @@ C:\Users\terminal007>
 ```
 
 
-[NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
-<img  alt="image" src="https://github.com/user-attachments/assets/61f95af7-74d9-419d-821a-f0d33f89b861" />
-<img  alt="image" src="https://github.com/user-attachments/assets/29c15a3c-5c67-4c1c-81ef-211c943dca99" />
-
-[LosAnglesLearning](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/12/BuildingBlocks.html) @nasa @nasa-jpl [RiotData](https://rashard-ecostress-jpl-iss.github.io/rashardmro/2025/06/13/newsstand.html) im organizing what moved in the soil, there was a lot of [land disturbance](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/)
-<img src="https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa" alt="image"/>
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
-  <source src="https://ia800400.us.archive.org/19/items/screen-20250712-132411/VID_20250712_132253.ia.mp4" type="video/mp4">	 
-</video> 
-
-
-# Don't Be a Sucker @paramount-engineering
-Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
-[wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
-
-
-<video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
-
-  <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm" type="video/webm" />
-
-  Download the
-
-  or
-  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
-  video.
-</video>
-
- <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/788909022028955648" data-did="922e59ad06d993c94d54220703ea3365bb12f3a1"><a href="https://rashardmro.tumblr.com/post/788909022028955648/ice">https://rashardmro.tumblr.com/post/788909022028955648/ice</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> 
-<div class="tupperware">
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600400.us.archive.org/19/items/screen-20250712-132411/screen-20250712-132411.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250709-090622.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600907.us.archive.org/7/items/CaliforniaLinuxSortWorkReportscreen-20250709-192118/screen-20250711-221041.mp4" type="video/mp4">	 
-</video> 
-</div>
-
-
-
-# [@github @atfweb @nasa-jpl @cityoflosangeles @stateofcalifornia @tesla @nasa @whitehouse @dhs-gov](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg/800px-%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg) [:WikiTALK:](https://en.wikipedia.org/wiki/Talk:United_States_Army_Signal_Corps)
-
-<img alt="image" src="https://github.com/user-attachments/assets/c3d689ca-796b-4faf-8a58-d42e0b6aa64a" />
-
-# Monitoring California Groundwater
-<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
-
-  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
-
-  Download the
-
-  or
-  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
-  video.
-</video>
-
-[SWOT Monitors Warming Waters Off California Coast
-Full Resolution](https://svs.gsfc.nasa.gov/31247/)
-![@nasa-jpl @noaa SWOT](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031247/SWOT_2023-08_ca_coast_PIA26091_print.jpg)
-
-<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/YouTubeThumbnail_GOES50th_GOESandEarth.jpg">
-
-  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4" type="video/mp4" />
-
-  Download the
-
-  or
-  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014756/14756_GOES_50th_FINAL_1080.mp4">MP4</a>
-  video.
-</video>
 
 
 # ガンスミス キャッツ
@@ -456,6 +445,17 @@ Full Resolution](https://svs.gsfc.nasa.gov/31247/)
 <img alt="image" src="https://github.com/user-attachments/assets/59621cd5-5bca-4265-a8a1-c4c971c71d25" />
 
 
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
 
 [Current @ajc @datadesk @nasa @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,aqua_crc,earth;@-82.5,30.7,7.4z) 
 
