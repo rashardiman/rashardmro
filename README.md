@@ -12,6 +12,7 @@
 
 @google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
 <img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
+<img alt="image" src="https://github.com/user-attachments/assets/3430e185-98e9-4ef0-8f99-0edf18a78fea" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
 
