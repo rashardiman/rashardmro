@@ -22,15 +22,32 @@ mermaid: true
   {% endfor %}
 
 # Compiling
-`ping -c 2 ice.gov`
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+@nasa-jpl i hope this makes it through, its another [WeatherReport](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) in a zip file named [splashdownweather.zip](https://archive.org/download/vid-20250714-084801/splashdownweather.zip) @cityoflosangeles @stateofcalifornia we need to alert all law enforce ment of [TheSplashdown](https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/) and beware of [california](https://www.justice.gov/usao-cdca/pr/four-southern-california-men-arrested-charges-alleging-they-kidnapped-migrants-and) [poachers](https://wildlife.ca.gov/Enforcement/CalTIP) to make sure they get to [The Lab](https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/) or [AirForce base](https://www.losangeles.spaceforce.mil/), whatever applies safely
+-[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html)
 
+<iframe src="https://archive.org/embed/vid-20250714-084801" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+`ping -c 2 ice.gov`
 <img src="https://dodcio.defense.gov/portals/0/Images/CIOPPT1.png" alt="Cyber Workforce"/>
 
 [The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
 
-[tracesafe](https://raw.githubusercontent.com/kellyrashardiman/ricothaka/refs/heads/master/assets/plots/lbc.sh)
+![earth MAgenetosPhere](https://www.jpl.nasa.gov/nmp/st5/IMAGES/magfield-lrg.jpg)
+![](https://www.jpl.nasa.gov/nmp/st5/IMAGES/st5-banner.gif)
+![PastWork](https://www.jpl.nasa.gov/nmp/st5/IMAGES/main_image.gif)
+[home](https://www.jpl.nasa.gov/nmp/st5/TECHNOLOGY/tech-index.php)
+
+
+
+
+
+
+
 
 @nasa-jpl @podaac im not picking on peopell in this script!  [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676) its [The Doxxing](https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed)! [DHS investigated over 5,000 student protesters listed on doxxing website: Official](https://abcnews.go.com/US/dhs-investigated-5000-student-protesters-listed-doxxing-website/story?id=123619284)
 [Anarchists and Rioters in Portland Illegally Dox ICE Officers and Federal Law Enforcement](https://www.dhs.gov/news/2025/07/11/anarchists-and-rioters-portland-illegally-dox-ice-officers-and-federal-law)
