@@ -13,8 +13,13 @@
 @google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
 <img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
 <img alt="image" src="https://github.com/user-attachments/assets/3430e185-98e9-4ef0-8f99-0edf18a78fea" />
+<img alt="image" src="https://github.com/user-attachments/assets/bb395cf2-1c8c-42d5-a5b5-06e3fc7a117d" />
+<img alt="Top pages/screens" src="https://github.com/user-attachments/assets/30f3549a-fadd-4e5c-a8b4-0955d3edd10d" />
+<img alt="///" src="https://github.com/user-attachments/assets/c73f3107-6b97-4c57-b5e9-e00401bd8681" />
+<img alt="Landing page: Landing page" src="https://github.com/user-attachments/assets/dc62681b-61f4-47fd-a846-f1cb66fcd107" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
+<img alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
+<img alt="image" src="https://github.com/user-attachments/assets/cdd53b3c-03fc-48fa-ba7d-1e28cdd0a049" />
 
 
 # [doxxed](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) @nasa-jpl ?@nasa @whitehouse @cityoflosangeles please understand im finding out who my responsible relatives are and i work with dangerous equipment and hold secrets that are not for ppl that might be annoying to you, but please forgive yourself because kidnapping confuses everyone @stateofcalifonia [gavin newsom](https://yandex.com/search/?text=gavin+newsome&lr=20765&search_source=yacom_desktop_common) [rep karen bass](https://yandex.com/search/?text=rep+karen+bass&lr=20765) 
