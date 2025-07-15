@@ -13,6 +13,7 @@
 @google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
 <img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
 
 
 # [doxxed](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) @nasa-jpl ?@nasa @whitehouse @cityoflosangeles please understand im finding out who my responsible relatives are and i work with dangerous equipment and hold secrets that are not for ppl that might be annoying to you, but please forgive yourself because kidnapping confuses everyone @stateofcalifonia [gavin newsom](https://yandex.com/search/?text=gavin+newsome&lr=20765&search_source=yacom_desktop_common) [rep karen bass](https://yandex.com/search/?text=rep+karen+bass&lr=20765) 
