@@ -8,6 +8,20 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
+# 
+@nasa-jpl, let everyone know that [MetroPublicWifi @LACMTA](https://www.metro.net/about/l-a-metro-city-of-los-angeles-launch-free-la-secure-mobile-phone-app-to-enhance-cybersecurity-for-metro-customers-and-other-l-a-county-residents/) is disabled by the bus termial as of today theres some scans in an archive. I dont want anyone inconviennced @Nasa-jpl @nasa @whitehouse, Im afraid Zoe Piratt poacher think i want her... My email was blocked...
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd2f9552-2aab-4a8b-8856-d906e0210bf7" />
+<img alt="image" src="https://github.com/user-attachments/assets/0e526332-3b16-4c2a-b941-5b2c6a2db508" />
+
+<img  alt="Media Briefing: NASA to Launch TRACERS Mission to Study Earth's Magnetic Shield @podaac @nasa @nasa-jpl @uiowa @ucla @ui-libraries @CavRiley @Charlie-Taylor-UIowa @cityoflosangles @stateofcalifornia @bbc" src="https://github.com/user-attachments/assets/2f98094d-bfb3-4146-92e6-d89e13b59219" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IKRwdxtuwas?si=7l5VTVNwzTGVkJkf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+![NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield](https://www.nasa.gov/wp-content/uploads/2025/07/tracers.jpg)
+
+
 <img alt="Congratulations to Michael McCarriagher on his promotion to Assistant Deputy Director (ADD) of the GBIs Division of Forensic Sciences. 
 ADD McCarriagher will be responsible for the oversight of regional laboratories and departments within the Headquarters Crime Lab facility. Crime Lab staff include managers, assistant managers, scientists, laboratory technicians, and trainees.
 I am pleased to announce the promotion of ADD Michael McCarriagher. He is an exceptionally skilled forensic scientist whose leadership will continue to uphold the mission and values of the GBI. His extensive experience and proven dedication make him a tremendous asset to his department, and I am confident he will excel in his new role. - GBI Director Chris Hosey
