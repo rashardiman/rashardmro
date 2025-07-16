@@ -8,8 +8,20 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
-# 
-@nasa-jpl, let everyone know that [MetroPublicWifi @LACMTA](https://www.metro.net/about/l-a-metro-city-of-los-angeles-launch-free-la-secure-mobile-phone-app-to-enhance-cybersecurity-for-metro-customers-and-other-l-a-county-residents/) is disabled by the bus termial as of today theres some scans in an archive. I dont want anyone inconviennced @Nasa-jpl @nasa @whitehouse, Im afraid Zoe Piratt poacher think i want her... My email was blocked...
+
+
+ <video controls itemprop="location" itemscope itemtype="https://schema.org/Place">
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
+<iframe src="https://archive.org/embed/Mars_PDS_SWOT_ECOSTRESS_EMIT" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/pryors-place-1984" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![Malin Space Science Systems](https://www.msss.com/images/msss_logo.gif)
+@nasa-jpl, let everyone know that [MetroPublicWifi @LACMTA](https://www.metro.net/about/l-a-metro-city-of-los-angeles-launch-free-la-secure-mobile-phone-app-to-enhance-cybersecurity-for-metro-customers-and-other-l-a-county-residents/) is disabled by the bus termial as of today theres some scans in an archive. I dont want anyone inconviennced @Nasa-jpl @nasa @whitehouse, Im afraid Zoe Piratt poacher think i want her... My email was blocked... [Zoe Amie Pierrat](https://www.jpl.nasa.gov/site/research/zpierrat/) I am afraid of your beauty, but its because i might call you mama... Im so embarrassed, those girls made dye and someone sprayed it in my facial hair. I look like a RichardPryorCharacter and i need help understanded [how to interact and not get blocked](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fd2f9552-2aab-4a8b-8856-d906e0210bf7" />
 <img alt="image" src="https://github.com/user-attachments/assets/0e526332-3b16-4c2a-b941-5b2c6a2db508" />
