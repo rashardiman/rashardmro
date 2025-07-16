@@ -8,11 +8,13 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
+@LACMTA I was sending you a message bc there is a LaunchMeeting in the morning and I might use the wifi to check in! @nasa-jpl everyone dont hate me u should see my @google analytics @cityoflosangeles @stateofcalifornia please tell [Karen Bass]() Im 
 
+### NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
 
- <video controls itemprop="location" itemscope itemtype="https://schema.org/Place">
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.mp4" type="video/mp4">
+<video controls itemprop="location" itemscope itemtype="https://schema.org/Place">
+<source src="https://ia800905.us.archive.org/23/items/mars-m-r-o-landing-scout-rashard-kelly-hi-ri-se-univeresity-of-ari-zon-nasa-jet-propulsi-on-lab-mro/MARS_M_R_O_landingScout_rashardKelly_HiRiSE_Univeresity_of_ARiZON_NASA_JET_PROPULSiON_LAB_MRO.mp4" type="video/mp4">
+<source src="https://ia600905.us.archive.org/23/items/mars-m-r-o-landing-scout-rashard-kelly-hi-ri-se-univeresity-of-ari-zon-nasa-jet-propulsi-on-lab-mro/MARS_M_R_O_landingScout_rashardKelly_HiRiSE_Univeresity_of_ARiZON_NASA_JET_PROPULSiON_LAB_MRO.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
 
