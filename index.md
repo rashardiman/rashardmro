@@ -8,9 +8,7 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
-@LACMTA I was sending you a message bc there is a LaunchMeeting in the morning and I might use the wifi to check in! @nasa-jpl everyone dont hate me u should see my @google analytics @cityoflosangeles @stateofcalifornia please tell [Karen Bass]() Im 
 
-### NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
 
 <video controls itemprop="location" itemscope itemtype="https://schema.org/Place">
 <source src="https://ia800905.us.archive.org/23/items/mars-m-r-o-landing-scout-rashard-kelly-hi-ri-se-univeresity-of-ari-zon-nasa-jet-propulsi-on-lab-mro/MARS_M_R_O_landingScout_rashardKelly_HiRiSE_Univeresity_of_ARiZON_NASA_JET_PROPULSiON_LAB_MRO.mp4" type="video/mp4">
@@ -23,7 +21,17 @@ Your browser does not support the video tag.
 <iframe src="https://archive.org/embed/pryors-place-1984" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![Malin Space Science Systems](https://www.msss.com/images/msss_logo.gif)
-@nasa-jpl, let everyone know that [MetroPublicWifi @LACMTA](https://www.metro.net/about/l-a-metro-city-of-los-angeles-launch-free-la-secure-mobile-phone-app-to-enhance-cybersecurity-for-metro-customers-and-other-l-a-county-residents/) is disabled by the bus termial as of today theres some scans in an archive. I dont want anyone inconviennced @Nasa-jpl @nasa @whitehouse, Im afraid Zoe Piratt poacher think i want her... My email was blocked... [Zoe Amie Pierrat](https://www.jpl.nasa.gov/site/research/zpierrat/) I am afraid of your beauty, but its because i might call you mama... Im so embarrassed, those girls made dye and someone sprayed it in my facial hair. I look like a RichardPryorCharacter and i need help understanded [how to interact and not get blocked](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I) 
+@nasa-jpl, let everyone know that [MetroPublicWifi @LACMTA](https://www.metro.net/about/l-a-metro-city-of-los-angeles-launch-free-la-secure-mobile-phone-app-to-enhance-cybersecurity-for-metro-customers-and-other-l-a-county-residents/) is disabled by the bus termial as of today theres some scans in an archive. I dont want anyone inconviennced @Nasa-jpl @nasa @whitehouse, Im afraid Zoe Piratt poacher think i want her... My email was blocked... [Zoe Amie Pierrat](https://www.jpl.nasa.gov/site/research/zpierrat/) I am afraid of your beauty, but its because i might call you mama... Im so embarrassed, those girls made dye and someone sprayed it in my facial hair. I look like a RichardPryorCharacter and i need help understanded [how to interact and not get blocked](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)  @LACMTA I was sending you a message bc there is a LaunchMeeting in the morning and I might use the wifi to check in! @nasa-jpl everyone dont hate me u should see my @google analytics @cityoflosangeles @stateofcalifornia please tell [Karen Bass](https://karenbass.com/) Im going to get this meeting on my cell if i Have good connectivity [@blackgirlscode](https://www.youtube.com/live/IKRwdxtuwas?si=Wa8O-Rm0IJ2DvOnB)
+
+### NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
+[News - @Podaac Lauren E. Low](https://www.nasa.gov/news-release/nasa-to-brief-media-on-new-mission-to-study-earths-magnetic-shield/) [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@POTUS__-blue?style=social&logo=X)](https://twitter.com/POTUS)
+![TRACERS](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__384_x_384/public/2024-11/TracersPatch_update_v2.png)
+
+<img alt="The TRACERS mission is a pair of twin satellites that will study how Earth’s magnetic shield — the magnetosphere — protects our planet from the supersonic stream of material from the Sun called solar wind. As they fly pole to pole in a Sun-synchronous orbit, the two TRACERS spacecraft will measure how magnetic explosions send these solar wind particles zooming down into Earth’s atmosphere — and how these explosions shape the space weather that impacts our satellites, technology, and astronauts." src="https://github.com/user-attachments/assets/4024e63a-613b-4aad-a7f4-d8040096351e" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0078db86-ee21-4a77-abda-1d90f595df5a" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fd2f9552-2aab-4a8b-8856-d906e0210bf7" />
 <img alt="image" src="https://github.com/user-attachments/assets/0e526332-3b16-4c2a-b941-5b2c6a2db508" />
