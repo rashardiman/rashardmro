@@ -12,6 +12,9 @@ mermaid: true
 
 <img  alt="image" src="https://github.com/user-attachments/assets/edd41cca-fe52-4c23-8085-259c6a272e1d" />
 
+[ATLAS](https://planetarydata.jpl.nasa.gov/img/data/nsyt/insight_cameras/data/sol/0014/mipl/edr/icc/C000M0014_597774697EJP_F0000_0130M2.JPG)
+
+![insight](https://planetarydata.jpl.nasa.gov/img/data/nsyt/insight_cameras/data/sol/0014/mipl/edr/icc/C000M0014_597774697EJP_F0000_0130M2.JPG)
 
 ## US_FiREMAP:[CLiCKHERE](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-101.3,40.2,4.1z)
 @LACMTA @whitehouse @dhs-gov @atfweb @deptofdefense @boeing @nasa-jpl  @google  @cityoflosangeles @stateofcalifornia please tell [Karen Bass](https://karenbass.com/) [@blackgirlscode](https://www.youtube.com/live/IKRwdxtuwas?si=Wa8O-Rm0IJ2DvOnB)
