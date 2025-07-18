@@ -1,3 +1,16 @@
+## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)
+[Aeolian geology](https://www.uahirise.org/science_themes/aeolian.php) is the study of landforms formed by wind (Aeolus is the wind god in Greek mythology)
+<video controls poster="https://static.uahirise.org/images/2019/details/ESP_057903_1390.jpg" >
+  <source src="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" />
+
+
+  Download the
+
+  or
+  <a href="https://www.uahirise.org/media/clips/ESP_057903_1390_1080.mp4" type="video/mp4" >
+webm</a>
+  video.
+</video>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02XgX419Fqq9nVgcQ91UhmC9H1puQHciU27wrhuNzhSRRcpJUbWZW3FoAQz3XJRuH6l%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
