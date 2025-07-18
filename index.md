@@ -9,12 +9,15 @@ mermaid: true
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
 
+## US_FiREMAP:[CLiCKHERE](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-101.3,40.2,4.1z)
+@LACMTA @whitehouse @dhs-gov @atfweb @deptofdefense @boeing @nasa-jpl  @google  @cityoflosangeles @stateofcalifornia please tell [Karen Bass](https://karenbass.com/) [@blackgirlscode](https://www.youtube.com/live/IKRwdxtuwas?si=Wa8O-Rm0IJ2DvOnB)
+<img  alt="image" src="https://github.com/user-attachments/assets/1a73a3b7-4cf1-4cf4-b850-90a42bf13cc6" />
+<img  alt="FIRMS_24hrs @-100 0,40 0,4 0z" src="https://github.com/user-attachments/assets/3080aa3c-8d1c-4cbc-9148-83b2b98f8f3e" />
 
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/Firefighting/comments/1m2nthb/us_fire_map/">US_FiRE_MAP https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Firefighting/">Firefighting</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 ![Malin Space Science Systems](https://www.msss.com/images/msss_logo.gif)
-
 </h1>7 Facebook and the Dark Web: A Collision</h1>
-
 Chapter Abstract:
 “I2P: Who needs the IETF?”—From jrandom's collected I2P quotations Facebook's Tor hidden service, found at https://facebookcorewwwi.onion, is lightning in a bottle. It is at the intersection of all three legitimacies analyzed in this book: state delegation of rules and regulations to a standards body (in this case, the Internet Engineering Task Force [IETF]); corporate propriety (DigiCert, Facebook); nonprofit propriety (the Tor Project); hacker legitimacy (the [now disgraced] hacker wunderkind Jacob Appelbaum); and Dark Web authenticity (the notoriety of Silk Road). Thus, Facebook on Tor is an association of state-delegated power, respect of resources, and authenticity. It is also a symbol of the blurred lines between the Dark Web and the Clear Web, a collision of legitimation and delegitimation.
 Page(s): 195 - 220
