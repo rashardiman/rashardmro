@@ -9,6 +9,9 @@ mermaid: true
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
 
+i wish i could do more @ISRO
+<img  alt="GIOVANNI-output5sM_wnpf" src="https://github.com/user-attachments/assets/fe233cee-d3f6-4abb-a8b9-5701591da619" />
+
 
 # CALiFORNiA_Linux RASHARD IMAN KELLY NASA JPL [DOXXED](https://archive.org/details/CALiFORNiA_Linux_RASHARD_IMAN_KELLY_M_R_O_NASA_JPL_DOXXED)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <iframe src="https://archive.org/embed/CALiFORNiA_Linux_RASHARD_IMAN_KELLY_M_R_O_NASA_JPL_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
