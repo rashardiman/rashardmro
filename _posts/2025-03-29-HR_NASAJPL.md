@@ -8,6 +8,19 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+
+[@nasa-jpl @cityoflosangles Veronica/Janet/Karen/Laurie](https://rashardmro.tumblr.com/post/789538237412687872/long-beach-20515424688activeyour-current) this is my work log for [thakarashard.github.io](https://thakarashard.github.io/) i have a blank year because i was using the account [ricothaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) to work from 
+@podaac i have the evidence vid that i was working here [ricothaka on x . . .- archive.org](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am)
+
+<img alt="image" src="https://github.com/user-attachments/assets/88c09bfe-0596-4022-9b36-2d0f07424e6d" />
+
+<img  alt="468326575-88c09bfe-0596-4022-9b36-2d0f07424e6d" src="https://github.com/user-attachments/assets/2215733b-c77b-4286-9032-1dced8216834" />
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/789538237412687872" data-did="b646041a66ccd8a110d8b56304b033786d760594"><a href="https://rashardmro.tumblr.com/post/789538237412687872/long-beach-20515424688activeyour-current">https://rashardmro.tumblr.com/post/789538237412687872/long-beach-20515424688activeyour-current</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
