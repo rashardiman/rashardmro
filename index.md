@@ -10,6 +10,11 @@ mermaid: true
 
 
 i wish i could do more @ISRO
+[How to Access SAR Data - Franz Meyer](https://nisar.jpl.nasa.gov/resources/180/how-to-access-sar-data-franz-meyer/)
+
+Time Averaged Map of Volumetric Soil Moisture from 6.9 GHZ daily 10 km [AMSR-2 LPRM_AMSR2_DS_A_SOILM3 v001] %
+over 2025-07-17 00:46:20Z - 2025-07-20 00:27:40Z
+
 <img  alt="GIOVANNI-output5sM_wnpf" src="https://github.com/user-attachments/assets/fe233cee-d3f6-4abb-a8b9-5701591da619" />
 
 
