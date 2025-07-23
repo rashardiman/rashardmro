@@ -38,14 +38,25 @@
   
 
 
-      <section class="floatleft floatright">
+<section class="floatleft floatright">
+
+   <div class="box">
+
+   {% for post in site.posts %}
+             
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+          
+             
+  {% endfor %}
+           
+ </div> 
+        
         {{ content }}
 
 
 
 
-        <p>layout: default
-          title: HoleToAnotherUniVersE</p>
+ <p>layout: default title: HoleToAnotherUniVersE</p>
           
           <div class="swatch" itemscope itemtype="https://schema.org/CreativeWork">
               <div></div>
