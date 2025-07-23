@@ -8,7 +8,18 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
 
+  {% endfor %}
+  
 ### Check out [LROC](https://lroc.im-ldi.com/)
 <img   alt="image" src="https://github.com/user-attachments/assets/6fd05625-bdf7-482f-8ba8-725b0e811da8" />
 
