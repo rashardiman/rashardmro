@@ -29,6 +29,9 @@ These visualizations highlight the spread of the 2025 Palisades and Eaton fires 
   Your browser does not support the video tag.
 </video>
 
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/789706425864716288" data-did="34b2532ae43c6e4a6d57b4dfc8c1506c69e64205"><a href="https://rashardmro.tumblr.com/post/789706425864716288/mapping-files-and-data-download-redistricting">https://rashardmro.tumblr.com/post/789706425864716288/mapping-files-and-data-download-redistricting</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
 The Spread of the Palisades Fire
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227.04200.png">
