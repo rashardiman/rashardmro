@@ -6,8 +6,42 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+Spread of the Palisades and Eaton Fires - January 2025 
+@stateofcalifornia @cityoflosangeles @whitehouse @atfweb @cia @nasa @nasa-jpl
+_Scientific consulting by:_ [Doug C. Morton](https://svs.gsfc.nasa.gov/search/?people=Doug%20C.%20Morton)
+ _Visualizations by:_ [Cindy Starr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr) . . . [fullcredits](https://svs.gsfc.nasa.gov/5558/#section_credits)
+These visualizations highlight the spread of the 2025 Palisades and Eaton fires in California using a fire tracking approach (Chen et al., 2022) and near real-time active fire detections from the VIIRS sensors on the Suomi-NPP and NOAA-20 satellites. Every 12 hours, the fire tracking algorithm uses new active fire detections to update the total fire perimeter and estimate the position of active fire lines—active portions of the perimeter where the fire may continue to spread. [READMORE](https://svs.gsfc.nasa.gov/5558/) 
 
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/LAfiresBeauty_3820x1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
 
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314_1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+The Spread of the Palisades Fire
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227.04200.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227_1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+The Spread of the Eaton Fire
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242.06200.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242_1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+---
+@blackgirlscode
 Sim City 2000
 <iframe src="https://archive.org/embed/psx_simcit2k" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
