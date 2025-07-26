@@ -12,16 +12,6 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
-<div class="box">
-
-  {% for post in site.posts %}
-     
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-  
-     
-  {% endfor %}
-   
-  </div>  
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EhzpT5TMSmaMHYa35aDN147rFpCsT1DBWTjDBCn8YL37mEWQdjY5ARkXB6JxJSVSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -590,6 +580,20 @@ Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a 
 
 [MyLinuxPage]({{ site.url }}{{ site.baseurl }}/linux) an [MyBinder]({{ site.url }}{{ site.baseurl }}/mybinder)
 
+
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+  </div>  
+
+  
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
