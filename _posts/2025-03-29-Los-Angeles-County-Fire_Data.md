@@ -6,6 +6,14 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+[JRE | SUSPICIOUS Apollo 11 Post Flight Press Conference](https://youtu.be/YymcF6gDd28?si=YNRP198kJF8hpy4f) [Apollo 11 Press Conference](https://www.youtube.com/watch?v=BI_ZehPOMwI) [APOLLO 10 MISSION "GREEN LIGHT FOR A LUNAR LANDING" 1969 NASA FILM 42864](https://www.youtube.com/watch?v=CNNsIok9BEo) [1966 MIT TV SHOW "SCIENCE REPORTER" RETURNING FROM THE MOON APOLLO PROGRAM 77454](https://www.youtube.com/watch?v=Nl8t-sUFuVM)
+
+[wiki](https://en.wikipedia.org/wiki/Apollo_program)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Su8ce8TuCwT7VqN5pYmHr62xwkpw7jc6KcvDtbdanK21ZeJ8GY6uXy1YSkwcCBbvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[fb embed](https://developers.facebook.com/docs/plugins/embedded-posts/?prefill_href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Su8ce8TuCwT7VqN5pYmHr62xwkpw7jc6KcvDtbdanK21ZeJ8GY6uXy1YSkwcCBbvl%26id%3D100084464911565#code-generator)
+
 Spread of the Palisades and Eaton Fires - January 2025 
 @stateofcalifornia @cityoflosangeles @whitehouse @atfweb @cia @nasa @nasa-jpl
 _Scientific consulting by:_ [Doug C. Morton](https://svs.gsfc.nasa.gov/search/?people=Doug%20C.%20Morton)
@@ -24,6 +32,9 @@ These visualizations highlight the spread of the 2025 Palisades and Eaton fires 
   Your browser does not support the video tag.
 </video>
 
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/789706425864716288" data-did="34b2532ae43c6e4a6d57b4dfc8c1506c69e64205"><a href="https://rashardmro.tumblr.com/post/789706425864716288/mapping-files-and-data-download-redistricting">https://rashardmro.tumblr.com/post/789706425864716288/mapping-files-and-data-download-redistricting</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
 The Spread of the Palisades Fire
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227.04200.png">
@@ -39,6 +50,11 @@ The Spread of the Eaton Fire
   
   Your browser does not support the video tag.
 </video>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e0f9bd66-7c95-4e50-baee-412c596674d6" />
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02yFbhT8ntXRoxkF61t4BXGV8CFMb4jSg2m9dWeaG9n1UnFrsveshKFDEL1xJpRBo1l%26id%3D100084464911565&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ---
 @blackgirlscode
