@@ -64,6 +64,9 @@ The Spread of the Eaton Fire
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02yFbhT8ntXRoxkF61t4BXGV8CFMb4jSg2m9dWeaG9n1UnFrsveshKFDEL1xJpRBo1l%26id%3D100084464911565&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
+
+
+# OLDTWEET [JAN2025]()
 <img  alt="image" src="https://github.com/user-attachments/assets/e86c84ad-05ce-4761-a47e-7203865acbaf" />
 Due to wildfire evacuations, the Lab is closed, except for emergency personnel. No fire damage has been reported. Follow updates at [http://emergency.jpl.nasa.gov](http://emergency.jpl.nasa.gov) 
 
@@ -74,7 +77,35 @@ Thanks to everyone for the concern for our center, but more importantly, for our
 
 [RelatedTweet](https://x.com/NASAJPL/status/1878544006293979183)
 
+
+# Altadena Community Meeting - June 23, 2025
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJ2f8nb_J5w?si=8cgfiFw40ZIstVzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@datadesk do you work for @nooa or @nasa @nasa-jpl @whitehouse or are you [repackaging](https://www.nasa.gov/nasa-brand-center/brand-guidelines/) the [data](https://www.cia.gov/readingroom/home) im not meddling, i just dont want to talk to strangers irl... -[rashard](https://rashardmro.github.io/mybinder/)
+[datadesk/nasa-wildfires - https://palewi.re/docs/nasa-wildfires/](https://palewi.re/docs/nasa-wildfires/) Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS) [@noaa -wildfires](https://github.com/datadesk/noaa-wildfires) [https://github.com/`your_account_name/yourfork.git ](https://github.com/moonlover404/nasa-wildfires.git) + 
+= [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) <~ your files inside! Thats [MyBinder](https://rashardmro.github.io/mybinder/) [https://mybinder.org/](https://mybinder.org/)
+![image](https://github.com/user-attachments/assets/e5e20877-7f94-443e-b786-6856ae75c4d4)
+![MyBinder](https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b)
+
+
+![ECOSTRESS_LOGO](https://ecostress.jpl.nasa.gov/logo.png)
+ NASA's Jet Propulsion Laboratory manages the [EcoStress](https://x.com/RicoThaka/status/1882206772829766132) mission for the Earth Science Division in the Science MissionDirectorate at NASA Headquarters in Washington
+![ECOSTRESS](https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00134_Wildfire_LA_area.png)
+[JPL Fire Victim interview](https://youtu.be/HrJl3sBOUo4?si=RxPGyj7hfKLXQepA)
+
+[Kenneth Fire](https://x.com/thakasartu/status/1878981359525650928)
+
+![AViRis](https://photojournal.jpl.nasa.gov/jpegMod/PIA11243_modest.jpg)
+
+[Bass fires the L.A. fire chief, but her own smoldering political crisis is far from over @datadesk](https://www.latimes.com/california/story/2025-02-21/bass-fires-the-l-a-fure-chief-but-her-own-smoldering-political-crisis-is-far-from-over) [LA Mayor Karen Bass facing recall effort over handling of Palisades Fire](https://abc7.com/post/los-angeles-mayor-karen-bass-facing-recall-effort-handling-palisades-fire/16011643/)
+
+![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
+California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
+[Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
+
 ---
+
+
 
 [JRE SUSPICIOUS Apollo 11 Post Flight Press Conference](https://youtu.be/YymcF6gDd28?si=YNRP198kJF8hpy4f) [Apollo 11 Press Conference](https://www.youtube.com/watch?v=BI_ZehPOMwI) [APOLLO 10 MISSION "GREEN LIGHT FOR A LUNAR LANDING" 1969 NASA FILM 42864](https://www.youtube.com/watch?v=CNNsIok9BEo) [1966 MIT TV SHOW "SCIENCE REPORTER" RETURNING FROM THE MOON APOLLO PROGRAM 77454](https://www.youtube.com/watch?v=Nl8t-sUFuVM) [LANGLEY Impact Basin (Building 1192)](https://www.nasa.gov/centers-and-facilities/langley/impact-basin-building-1192/)
 
