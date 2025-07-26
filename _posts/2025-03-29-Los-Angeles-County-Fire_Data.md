@@ -69,6 +69,10 @@ Due to wildfire evacuations, the Lab is closed, except for emergency personnel. 
 
 Thanks to everyone for the concern for our center, but more importantly, for our colleagues and neighbors. Stay safe, LA.
 [RelatedTweet](https://x.com/NASAJPL/status/1877088825383460977)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/db4a865f-3a27-4bd5-89e9-0548a554ae2a" />
+
+
 ---
 
 [JRE SUSPICIOUS Apollo 11 Post Flight Press Conference](https://youtu.be/YymcF6gDd28?si=YNRP198kJF8hpy4f) [Apollo 11 Press Conference](https://www.youtube.com/watch?v=BI_ZehPOMwI) [APOLLO 10 MISSION "GREEN LIGHT FOR A LUNAR LANDING" 1969 NASA FILM 42864](https://www.youtube.com/watch?v=CNNsIok9BEo) [1966 MIT TV SHOW "SCIENCE REPORTER" RETURNING FROM THE MOON APOLLO PROGRAM 77454](https://www.youtube.com/watch?v=Nl8t-sUFuVM) [LANGLEY Impact Basin (Building 1192)](https://www.nasa.gov/centers-and-facilities/langley/impact-basin-building-1192/)
