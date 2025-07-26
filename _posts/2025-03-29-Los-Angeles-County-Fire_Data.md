@@ -6,9 +6,16 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
-[JRE SUSPICIOUS Apollo 11 Post Flight Press Conference](https://youtu.be/YymcF6gDd28?si=YNRP198kJF8hpy4f) [Apollo 11 Press Conference](https://www.youtube.com/watch?v=BI_ZehPOMwI) [APOLLO 10 MISSION "GREEN LIGHT FOR A LUNAR LANDING" 1969 NASA FILM 42864](https://www.youtube.com/watch?v=CNNsIok9BEo) [1966 MIT TV SHOW "SCIENCE REPORTER" RETURNING FROM THE MOON APOLLO PROGRAM 77454](https://www.youtube.com/watch?v=Nl8t-sUFuVM) [LANGLEY Impact Basin (Building 1192)](https://www.nasa.gov/centers-and-facilities/langley/impact-basin-building-1192/)
+# EatonCanyon UpDates
+[files](https://archive.org/download/2marvoyagerneptune-simple-scan-station-20250703162827-19) :: [Wiki](https://en.wikipedia.org/wiki/Eaton_Fire) :: [TALK](https://en.wikipedia.org/wiki/Talk:Eaton_Fire)
+[How NASA’s Infrared Imaging Uncovered the True Extent of Eaton Fire Devastation](https://scitechdaily.com/how-nasas-infrared-imaging-uncovered-the-true-extent-of-eaton-fire-devastation/)
 
-[wiki](https://en.wikipedia.org/wiki/Apollo_program)
+<iframe src="https://archive.org/embed/2marvoyagerneptune-simple-scan-station-20250703162827-19" width="400" height="700" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/USGSWATERDASHBOARDDEMO" width="300" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Su8ce8TuCwT7VqN5pYmHr62xwkpw7jc6KcvDtbdanK21ZeJ8GY6uXy1YSkwcCBbvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -56,7 +63,18 @@ The Spread of the Eaton Fire
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02yFbhT8ntXRoxkF61t4BXGV8CFMb4jSg2m9dWeaG9n1UnFrsveshKFDEL1xJpRBo1l%26id%3D100084464911565&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e86c84ad-05ce-4761-a47e-7203865acbaf" />
+Due to wildfire evacuations, the Lab is closed, except for emergency personnel. No fire damage has been reported. Follow updates at [http://emergency.jpl.nasa.gov](http://emergency.jpl.nasa.gov) 
+
+Thanks to everyone for the concern for our center, but more importantly, for our colleagues and neighbors. Stay safe, LA.
+[RelatedTweet](https://x.com/NASAJPL/status/1877088825383460977)
 ---
+
+[JRE SUSPICIOUS Apollo 11 Post Flight Press Conference](https://youtu.be/YymcF6gDd28?si=YNRP198kJF8hpy4f) [Apollo 11 Press Conference](https://www.youtube.com/watch?v=BI_ZehPOMwI) [APOLLO 10 MISSION "GREEN LIGHT FOR A LUNAR LANDING" 1969 NASA FILM 42864](https://www.youtube.com/watch?v=CNNsIok9BEo) [1966 MIT TV SHOW "SCIENCE REPORTER" RETURNING FROM THE MOON APOLLO PROGRAM 77454](https://www.youtube.com/watch?v=Nl8t-sUFuVM) [LANGLEY Impact Basin (Building 1192)](https://www.nasa.gov/centers-and-facilities/langley/impact-basin-building-1192/)
+
+[wiki](https://en.wikipedia.org/wiki/Apollo_program)
+
 @blackgirlscode
 Sim City 2000
 <iframe src="https://archive.org/embed/psx_simcit2k" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
