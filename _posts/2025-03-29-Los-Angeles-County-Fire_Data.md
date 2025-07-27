@@ -9,9 +9,25 @@ image: shocked-i-know-this.gif
 
 ###
 
+[ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
+
+<video  controls poster="https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23695.width-1024.jpg">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
 [Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
 Powerful Santa Ana winds and dry conditions contributed to the rapid spread of several brush fires in the county.
-[ReadMoreSeemORe](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles) [Palisades Fire reaches Brentwood, threatens San Fernando Valley @ktla youtube.com](https://youtu.be/DNkLoBtWFhA)
+[ReadMoreSeemORe](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles) 
+
+[Palisades Fire reaches Brentwood, threatens San Fernando Valley @ktla youtube.com](https://youtu.be/DNkLoBtWFhA)
 
 ![palisadesfire_msi_20250107.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107.jpg)
 
