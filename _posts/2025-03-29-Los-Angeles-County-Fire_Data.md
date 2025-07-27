@@ -6,6 +6,9 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+![Palisades](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
+![Gg4FRxoWMAAZyje](https://github.com/user-attachments/assets/281bcf97-995d-4d21-844b-1ebe7906061a)
+
 # EatonCanyon UpDates
 [files](https://archive.org/download/2marvoyagerneptune-simple-scan-station-20250703162827-19) :: [Wiki](https://en.wikipedia.org/wiki/Eaton_Fire) :: [TALK](https://en.wikipedia.org/wiki/Talk:Eaton_Fire)
 [How NASA’s Infrared Imaging Uncovered the True Extent of Eaton Fire Devastation](https://scitechdaily.com/how-nasas-infrared-imaging-uncovered-the-true-extent-of-eaton-fire-devastation/)
