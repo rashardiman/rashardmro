@@ -6,7 +6,9 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+
 ![Palisades](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
+
 ![Gg4FRxoWMAAZyje](https://github.com/user-attachments/assets/281bcf97-995d-4d21-844b-1ebe7906061a)
 
 # EatonCanyon UpDates
