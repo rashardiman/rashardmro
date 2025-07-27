@@ -17,6 +17,9 @@ Powerful Santa Ana winds and dry conditions contributed to the rapid spread of s
 
 ![Palisades](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A view of the <a href="https://twitter.com/hashtag/EatonFire?src=hash&amp;ref_src=twsrc%5Etfw">#EatonFire</a> behind <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> Flight Projects Center. It feels like Armageddon around here <a href="https://t.co/pPWJ0B2rIB">pic.twitter.com/pPWJ0B2rIB</a></p>&mdash; Royce (@RobRoyce_) <a href="https://twitter.com/RobRoyce_/status/1877443901839069539?ref_src=twsrc%5Etfw">January 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ![Gg4FRxoWMAAZyje](https://github.com/user-attachments/assets/281bcf97-995d-4d21-844b-1ebe7906061a)
 
 # EatonCanyon UpDates
