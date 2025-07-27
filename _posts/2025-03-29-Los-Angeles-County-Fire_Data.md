@@ -6,6 +6,20 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+[Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
+
+![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
+
+On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
+
+@stateofcalifornia @cityoflosangeles
+@nasa @dhs-gov 
+
+![Start Of The Palisades Fire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Palisades_HD.png)
+
+![EatonFire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Eaton_HD.png)
+[RelatedMetaFACEBOOK](https://www.facebook.com/permalink.php?story_fbid=pfbid022AsmhjApmWb1uyuCR4YyMn4UsmUmUb46U3RvtPDFetd6KQCxcBmE5Bk8eT145eBTl&id=100084464911565) 
+
 
 ###
 [Wildfires in Los Angeles, California](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) [Image captured on Jan 8, 2025](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california)
