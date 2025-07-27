@@ -6,6 +6,11 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+[Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
+Powerful Santa Ana winds and dry conditions contributed to the rapid spread of several brush fires in the county.
+[ReadMoreSeemORe](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
+
+![LifeinLosAngeles](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107.jpg)
 
 ![Palisades](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
 
