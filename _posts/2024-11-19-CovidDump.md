@@ -9,6 +9,8 @@ tags: covid
 
 # Covid BrainDumP
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790156204665159680" data-did="b18e107732957cd8fc4a771915ebfa1206cbd338"><a href="https://rashardmro.tumblr.com/post/790156204665159680">https://rashardmro.tumblr.com/post/790156204665159680</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
 ### Severe acute respiratory syndrome coronavirus [Pub_Chem](https://pubchem.ncbi.nlm.nih.gov/patent/US-2006257852-A1)
 `US20060257852A1` [European Publication Server XML:EP 3 172 319 B1](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
 [CHIRON CORP (US)](https://www.linkedin.com/company/chiron-corporation) was an American multinational [biotechnology](https://en.wikipedia.org/wiki/Biotechnology) firm based in [Emeryville, California](https://www.ci.emeryville.ca.us/) that was acquired by [@Novartis International AG](https://www.novartis.com/) on April 20, .. [wiki](https://en.wikipedia.org/wiki/Chiron_Corporation) @cdcgov @nasa-jpl @whitehouse @newshour [EP3172319B1 European Patent Office](https://patents.google.com/patent/EP3172319B1/de) @cityoflosangeles @stateofcalifornia @ucla -[Rashard](https://rashardmro.github.io/) - + - [Trello](https://trello.com/b/CN1UytXe/housekeeping)

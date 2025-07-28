@@ -6,8 +6,158 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+[Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
+
+![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
+
+On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
+
+@stateofcalifornia @cityoflosangeles
+@nasa @dhs-gov 
+
+![Start Of The Palisades Fire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Palisades_HD.png)
+
+![EatonFire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Eaton_HD.png)
+[RelatedMetaFACEBOOK](https://www.facebook.com/permalink.php?story_fbid=pfbid022AsmhjApmWb1uyuCR4YyMn4UsmUmUb46U3RvtPDFetd6KQCxcBmE5Bk8eT145eBTl&id=100084464911565) 
 
 
+###
+[Wildfires in Los Angeles, California](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) [Image captured on Jan 8, 2025](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california)
+[ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
+
+<video  controls poster="https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23695.width-1024.jpg">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+[Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
+Powerful Santa Ana winds and dry conditions contributed to the rapid spread of several brush fires in the county.
+[ReadMoreSeemORe](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles) 
+
+[Palisades Fire reaches Brentwood, threatens San Fernando Valley @ktla youtube.com](https://youtu.be/DNkLoBtWFhA)
+
+![palisadesfire_msi_20250107.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107.jpg)
+
+![Palisades](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A view of the <a href="https://twitter.com/hashtag/EatonFire?src=hash&amp;ref_src=twsrc%5Etfw">#EatonFire</a> behind <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> Flight Projects Center. It feels like Armageddon around here <a href="https://t.co/pPWJ0B2rIB">pic.twitter.com/pPWJ0B2rIB</a></p>&mdash; Royce (@RobRoyce_) <a href="https://twitter.com/RobRoyce_/status/1877443901839069539?ref_src=twsrc%5Etfw">January 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+![Gg4FRxoWMAAZyje](https://github.com/user-attachments/assets/281bcf97-995d-4d21-844b-1ebe7906061a)
+
+# EatonCanyon UpDates
+[files](https://archive.org/download/2marvoyagerneptune-simple-scan-station-20250703162827-19) :: [Wiki](https://en.wikipedia.org/wiki/Eaton_Fire) :: [TALK](https://en.wikipedia.org/wiki/Talk:Eaton_Fire)
+[How NASA’s Infrared Imaging Uncovered the True Extent of Eaton Fire Devastation](https://scitechdaily.com/how-nasas-infrared-imaging-uncovered-the-true-extent-of-eaton-fire-devastation/)
+
+<iframe src="https://archive.org/embed/2marvoyagerneptune-simple-scan-station-20250703162827-19" width="400" height="700" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/USGSWATERDASHBOARDDEMO" width="300" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Su8ce8TuCwT7VqN5pYmHr62xwkpw7jc6KcvDtbdanK21ZeJ8GY6uXy1YSkwcCBbvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[fb embed](https://developers.facebook.com/docs/plugins/embedded-posts/?prefill_href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Su8ce8TuCwT7VqN5pYmHr62xwkpw7jc6KcvDtbdanK21ZeJ8GY6uXy1YSkwcCBbvl%26id%3D100084464911565#code-generator)
+
+Spread of the Palisades and Eaton Fires - January 2025 
+@stateofcalifornia @cityoflosangeles @whitehouse @atfweb @cia @nasa @nasa-jpl
+_Scientific consulting by:_ [Doug C. Morton](https://svs.gsfc.nasa.gov/search/?people=Doug%20C.%20Morton)
+ _Visualizations by:_ [Cindy Starr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr) . . . [fullcredits](https://svs.gsfc.nasa.gov/5558/#section_credits)
+These visualizations highlight the spread of the 2025 Palisades and Eaton fires in California using a fire tracking approach (Chen et al., 2022) and near real-time active fire detections from the VIIRS sensors on the Suomi-NPP and NOAA-20 satellites. Every 12 hours, the fire tracking algorithm uses new active fire detections to update the total fire perimeter and estimate the position of active fire lines—active portions of the perimeter where the fire may continue to spread. [READMORE](https://svs.gsfc.nasa.gov/5558/) 
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/LAfiresBeauty_3820x1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314_1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/789706425864716288" data-did="34b2532ae43c6e4a6d57b4dfc8c1506c69e64205"><a href="https://rashardmro.tumblr.com/post/789706425864716288/mapping-files-and-data-download-redistricting">https://rashardmro.tumblr.com/post/789706425864716288/mapping-files-and-data-download-redistricting</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+The Spread of the Palisades Fire
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227.04200.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227_1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+The Spread of the Eaton Fire
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242.06200.png">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242_1080p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e0f9bd66-7c95-4e50-baee-412c596674d6" />
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02yFbhT8ntXRoxkF61t4BXGV8CFMb4jSg2m9dWeaG9n1UnFrsveshKFDEL1xJpRBo1l%26id%3D100084464911565&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+
+# OLDTWEET [JAN2025]()
+<img  alt="image" src="https://github.com/user-attachments/assets/e86c84ad-05ce-4761-a47e-7203865acbaf" />
+Due to wildfire evacuations, the Lab is closed, except for emergency personnel. No fire damage has been reported. Follow updates at [http://emergency.jpl.nasa.gov](http://emergency.jpl.nasa.gov) 
+
+Thanks to everyone for the concern for our center, but more importantly, for our colleagues and neighbors. Stay safe, LA.
+[RelatedTweet](https://x.com/NASAJPL/status/1877088825383460977)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/db4a865f-3a27-4bd5-89e9-0548a554ae2a" />
+
+[RelatedTweet](https://x.com/NASAJPL/status/1878544006293979183)
+
+
+# Altadena Community Meeting - June 23, 2025
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJ2f8nb_J5w?si=8cgfiFw40ZIstVzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@datadesk do you work for @nooa or @nasa @nasa-jpl @whitehouse or are you [repackaging](https://www.nasa.gov/nasa-brand-center/brand-guidelines/) the [data](https://www.cia.gov/readingroom/home) im not meddling, i just dont want to talk to strangers irl... -[rashard](https://rashardmro.github.io/mybinder/)
+[datadesk/nasa-wildfires - https://palewi.re/docs/nasa-wildfires/](https://palewi.re/docs/nasa-wildfires/) Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS) [@noaa -wildfires](https://github.com/datadesk/noaa-wildfires) [https://github.com/`your_account_name/yourfork.git ](https://github.com/moonlover404/nasa-wildfires.git) + 
+= [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) <~ your files inside! Thats [MyBinder](https://rashardmro.github.io/mybinder/) [https://mybinder.org/](https://mybinder.org/)
+![image](https://github.com/user-attachments/assets/e5e20877-7f94-443e-b786-6856ae75c4d4)
+![MyBinder](https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b)
+
+
+![ECOSTRESS_LOGO](https://ecostress.jpl.nasa.gov/logo.png)
+ NASA's Jet Propulsion Laboratory manages the [EcoStress](https://x.com/RicoThaka/status/1882206772829766132) mission for the Earth Science Division in the Science MissionDirectorate at NASA Headquarters in Washington
+![ECOSTRESS](https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00134_Wildfire_LA_area.png)
+[JPL Fire Victim interview](https://youtu.be/HrJl3sBOUo4?si=RxPGyj7hfKLXQepA)
+
+[Kenneth Fire](https://x.com/thakasartu/status/1878981359525650928)
+
+![AViRis](https://photojournal.jpl.nasa.gov/jpegMod/PIA11243_modest.jpg)
+
+[Bass fires the L.A. fire chief, but her own smoldering political crisis is far from over @datadesk](https://www.latimes.com/california/story/2025-02-21/bass-fires-the-l-a-fure-chief-but-her-own-smoldering-political-crisis-is-far-from-over) [LA Mayor Karen Bass facing recall effort over handling of Palisades Fire](https://abc7.com/post/los-angeles-mayor-karen-bass-facing-recall-effort-handling-palisades-fire/16011643/)
+
+![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
+California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
+[Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
+
+---
+
+
+
+[JRE SUSPICIOUS Apollo 11 Post Flight Press Conference](https://youtu.be/YymcF6gDd28?si=YNRP198kJF8hpy4f) [Apollo 11 Press Conference](https://www.youtube.com/watch?v=BI_ZehPOMwI) [APOLLO 10 MISSION "GREEN LIGHT FOR A LUNAR LANDING" 1969 NASA FILM 42864](https://www.youtube.com/watch?v=CNNsIok9BEo) [1966 MIT TV SHOW "SCIENCE REPORTER" RETURNING FROM THE MOON APOLLO PROGRAM 77454](https://www.youtube.com/watch?v=Nl8t-sUFuVM) [LANGLEY Impact Basin (Building 1192)](https://www.nasa.gov/centers-and-facilities/langley/impact-basin-building-1192/)
+
+[wiki](https://en.wikipedia.org/wiki/Apollo_program)
+
+@blackgirlscode
 Sim City 2000
 <iframe src="https://archive.org/embed/psx_simcit2k" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
