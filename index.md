@@ -22,7 +22,7 @@ mermaid: true
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-
+[Eight Months to Mars](https://youtu.be/_GdBUcwi1LM?t=481)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/11ca6f91-7b5c-4c91-bd67-b4289cfa01e7" />
 
