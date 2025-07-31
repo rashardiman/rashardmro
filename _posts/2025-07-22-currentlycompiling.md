@@ -27,6 +27,13 @@ title: currentlycompiling
 
 [ATLAS -SNOW ](https://pds-imaging.jpl.nasa.gov/beta/archive-explorer?mission=mgs&bundle=mgsc_1576&uri=atlas:pds3:mgs:mars_global_surveyor:/mgsc_1576/s22016/s2201621.imq-) : [imq](https://planetarydata.jpl.nasa.gov/img/data/mgs/moc/mgsc_1576/s22016/s2201621.imq) : [artimis](https://www.nasa.gov/mission/artemis-ii/) [Near Space Network (NSN)](https://esc.gsfc.nasa.gov/projects/NSN) 
 
+[Planet Mars: 1979]
+[National Archives](https://catalog.archives.gov/id/649457) Identifier: [649457](https://youtu.be/dZzY8-nxabA?si=-mZVuAKE9eFwF7nk)
+Local Identifier: NWDNM (m)-255-HQ-283
+This film discusses what had been learned about the planet Mars from Earth-based telescopes, observations from the fly-by Mariner spacecraft, and through the recent Viking landing and orbiter experiments. This film also explains the discoveries and new mysteries relating to the planet most like Earth in our solar system.
+[download](https://s3.amazonaws.com/NARAprodstorage/lz/mopix/255/HQ/255-hq-283.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/f0a743a8-7243-4309-ab11-8aeaa8333f7a" />
+
 
 ### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
 
