@@ -5,12 +5,35 @@ published: true
 title: currentlycompiling
 ---
 
+
+
+<iframe src="https://archive.org/embed/PLAN-PIA07212" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EhzpT5TMSmaMHYa35aDN147rFpCsT1DBWTjDBCn8YL37mEWQdjY5ARkXB6JxJSVSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<div class="tupperware" markdown="1" >
+	
+![f703b22 imq](https://github.com/user-attachments/assets/f67b35a7-1ff7-43ab-9a7e-7e0c80172310)
+
+![f703b71 imq](https://github.com/user-attachments/assets/0c7cc869-7525-465b-afb9-5e952fef5113)
+
+![f703b72 imq](https://github.com/user-attachments/assets/1464400e-aea2-4a4d-be50-d0abaa60ce6f)
+
+![f703b38 imq](https://github.com/user-attachments/assets/2f0557e7-a062-4f48-97ab-98c58d358009)
+
+</div>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02C6dUg1w9wCS5D6c5fpQpDancdBohU75iLsZgkX9nsxnHSwJZo5ed6dSd4v5rUQdSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="539" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[ATLAS -SNOW ](https://pds-imaging.jpl.nasa.gov/beta/archive-explorer?mission=mgs&bundle=mgsc_1576&uri=atlas:pds3:mgs:mars_global_surveyor:/mgsc_1576/s22016/s2201621.imq-) : [imq](https://planetarydata.jpl.nasa.gov/img/data/mgs/moc/mgsc_1576/s22016/s2201621.imq) : [artimis](https://www.nasa.gov/mission/artemis-ii/) [Near Space Network (NSN)](https://esc.gsfc.nasa.gov/projects/NSN) 
+
 [Planet Mars: 1979]
 [National Archives](https://catalog.archives.gov/id/649457) Identifier: [649457](https://youtu.be/dZzY8-nxabA?si=-mZVuAKE9eFwF7nk)
 Local Identifier: NWDNM (m)-255-HQ-283
 This film discusses what had been learned about the planet Mars from Earth-based telescopes, observations from the fly-by Mariner spacecraft, and through the recent Viking landing and orbiter experiments. This film also explains the discoveries and new mysteries relating to the planet most like Earth in our solar system.
 [download](https://s3.amazonaws.com/NARAprodstorage/lz/mopix/255/HQ/255-hq-283.mp4)
 <img  alt="image" src="https://github.com/user-attachments/assets/f0a743a8-7243-4309-ab11-8aeaa8333f7a" />
+
 
 ### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
 
