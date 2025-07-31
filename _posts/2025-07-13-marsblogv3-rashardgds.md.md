@@ -1,7 +1,10 @@
-
-
-
-assets/img/Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
+---
+layout: post
+mermaid: true
+published: true
+title: marsblogv3- @nasa-jpl rashardsResearch
+image: Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
+---
 
 
 ## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)
