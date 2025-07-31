@@ -1,4 +1,9 @@
-
+---
+layout: post
+mermaid: true
+published: true
+title: currentlycompiling
+---
 
 ### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
 
@@ -16,7 +21,9 @@
 ![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
+[Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+ 
 ## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
 [Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
 ## Being Legit on a Dark Web social Network
