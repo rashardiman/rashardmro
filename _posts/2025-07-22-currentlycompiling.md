@@ -5,6 +5,13 @@ published: true
 title: currentlycompiling
 ---
 
+[Planet Mars: 1979]
+[National Archives](https://catalog.archives.gov/id/649457) Identifier: [649457](https://youtu.be/dZzY8-nxabA?si=-mZVuAKE9eFwF7nk)
+Local Identifier: NWDNM (m)-255-HQ-283
+This film discusses what had been learned about the planet Mars from Earth-based telescopes, observations from the fly-by Mariner spacecraft, and through the recent Viking landing and orbiter experiments. This film also explains the discoveries and new mysteries relating to the planet most like Earth in our solar system.
+[download](https://s3.amazonaws.com/NARAprodstorage/lz/mopix/255/HQ/255-hq-283.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/f0a743a8-7243-4309-ab11-8aeaa8333f7a" />
+
 ### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
 
 <iframe src="https://archive.org/embed/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
