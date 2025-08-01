@@ -8,6 +8,16 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+#tesla Diner Revolt & Space Weather 
+[LAunch Contrib @nasa @nasas-jpl @gofireflyio](https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash?source=share) [openscape](https://nasa-openscapes.github.io/)
+[See More on /compiling](https://rashardgds.github.io/compiling/Tesla-Diner-Revolt)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a10cdae8-e415-48a1-9d4f-47f96e643539" />
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/790535110911000576/v2" data-did="c6706043b2c80590bb9bd0bb4baa1b0cdcd59989"  ><a href="https://www.tumblr.com/rashardmro/790535110911000576">https://www.tumblr.com/rashardmro/790535110911000576</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/790535273114140672/v2" data-did="16b3632e483f081998b8fe79481e84f1b2b0340d"  ><a href="https://www.tumblr.com/rashardmro/790535273114140672/nisar-launch">https://www.tumblr.com/rashardmro/790535273114140672/nisar-launch</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
 [NASA's SpaceX Crew-11 launch to space station delayed due to weather](https://www.youtube.com/live/FAtARLT-YrQ) [Cumulus clouds scrub launch of Crew-11 mission to the Space Station](https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/790632997630214146/v2" data-did="f579a43ffe60a3d04eaeee84511ea03880e1e8ba"  ><a href="https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash">https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
