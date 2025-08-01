@@ -5,7 +5,9 @@ mermaid: true
 ---
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
-<img alt="image" src="https://github.com/user-attachments/assets/a2e8e0e9-b8cc-48d2-bd2b-64375afc59f0" />
+
+
+![Mars_Pathfinder](https://burodestruct.net/1997/mars/gfx/snowmars3.gif)
 [The Regulation of Atomic Radiation (Special Version)](https://youtu.be/vE8fMJh8-Tg) [Within this Decade: America in Space - 1969](https://youtu.be/Z-8qS-fdBy4?si=0AS9Zwf8-il9cLxI) [Space for Women (Extended Version)](https://youtu.be/yypaV7IFcQM?si=6nfIedVy_rIQSeC8) [Close Up of the Moon, A Look at Lunar Orbiter, ca. 1966 - ca. 1971](https://youtu.be/wEnRn8OEXW0) [NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://youtu.be/JPAyg7-p9oM?si=VgFrJ48onTX69aCp) [Musical Descent to Titan](https://www.youtube.com/watch?v=P7rVj_XbDnU&ab_channel=NASASolarSystem) [Viking - Remaster NASA Documentary, 1976 - Planet Mars, Space, Search for Life, Mars Landing](https://youtu.be/qiEkuME9O2g) [PLANET MARS (Mariner, Viking) - NASA Documentary (1979)](https://youtu.be/LYGerLj-s5E) [Eric Burdon - The Vision Of Rassan](https://www.youtube.com/watch?v=14iUJFTmWJE&ab_channel=MrKarat68)
 
   {% for post in site.posts %}
@@ -75,6 +77,7 @@ mermaid: true
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">📸 Kandidat za 🌐 fotografiju godine 2️⃣0️⃣2️⃣5️⃣.<a href="https://twitter.com/hashtag/photooftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#photooftheyear</a> <a href="https://twitter.com/hashtag/picoftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#picoftheyear</a> <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> <a href="https://twitter.com/hashtag/California?src=hash&amp;ref_src=twsrc%5Etfw">#California</a> <a href="https://twitter.com/hashtag/USA?src=hash&amp;ref_src=twsrc%5Etfw">#USA</a> <a href="https://twitter.com/hashtag/palisadesfires?src=hash&amp;ref_src=twsrc%5Etfw">#palisadesfires</a> <a href="https://twitter.com/hashtag/LosAngelesFire?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesFire</a> <a href="https://t.co/6TMNyi8RQP">pic.twitter.com/6TMNyi8RQP</a></p>&mdash; Uroš Pribićević 🇷🇸 (@PribicevicU) <a href="https://twitter.com/PribicevicU/status/1878539382887428451?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<img alt="image" src="https://github.com/user-attachments/assets/a2e8e0e9-b8cc-48d2-bd2b-64375afc59f0" />
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2133033627&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/lsear-thursday-7-17-25-oldrap-throwback-jonits" title="L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!" target="_blank" style="color: #cccccc; text-decoration: none;">L.SEAR THURSDAY 7-17-25 OLDRAP - THROWBACK JONITS!</a></div>
 
