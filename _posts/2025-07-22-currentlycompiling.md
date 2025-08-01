@@ -3,8 +3,14 @@ layout: post
 mermaid: true
 published: true
 title: currentlycompiling
+image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
+author: "RashardKelly @nasa-jpl"
 ---
 
+
+[NASA's SpaceX Crew-11 launch to space station delayed due to weather](https://www.youtube.com/live/FAtARLT-YrQ) [Cumulus clouds scrub launch of Crew-11 mission to the Space Station](https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/790632997630214146/v2" data-did="f579a43ffe60a3d04eaeee84511ea03880e1e8ba"  ><a href="https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash">https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 
 <iframe src="https://archive.org/embed/PLAN-PIA07212" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
