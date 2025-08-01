@@ -7,6 +7,9 @@ image: pentagon.jpg
 ---
 
 # [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) Rep_Karen_Bass, 
+the trend in atlanta  was
+
+<img width="626" height="515" alt="image" src="https://github.com/user-attachments/assets/7f66c164-6c83-4fe4-bbd9-57d0e0de1a69" />
 
 [![Twitter Follow](https://img.shields.io/badge/Social-KTLA__-blue?style=social&logo=X)](https://twitter.com/KTLA) covered [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/) Sicne you are in congress and know that a project is paid for before anywork is done... I need your @att side to understand that we are [Ground Systems & Data  Mission swot](https://swot.jpl.nasa.gov/mission/ground-systems-and-data/) [Ground Data Systems and Mission Operations](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/) [Ground Data Systems and Mission Operations](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations/) like sevearl titles on mars. The hardware breaks down and there is a lot to doing mantenance.. have you ever heard our successful repair or [return trip stories](https://www.jpl.nasa.gov/missions/genesis/) like [Osiris-REx](https://svs.gsfc.nasa.gov/gallery/osirisrex/)? @nasa @nasa-jpl @blackgirlscode @whitehouse @cityoflosangeles @stateofcalifornia
 

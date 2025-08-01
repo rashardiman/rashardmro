@@ -1,3 +1,54 @@
+---
+layout: post
+mermaid: true
+published: true
+title: currentlycompiling
+image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
+author: "RashardKelly @nasa-jpl"
+---
+
+
+#tesla Diner Revolt & Space Weather 
+[LAunch Contrib @nasa @nasas-jpl @gofireflyio](https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash?source=share) [openscape](https://nasa-openscapes.github.io/)
+[See More on /compiling](https://rashardgds.github.io/compiling/Tesla-Diner-Revolt)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a10cdae8-e415-48a1-9d4f-47f96e643539" />
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/790535110911000576/v2" data-did="c6706043b2c80590bb9bd0bb4baa1b0cdcd59989"  ><a href="https://www.tumblr.com/rashardmro/790535110911000576">https://www.tumblr.com/rashardmro/790535110911000576</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/790535273114140672/v2" data-did="16b3632e483f081998b8fe79481e84f1b2b0340d"  ><a href="https://www.tumblr.com/rashardmro/790535273114140672/nisar-launch">https://www.tumblr.com/rashardmro/790535273114140672/nisar-launch</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+[NASA's SpaceX Crew-11 launch to space station delayed due to weather](https://www.youtube.com/live/FAtARLT-YrQ) [Cumulus clouds scrub launch of Crew-11 mission to the Space Station](https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/790632997630214146/v2" data-did="f579a43ffe60a3d04eaeee84511ea03880e1e8ba"  ><a href="https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash">https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+
+<iframe src="https://archive.org/embed/PLAN-PIA07212" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EhzpT5TMSmaMHYa35aDN147rFpCsT1DBWTjDBCn8YL37mEWQdjY5ARkXB6JxJSVSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<div class="tupperware" markdown="1" >
+	
+![f703b22 imq](https://github.com/user-attachments/assets/f67b35a7-1ff7-43ab-9a7e-7e0c80172310)
+
+![f703b71 imq](https://github.com/user-attachments/assets/0c7cc869-7525-465b-afb9-5e952fef5113)
+
+![f703b72 imq](https://github.com/user-attachments/assets/1464400e-aea2-4a4d-be50-d0abaa60ce6f)
+
+![f703b38 imq](https://github.com/user-attachments/assets/2f0557e7-a062-4f48-97ab-98c58d358009)
+
+</div>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02C6dUg1w9wCS5D6c5fpQpDancdBohU75iLsZgkX9nsxnHSwJZo5ed6dSd4v5rUQdSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="539" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[ATLAS -SNOW ](https://pds-imaging.jpl.nasa.gov/beta/archive-explorer?mission=mgs&bundle=mgsc_1576&uri=atlas:pds3:mgs:mars_global_surveyor:/mgsc_1576/s22016/s2201621.imq-) : [imq](https://planetarydata.jpl.nasa.gov/img/data/mgs/moc/mgsc_1576/s22016/s2201621.imq) : [artimis](https://www.nasa.gov/mission/artemis-ii/) [Near Space Network (NSN)](https://esc.gsfc.nasa.gov/projects/NSN) 
+
+[Planet Mars: 1979]
+[National Archives](https://catalog.archives.gov/id/649457) Identifier: [649457](https://youtu.be/dZzY8-nxabA?si=-mZVuAKE9eFwF7nk)
+Local Identifier: NWDNM (m)-255-HQ-283
+This film discusses what had been learned about the planet Mars from Earth-based telescopes, observations from the fly-by Mariner spacecraft, and through the recent Viking landing and orbiter experiments. This film also explains the discoveries and new mysteries relating to the planet most like Earth in our solar system.
+[download](https://s3.amazonaws.com/NARAprodstorage/lz/mopix/255/HQ/255-hq-283.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/f0a743a8-7243-4309-ab11-8aeaa8333f7a" />
 
 
 ### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
@@ -16,7 +67,9 @@
 ![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
+[Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+ 
 ## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
 [Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
 ## Being Legit on a Dark Web social Network

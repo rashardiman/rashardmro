@@ -13,7 +13,7 @@
 [Places to Telnet - TELNET.ORG](https://telnet.org/htm/places.htm)
 [TELNETDiR - https://victoria.tc.ca/history/internet/telnet-sites.html - BLOCKED at LAPL](https://victoria.tc.ca/history/internet/telnet-sites.html)
 [What are your favorite Telnet sites (Besides Fozz's) - REDDiT r/retrobattlestations/](https://www.reddit.com/r/retrobattlestations/)
-![RSS](https://pbs.twimg.com/media/GlTYmkga4AIfqyH?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1897379535055937714)
+![RSS](https://pbs.twimg.com/media/GlTYmkga4AIfqyH?format=jpg&name=large) [RelatedTweet](https://x.com/ricothakarashard/status/1897379535055937714)
 [RSS EmbedCode](https://rss.bloople.net/)
 
 
@@ -154,7 +154,7 @@ Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of 
 [Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
 
 <video controls preload="none"   
-  src="https://raw.githubusercontent.com/ricoThaka/ricothakarashard.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
+  src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
   poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
   >
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
@@ -177,8 +177,7 @@ Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of 
 [The Result](ricothakarashard.github.io/playlist)
 
 
-![N](https://pbs.twimg.com/media/GYrNr4caUAEZ-en?format=jpg&name=large)
-[DamnSmallLinux with FLUXBoX](https://x.com/RicoThaka/status/1840510073204085112)
+
 
 ![RayMan](https://pbs.twimg.com/media/F7ZU0jJaoAAOnhp?format=jpg&name=medium)
 ![android wheres my phone](https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium)
