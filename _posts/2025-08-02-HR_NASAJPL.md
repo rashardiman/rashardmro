@@ -9,6 +9,7 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 @newshour [on fb](https://www.facebook.com/permalink.php?story_fbid=pfbid02Mj2X3YrESdYmnHSSHkNUwmLzxTd9bCztmenFWMQFg8he8Z6kzAUQpFSp5AK4aAxel&id=100084464911565)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02r9E2tyfoZFwGahgRTDQBNsYzdWoMkJaWUA3xRQRQszUVR7XfWK2onAvTLhXkEMoUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="535" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aGhCfveaAsNhkJfET6aauXstEDGgGyNxBmF3dQJeKyhnACUNQraGfAVCNFZ564c8l%26id%3D100084464911565&show_text=true&width=500" width="500" height="516" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
