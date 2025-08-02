@@ -1,4 +1,4 @@
-
+traceroute  205.154.246.79
 
 @soundcloud im in [LittleTokeyo](https://www.lapl.org/branches/little-tokyo)
 trying to enjoy [The ChemicalBrothers](https://soundcloud.com/colin-morris-484662120/1995-03-05-essential-mix-the-chemical-brothers?in=earxtacy/sets/chem-bros&utm_source=direct&utm_content=store_button_footer&utm_medium=mobi&utm_campaign=no_campaign) @nasa im trying to funnel commets to update bc i was told that everything is communicating and from my own research on logging and that old pretty blond lady drawing ppl on the train that Im working and not a disruption but this hacking is! [SpaceForce101 @nasa-jpl i dont want more to do but when you guys want things i wna tthem presented like this](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
