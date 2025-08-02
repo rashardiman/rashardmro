@@ -9,7 +9,7 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aGhCfveaAsNhkJfET6aauXstEDGgGyNxBmF3dQJeKyhnACUNQraGfAVCNFZ564c8l%26id%3D100084464911565&show_text=true&width=500" width="500" height="516" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [@nasa-jpl @cityoflosangles Veronica/Janet/Karen/Laurie](https://rashardmro.tumblr.com/post/789538237412687872/long-beach-20515424688activeyour-current) this is my work log for [thakarashard.github.io](https://thakarashard.github.io/) i have a blank year because i was using the account [ricothaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) to work from 
 @podaac i have the evidence vid that i was working here [ricothaka on x . . .- archive.org](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am)
