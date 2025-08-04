@@ -7,6 +7,10 @@ tags:  live news events stories
 image: PIA01594.jpg
 ---
 
+[RE-AIR] TRON Founder Justin Sun Launches to Space With [Blue Origin](https://www.blueorigin.com/)
+[CoinDesk](https://www.youtube.com/@CoinDesk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rxiVyZfgahE?si=1uG_lbzSjKabKxEW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # 🔴 LIVE: Google Cybersecurity Certificate | Google
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phMMVyHWcgw?si=76LphL6G3EpBlsAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 @nasa-jpl #ONLiNELEARNiNG @stateofcalifornia @cityoflosangles
