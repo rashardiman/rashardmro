@@ -8,6 +8,17 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+@nasa-jpl i told the @tesla protesters [im a rescue](https://www.facebook.com/CaptainOfJoy/posts/pfbid0yR3CVVro8d6niFWN6Sfuycxc5HzCsvR2GPRU6edxjLNj5aodLoH97URj7rUxgDil) more coverage on /compiling [raw](https://raw.githubusercontent.com/ThakaRashard/rashardmro/refs/heads/master/_posts/2025-03-31-tesla.md) [html](https://thakarashard.github.io/rashardmro/2025/03/31/tesla.html)
+
+<video  controls >
+  <source src="https://ia802906.us.archive.org/4/items/download_6287_1754168541/VID_20250803_182611.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+<img alt="@nasa-jpl im on, its still helpdesk" src="https://github.com/user-attachments/assets/aa9f59d6-f2bd-46c1-906d-b2d64114c743" />
+
 @newshour [on fb](https://www.facebook.com/permalink.php?story_fbid=pfbid02Mj2X3YrESdYmnHSSHkNUwmLzxTd9bCztmenFWMQFg8he8Z6kzAUQpFSp5AK4aAxel&id=100084464911565)
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02r9E2tyfoZFwGahgRTDQBNsYzdWoMkJaWUA3xRQRQszUVR7XfWK2onAvTLhXkEMoUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="535" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
