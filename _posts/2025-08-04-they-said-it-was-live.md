@@ -8,6 +8,19 @@ image: PIA01594.jpg
 ---
 
 
+# Space Coast Live: 24/7 Views of NASA, SpaceX Falcon 9 Operations, and Starship Pad Construction [NASASpaceflight](https://www.youtube.com/live/Jm8wRjD3xVA?si=W0IjiTZePX4D2GFy)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8wRjD3xVA?si=W0IjiTZePX4D2GFy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @stateofcalifornia @whitehouse 
+
+ # NASA SpaceX Crew 10 Dragon Spacecraft Undocking form Space Station with LIVE view from ISS [Moter World](https://www.youtube.com/@moterworld)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ru2CeGV9G5U?si=V3TIuNSyF_Qu3HqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+ watching now  
+Started streaming 9 hours ago
+On Sunday, March 16 at 12:04 a.m. ET, SpaceX’s Dragon spacecraft autonomously docked with the International Space Station. Approximately 29 hours earlier at 7:03 p.m. ET on Friday, March 14, Falcon 9 launched the spacecraft and Crew-10 to orbit from Launch Complex 39A (LC-39A) at NASA’s Kennedy Space Center in Florida
+
+During their time on the orbiting laboratory, the crew will conduct new research to prepare for human exploration beyond low-Earth orbit and to benefit humanity on Earth.
+@nasa-jpl @nasa @stateofcalifornia we have a west coast splashdown for this return
+
 # 🔴Live - Fresno, California - Supercar Spotting - Police Scanner
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMYlpMsWsBE?si=PE7_u7cdrMlMaPr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
