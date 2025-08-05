@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "They Said iT Was Live"
+mermaid: true
 published: true
-date:   2025-08-04 22:51:06 -0800
 tags:  live news events stories
-image: PIA01594.jpg
+title: They Said iT Was Live
+image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
+author: RashardKelly @nasa-jpl
 ---
 
 
