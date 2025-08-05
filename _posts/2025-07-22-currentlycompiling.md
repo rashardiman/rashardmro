@@ -7,6 +7,26 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0rY41gGEAYA7wyh3EcEyobxKmTM85yFgzRcNqhzQ8BxkgCc6x4ea6a2tVTpZDZamPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="788" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+@nasa last post i put [NASASpaceFlight](https://kellyrashardiman.github.io/compiling/they-said-it-was-live) on 'They Said It Was Live"
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASASpaceflight%2Fposts%2Fpfbid02RvEprbZdSW9jcUfttZLNkVW1tg7Ngx6GJtF9utzLwSWHu5aK4WyvX4owQQZ7zbcpl&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+[bundle @nasa someone is breaking me markdown previews @github](https://solarsystem.nasa.gov/downloads/download_6286_1754075759.zip)
+
+<video width="320" height="240" controls autoplay loop>
+  <source src="https://ia600904.us.archive.org/27/items/compiling-CAssiniRingsClosechangeswithLight/ezgif-31f16762484a49.mp4" type="video/mp4">
+<source src="https://raw.githubusercontent.com/ThakaRashard/rashardmro/refs/heads/master/assets/video/saturnsRings2005.mp4" type="video/mp4">
+  <source src="https://ia800904.us.archive.org/27/items/compiling-CAssiniRingsClosechangeswithLight/ezgif-31f16762484a49.mp4" type="video/mp4">
+
+  Your browser does not support the video tag.
+</video>
+
+
+[The Regulation of Atomic Radiation (Special Version)](https://youtu.be/vE8fMJh8-Tg) [Within this Decade: America in Space - 1969](https://youtu.be/Z-8qS-fdBy4?si=0AS9Zwf8-il9cLxI) [Space for Women (Extended Version)](https://youtu.be/yypaV7IFcQM?si=6nfIedVy_rIQSeC8) [Close Up of the Moon, A Look at Lunar Orbiter, ca. 1966 - ca. 1971](https://youtu.be/wEnRn8OEXW0) [NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://youtu.be/JPAyg7-p9oM?si=VgFrJ48onTX69aCp) [Musical Descent to Titan](https://www.youtube.com/watch?v=P7rVj_XbDnU&ab_channel=NASASolarSystem) [Viking - Remaster NASA Documentary, 1976 - Planet Mars, Space, Search for Life, Mars Landing](https://youtu.be/qiEkuME9O2g) [PLANET MARS (Mariner, Viking) - NASA Documentary (1979)](https://youtu.be/LYGerLj-s5E) [@nasa 's [SpaceX](https://www.facebook.com/photo.php?fbid=724399677052190&set=p.724399677052190&type=3) Crew-11 Launch ([July 31, 2025](https://youtu.be/U-k_LyA1DQQ?t=3198) Attempt) [Eric Burdon - The Vision Of Rassan](https://www.youtube.com/watch?v=14iUJFTmWJE&ab_channel=MrKarat68) @whitehouse @nasa-jpl [fox35orlando launch recap](https://www.fox35orlando.com/news/spacex-crew-11-rocket-launch-updates-august-1-2025?fbclid=IwY2xjawL5z6pleHRuA2FlbQIxMQABHgDn91vZQKNgOK-MhY13Ksc0GM4aC2v9umZ6rph8EV_mrURStGIVGbnXsFja_aem_gL1OUqlwVJZSoxG6uXpBWA) [TeslaDinerRevolt](https://thakarashard.github.io/compiling/Tesla-Diner-Revolt) :: [Earth's Atmosphere Layers](https://svs.gsfc.nasa.gov/20014/) [layers-of-atmosphere @NoAAgov https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere](https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere) [CAssini ciCLops / maps](https://ciclops.org/maps/Cartographic.html)
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bBsvfPZiSkGQBTbx8uiX4Nh2EZXtQZPxJxZWUx1rHQhcjNd9MsV8E5vAhtrPaaNcl%26id%3D100084464911565&show_text=true&width=500" width="500" height="684" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
