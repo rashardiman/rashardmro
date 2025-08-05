@@ -1,7 +1,7 @@
 ---
 title: "POSTEASTERWORKLOG/NASA[JPL]"
 published: true
-image: Sol4518.gif
+image: ZL0_1580_0807204008_098EBY_N0774840ZCAM04190_1100LMJ01_1200.jpg
 layout: post
 mermaid: true
 ---
