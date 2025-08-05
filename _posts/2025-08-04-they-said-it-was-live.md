@@ -7,6 +7,10 @@ tags:  live news events stories
 image: PIA01594.jpg
 ---
 
+
+# 🔴Live - Fresno, California - Supercar Spotting - Police Scanner
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMYlpMsWsBE?si=PE7_u7cdrMlMaPr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Austell, Georgia, USA | LIVE Train Camera | [Virtual Railfan](https://www.youtube.com/@VirtualRailfan)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jadvKc988So?si=nnw1BAzG_3g9yBZi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
