@@ -5,6 +5,10 @@ mermaid: true
 ---
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+[vf](https://www.reddit.com/r/Roms/comments/izaoj0/anyone_have_the_virtua_fighter_1_rom_that_works/)
+
+
   {% for post in site.posts %}
     
 <article class="paginator">
