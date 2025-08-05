@@ -7,6 +7,11 @@ tags:  live news events stories
 image: PIA01594.jpg
 ---
 
+# Austell, Georgia, USA | LIVE Train Camera | [Virtual Railfan](https://www.youtube.com/@VirtualRailfan)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jadvKc988So?si=nnw1BAzG_3g9yBZi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# 🔴LIVE WEBCAMS around the world | August 4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_TEUK4Z-K0?si=3PAWuZ3Y4JGBKbBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Ocean City MD Boardwalk Live Cam | Dolle’s Candyland on Wicomico Street
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuMFKJIpWU4?si=amjQihg198A0u_j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
