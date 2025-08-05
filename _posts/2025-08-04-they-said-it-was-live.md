@@ -7,6 +7,10 @@ tags:  live news events stories
 image: PIA01594.jpg
 ---
 
+
+# Ocean City MD Boardwalk Live Cam | Dolle’s Candyland on Wicomico Street
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PuMFKJIpWU4?si=amjQihg198A0u_j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [RE-AIR] TRON Founder Justin Sun Launches to Space With [Blue Origin](https://www.blueorigin.com/)
 [CoinDesk](https://www.youtube.com/@CoinDesk)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rxiVyZfgahE?si=1uG_lbzSjKabKxEW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
