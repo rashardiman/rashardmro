@@ -6,7 +6,7 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-[vf](https://www.reddit.com/r/Roms/comments/izaoj0/anyone_have_the_virtua_fighter_1_rom_that_works/)
+[vf](https://www.reddit.com/r/Roms/comments/izaoj0/anyone_have_the_virtua_fighter_1_rom_that_works/) [v](https://www.reddit.com/r/MAME/comments/ub3r4j/im_trying_to_get_virtua_racing_working_and_i_have/)
 
 
   {% for post in site.posts %}
