@@ -25,8 +25,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-[virtiserv.github.io](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
+[virtiserv.github.io/astro](https://virtiserv.github.io/2026/06/30/astro.html)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/c139ec0b-9e45-4fcd-ba04-81046ae78130" />
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
