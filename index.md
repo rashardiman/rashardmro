@@ -24,15 +24,17 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-[virtiserv.github.io/astro](https://virtiserv.github.io/2026/06/30/astro.html) + [@nasa-pds @nasa-giss @nasa-jpl @doug-newman-nasa](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4) @whitehouse @fema @nasa @lacountyDPH @la-county-isd
+[virtiserv.github.io/astro](https://virtiserv.github.io/2026/06/30/astro.html) + [Trump Signs Law Establishing U.S. Space Force @nasa-pds @nasa-giss @nasa-jpl @doug-newman-nasa](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4) @whitehouse @fema @nasa @lacountyDPH @la-county-isd @newshour @usatoday [flickr.com/photos/nasacommons](https://www.flickr.com/photos/nasacommons/)
+@nasa-jpl @nasa-pds [@la-county-isd](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [RepKarenBass](https://www.congress.gov/member/karen-bass/B001270) `The International Space Station (ISS) and the Administration’s Proposal to End Direct NASA Funding by 2025 ` CRS Product Number:	IF10828 - [link](https://www.congress.gov/crs-product/IF10828)
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c139ec0b-9e45-4fcd-ba04-81046ae78130" />
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
-[flickr.com/photos/nasacommons](https://www.flickr.com/photos/nasacommons/)
-@nasa-jpl @nasa-pds [@la-county-isd](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [RepKarenBass](https://www.congress.gov/member/karen-bass/B001270) `The International Space Station (ISS) and the Administration’s Proposal to End Direct NASA Funding by 2025 ` CRS Product Number:	IF10828 - [link](https://www.congress.gov/crs-product/IF10828)
+
+
 
 
 <pre>
@@ -66,6 +68,69 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   \\|`'--`'---'`  -.___||/                     --''.___,|/
 
 </pre>
+
+
+# About the United States Space Force
+## Trump Signs Law Establishing U.S. Space Force [`READ`](https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/)
+Dec. 20, 2019 | By [Jim Garamone](https://www.war.gov/News/Author/58550/jim-garamone/) DOD News
+[@blackgirlscode @la-county-isd @cityoflosangeles @nasa @doug-newman-nasa @usnavy https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+[<video controls poster="https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/#pop3892171" src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for SMALL BUSiNESS assistance from @Nasa @nasa-jpl @howard-university-web-services @whitehouse virtiserv latrice United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf) // [@TheSpaceDevs @BLueOrigin loc.gov/search/?in=&q=N.A.S.A.+space+station&new=true](https://www.loc.gov/search/?in=&q=N.A.S.A.+space+station&new=true)
+
+
+[<video controls poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG" src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4)
+[https://images.nasa.gov/](https://images.nasa.gov/)
+<img  alt="image" src="https://github.com/user-attachments/assets/77802916-fb89-4bc6-ae48-cc14efe8f021" />
+
+
+Writing Mathematics for MathJax        
+[@blackgirlscode @nasa-pds](https://github.com/mathjax/MathJax-demos-web)
+github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all browsers. Beautifully documented._ @la-county-isd 
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>x</mi> <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>−</mo>
+        <mi>b</mi>
+        <mo>±</mo>
+        <msqrt>
+          <msup><mi>b</mi><mn>2</mn></msup>
+          <mo>−</mo>
+          <mn>4</mn><mi>a</mi><mi>c</mi>
+        </msqrt>
+      </mrow>
+      <mrow> <mn>2</mn><mi>a</mi> </mrow>
+    </mfrac>
+  </mrow>
+  <mtext>.</mtext>
+</math>
+
+
+
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
+@la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
+![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+# N.A.S.A. space station 
+@TheSpaceDevs @BlackGirlsCode @emit-sds @stateofcalifornia @cityoflosangeles
+Library of Congress Control Number: [2019642104](https://www.loc.gov/item/2019642104/)
+Caption for frame no. 25: Chairman F. [James Sensenbrenner Jr](https://www.congress.gov/member/f-sensenbrenner/S000244)., R-Wis., makes his opening statement before the start of the [House Science Committee](https://science.house.gov/) hearing on the space station. [ScienceDems @whitehouse @stateofcalifornia](https://democrats-science.house.gov/) / [faa.gov/about/history/photo_album/foundation @Federal-Aviation-Administration](https://www.faa.gov/about/history/photo_album/foundation)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/63400/63499v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/63400/63499v.jpg)
 
 [<video controls src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/000%20NASA%20Earth%20data%20assets%20for%20LA%20county%20Supervisor%20Mitchell%20to%20review%20Hilda%20solisdata%20center%20overviewscreen-ViRTiSERV_20260702-101210.mp4" />](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/000%20NASA%20Earth%20data%20assets%20for%20LA%20county%20Supervisor%20Mitchell%20to%20review%20Hilda%20solisdata%20center%20overviewscreen-ViRTiSERV_20260702-101210.mp4)
 
